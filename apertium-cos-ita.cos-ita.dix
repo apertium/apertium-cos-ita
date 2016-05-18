@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet></alphabet>
+
+  <sdefs>
+    <sdef n="n"     c="Sustantivo"/>
+    <sdef n="prn"   c="Pronombre"/>
+    <sdef n="tn"    c="Tónico"/>
+  </sdefs>
+
+   <section id="main" type="standard">
+
+      <!-- SECTION: Conjunciones -->
+
+      <!-- SECTION: Preposiciones -->
+
+      <!-- SECTION: Pronombres -->
+      <e><p><l>altru<s n="prn"/><s n="tn"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
+
+      <!-- SECTION: Determinantes -->
+
+      <!-- SECTION: Numeros -->
+
+      <!-- SECTION: Sustantivos -->
+
+      <!-- SECTION: Nombres propios -->
+
+      <!-- SECTION: Adjetivos -->
+
+      <!-- SECTION: Adverbios -->
+
+      <!-- SECTION: Verbos -->
+
+      <!-- SECTION: Interyecciones -->
+
+      <!-- SECTION: Punctuación -->
+
+   </section>
+</dictionary>
+

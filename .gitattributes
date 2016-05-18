@@ -1,0 +1,19 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-cos-ita.cos-ita.dix -text
+/apertium-cos-ita.cos-ita.lrx -text
+/apertium-cos-ita.cos-ita.t1x -text
+/apertium-cos-ita.cos-ita.t2x -text
+/apertium-cos-ita.cos-ita.t3x -text
+/apertium-cos-ita.ita-cos.lrx -text
+/apertium-cos-ita.ita-cos.t1x -text
+/apertium-cos-ita.ita-cos.t2x -text
+/apertium-cos-ita.ita-cos.t3x -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text
