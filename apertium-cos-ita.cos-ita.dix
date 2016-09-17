@@ -3,9 +3,18 @@
   <alphabet></alphabet>
 
   <sdefs>
-    <sdef n="n"     c="Sustantivo"/>
-    <sdef n="prn"   c="Pronombre"/>
-    <sdef n="tn"    c="Tónico"/>
+    <sdef n="n"       c="Sustantivo"/>
+    <sdef n="prn"     c="Pronombre"/>
+    <sdef n="adj"     c=""/>
+    <sdef n="det"     c=""/>
+    <sdef n="adv"     c=""/>
+    <sdef n="def"     c=""/>
+    <sdef n="m"       c=""/>
+    <sdef n="mf"      c=""/>
+    <sdef n="pr"      c=""/>
+    <sdef n="predet"  c=""/>
+    <sdef n="vbser"   c=""/>
+    <sdef n="tn"      c="Tónico"/>
   </sdefs>
 
    <section id="main" type="standard">
@@ -14,12 +23,24 @@
 
       <!-- SECTION: Preposiciones -->
 
+      <e><p><l>di<s n="pr"/></l><r>di<s n="pr"/></r></p></e>
+      <e><p><l>per<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+      <e><p><l>à<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
+
       <!-- SECTION: Pronombres -->
       <e><p><l>altru<s n="prn"/><s n="tn"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
 
       <!-- SECTION: Determinantes -->
 
+      <e><p><l>tuttu<s n="predet"/></l><r>tutto<s n="predet"/></r></p></e>
+      <e><p><l>u<s n="det"/><s n="def"/></l><r>il<s n="det"/><s n="def"/></r></p></e>
+
       <!-- SECTION: Numeros -->
+
+      <e><p><l>ribelle<s n="n"/><s n="m"/></l><r>ribelle<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>fratellu<s n="n"/><s n="m"/></l><r>fratello<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sangue<s n="n"/><s n="m"/></l><r>sangue<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ghjornu<s n="n"/><s n="m"/></l><r>giorno<s n="n"/><s n="m"/></r></p></e>
 
       <!-- SECTION: Sustantivos -->
 
@@ -27,9 +48,15 @@
 
       <!-- SECTION: Adjetivos -->
 
+      <e><p><l>corsu<s n="adj"/></l><r>corso<s n="adj"/></r></p></e>
+
       <!-- SECTION: Adverbios -->
 
+      <e><p><l>sempri<s n="adv"/></l><r>sempre<s n="adv"/></r></p></e>
+
       <!-- SECTION: Verbos -->
+
+      <e><p><l>esse<s n="vbser"/></l><r>essere<s n="vbser"/></r></p></e>
 
       <!-- SECTION: Interyecciones -->
 
