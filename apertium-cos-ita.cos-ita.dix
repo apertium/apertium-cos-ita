@@ -9,17 +9,35 @@
     <sdef n="det"     c=""/>
     <sdef n="adv"     c=""/>
     <sdef n="def"     c=""/>
+    <sdef n="cnjcoo"  c=""/>
+    <sdef n="ind"     c=""/>
     <sdef n="m"       c=""/>
+    <sdef n="f"       c=""/>
     <sdef n="mf"      c=""/>
     <sdef n="pr"      c=""/>
     <sdef n="predet"  c=""/>
     <sdef n="vbser"   c=""/>
     <sdef n="tn"      c="Tónico"/>
+    <sdef n="ND"      c=""/>
+    <sdef n="GD"      c=""/>
+    <sdef n="sg"      c=""/>
+    <sdef n="pl"      c=""/>
+    <sdef n="sp"      c=""/>
   </sdefs>
+
+   <pardefs>
+     <pardef n="ND_sp">
+       <e r="LR"><p><l><s n="sg"/></l><r><s n="sp"/></r></p></e>
+       <e r="LR"><p><l><s n="pl"/></l><r><s n="sp"/></r></p></e>
+       <e r="RL"><p><l><s n="ND"/></l><r><s n="sp"/></r></p></e>
+     </pardef>
+   </pardefs>
 
    <section id="main" type="standard">
 
       <!-- SECTION: Conjunciones -->
+
+      <e><p><l>è<s n="cnjcoo"/></l><r>e<s n="cnjcoo"/></r></p></e>
 
       <!-- SECTION: Preposiciones -->
 
@@ -34,6 +52,8 @@
 
       <e><p><l>tuttu<s n="predet"/></l><r>tutto<s n="predet"/></r></p></e>
       <e><p><l>u<s n="det"/><s n="def"/></l><r>il<s n="det"/><s n="def"/></r></p></e>
+      <e r="LR"><p><l>u<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></l><r>il<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
+      <e><p><l>un<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/></r></p></e>
 
       <!-- SECTION: Numeros -->
 
@@ -41,6 +61,14 @@
       <e><p><l>fratellu<s n="n"/><s n="m"/></l><r>fratello<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sangue<s n="n"/><s n="m"/></l><r>sangue<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ghjornu<s n="n"/><s n="m"/></l><r>giorno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fronte<s n="n"/><s n="m"/></l><r>fronte<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mossa<s n="n"/><s n="f"/></l><r>battaglia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sperenza<s n="n"/><s n="f"/></l><r>speranza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>riscossa<s n="n"/><s n="f"/></l><r>riscossa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>indipendenza<s n="n"/><s n="f"/></l><r>indipendenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lotta<s n="n"/><s n="f"/></l><r>lotta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>francisata<s n="n"/><s n="f"/></l><r>francesata<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>libertà<s n="n"/><s n="f"/></l><r>libertà<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
 
       <!-- SECTION: Sustantivos -->
 
@@ -53,6 +81,7 @@
       <!-- SECTION: Adverbios -->
 
       <e><p><l>sempri<s n="adv"/></l><r>sempre<s n="adv"/></r></p></e>
+      <e><p><l>troppu<s n="adv"/></l><r>troppo<s n="adv"/></r></p></e>
 
       <!-- SECTION: Verbos -->
 
