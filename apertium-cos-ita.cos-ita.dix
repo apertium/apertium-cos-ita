@@ -288,7 +288,7 @@
       <e><p><l>modu<s n="n"/><s n="m"/></l><r>modo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>basa<s n="n"/><s n="f"/></l><r>basa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>autore<s n="n"/><s n="m"/></l><r>autore<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>animali<s n="n"/><s n="m"/></l><r>animali<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>animali<s n="n"/><s n="m"/></l><r>animale<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>donna<s n="n"/><s n="f"/></l><r>donna<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>babbu<s n="n"/><s n="m"/></l><r>babbo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>arte<s n="n"/><s n="f"/></l><r>arte<s n="n"/><s n="f"/></r></p></e>
@@ -2083,7 +2083,7 @@
       <e><p><l>notevolmente<s n="adv"/></l><r>notevolmente<s n="adv"/></r></p></e>
       
 
-      <e><p><l>a.C.<s n="adv"/></l><r>a.C.<s n="abbr"/></r></p></e>
+      <e><p><l>a.C.<s n="adv"/></l><r>a.C<s n="abbr"/></r></p></e>
 
       <!-- SECTION: Verbos -->
 
