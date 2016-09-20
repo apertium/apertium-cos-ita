@@ -10,6 +10,7 @@
     <sdef n="adv"     c=""/>
     <sdef n="def"     c=""/>
     <sdef n="cnjcoo"  c=""/>
+    <sdef n="cnjsub"  c=""/>
     <sdef n="ind"     c=""/>
     <sdef n="m"       c=""/>
     <sdef n="f"       c=""/>
@@ -17,6 +18,7 @@
     <sdef n="pr"      c=""/>
     <sdef n="predet"  c=""/>
     <sdef n="vbser"   c=""/>
+    <sdef n="vblex"   c=""/>
     <sdef n="tn"      c="Tónico"/>
     <sdef n="ND"      c=""/>
     <sdef n="GD"      c=""/>
@@ -38,6 +40,7 @@
       <!-- SECTION: Conjunciones -->
 
       <e><p><l>è<s n="cnjcoo"/></l><r>e<s n="cnjcoo"/></r></p></e>
+      <e><p><l>chì<s n="cnjsub"/></l><r>che<s n="cnjsub"/></r></p></e>
 
       <!-- SECTION: Preposiciones -->
 
@@ -94,6 +97,8 @@
 
       <!-- SECTION: Adjetivos -->
 
+      <e><p><l>nostru<s n="adj"/></l><r>nostro<s n="adj"/></r></p></e>
+
       <e><p><l>corsu<s n="adj"/></l><r>corso<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbios -->
@@ -104,6 +109,8 @@
       <!-- SECTION: Verbos -->
 
       <e><p><l>esse<s n="vbser"/></l><r>essere<s n="vbser"/></r></p></e>
+      <e><p><l>rinasce<s n="vblex"/></l><r>rinascere<s n="vblex"/></r></p></e>
+      <e><p><l>durà<s n="vblex"/></l><r>durare<s n="vblex"/></r></p></e>
 
       <!-- SECTION: Interyecciones -->
 
