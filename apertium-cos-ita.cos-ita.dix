@@ -109,6 +109,39 @@
       <e><p><l>à<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
       <e><p><l>in<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
 
+      <e><p><l>comu<s n="pr"/></l><r>come<s n="pr"/></r></p></e>
+      <e><p><l>trà<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
+      <e><p><l>frà<s n="pr"/></l><r>fra<s n="pr"/></r></p></e>
+      <e><p><l>finu<s n="pr"/></l><r>fino<s n="pr"/></r></p></e>
+      <e><p><l>pà<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+      <e><p><l>duranti<s n="pr"/></l><r>durante<s n="pr"/></r></p></e>
+      <e><p><l>durente<s n="pr"/></l><r>durante<s n="pr"/></r></p></e>
+      <e><p><l>sottu<s n="pr"/></l><r>sotto<s n="pr"/></r></p></e>
+      <e><p><l>traversu<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
+      <e><p><l>cun<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
+      <e><p><l>sin'à<s n="pr"/></l><r>fino<b/>a<s n="pr"/></r></p></e>
+      <e><p><l>sinu à<s n="pr"/></l><r>fino<b/>a<s n="pr"/></r></p></e>
+      <e><p><l>fin'à<s n="pr"/></l><r>fino<b/>a<s n="pr"/></r></p></e>
+      <e><p><l>contru<s n="pr"/></l><r>contro<s n="pr"/></r></p></e>
+      <e><p><l>indu<s n="pr"/></l><r>dentro<s n="pr"/></r></p></e>
+
+<!--
+      <e><p><l>incù<s n="pr"/></l><r>@incù<s n="pr"/></r></p></e>
+      <e><p><l>annantu<s n="pr"/></l><r>@annantu<s n="pr"/></r></p></e>
+      <e><p><l>prima<s n="pr"/></l><r>@prima<s n="pr"/></r></p></e>
+      <e><p><l>nantu<s n="pr"/></l><r>@nantu<s n="pr"/></r></p></e>
+      <e><p><l>versu<s n="pr"/></l><r>@versu<s n="pr"/></r></p></e>
+      <e><p><l>nant'à<s n="pr"/></l><r>@nant'à<s n="pr"/></r></p></e>
+      <e><p><l>intornu<s n="pr"/></l><r>@intornu<s n="pr"/></r></p></e>
+      <e><p><l>sottu à<s n="pr"/></l><r>@sottu à<s n="pr"/></r></p></e>
+      <e><p><l>fora<s n="pr"/></l><r>@fora<s n="pr"/></r></p></e>
+      <e><p><l>à parta<s n="pr"/></l><r>@à parta<s n="pr"/></r></p></e>
+      <e><p><l>accantu<s n="pr"/></l><r>@accantu<s n="pr"/></r></p></e>
+      <e><p><l>insin'à<s n="pr"/></l><r>@insin'à<s n="pr"/></r></p></e>
+      <e><p><l>daretu<s n="pr"/></l><r>@daretu<s n="pr"/></r></p></e>
+      <e><p><l>nanzu<s n="pr"/></l><r>@nanzu<s n="pr"/></r></p></e>
+-->
+
       <!-- SECTION: Pronombres -->
       <e><p><l>altru<s n="prn"/><s n="tn"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>si<s n="prn"/><s n="pro"/><s n="ref"/></l><r>si<s n="prn"/><s n="pro"/><s n="ref"/></r></p></e>
@@ -137,6 +170,16 @@
       <e><p><l>ogni<s n="det"/><s n="ind"/></l><r>ogni<s n="det"/><s n="ind"/></r></p></e>
       <e><p><l>tale<s n="det"/><s n="dem"/></l><r>tale<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>quellu<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/></r></p></e>
+
+<!--      <e><p><l>parechju<s n="det"/><s n="dem"/></l><r>@parechju<s n="det"/><s n="dem"/></r></p></e> -->
+      <e><p><l>'ssu<s n="det"/><s n="dem"/></l><r>questo<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>quiddu<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>stu<s n="det"/><s n="dem"/></l><r>questo<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>calchì<s n="det"/><s n="ind"/></l><r>qualche<s n="det"/><s n="ind"/></r></p></e>
+      <e><p><l>ssu<s n="det"/><s n="dem"/></l><r>questo<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>quistu<s n="det"/><s n="dem"/></l><r>questo<s n="det"/><s n="dem"/></r></p></e>
+<!--      <e><p><l>uni pochi<s n="det"/><s n="ind"/></l><r>@uni pochi<s n="det"/><s n="ind"/></r></p></e>-->
+
 
       <!-- SECTION: Numeros -->
 
@@ -1988,6 +2031,7 @@
 
       <e><p><l>nostru<s n="adj"/><s n="pos"/></l><r>nostro<s n="adj"/><s n="pos"/></r></p></e>
 
+      <e><p><l>primu<s n="adj"/><s n="ord"/></l><r>primo<s n="adj"/><s n="ord"/></r></p></e>
       <e><p><l>sicundu<s n="adj"/><s n="ord"/></l><r>secondo<s n="adj"/><s n="ord"/></r></p></e>
       <e><p><l>terzu<s n="adj"/><s n="ord"/></l><r>terzo<s n="adj"/><s n="ord"/></r></p></e>
       <e><p><l>quartu<s n="adj"/><s n="ord"/></l><r>quarto<s n="adj"/><s n="ord"/></r></p></e>
@@ -2090,6 +2134,7 @@
       <e><p><l>esse<s n="vbser"/></l><r>essere<s n="vbser"/></r></p></e>
       <e><p><l>avè<s n="vbhaver"/></l><r>avere<s n="vbhaver"/></r></p></e>
       <e><p><l>pudè<s n="vbmod"/></l><r>potere<s n="vbmod"/></r></p></e>
+      <e><p><l>duvè<s n="vbmod"/></l><r>dovere<s n="vbmod"/></r></p></e>
 
       <e><p><l>rinasce<s n="vblex"/></l><r>rinascere<s n="vblex"/></r></p></e>
       <e><p><l>durà<s n="vblex"/></l><r>durare<s n="vblex"/></r></p></e>
@@ -2232,6 +2277,7 @@
       <e><p><l>fissà<s n="vblex"/></l><r>fissare<s n="vblex"/></r></p></e>
       <e><p><l>lancià<s n="vblex"/></l><r>lanciare<s n="vblex"/></r></p></e>
       <e><p><l>utilizzà<s n="vblex"/></l><r>utilizzare<s n="vblex"/></r></p></e>
+      <e><p><l>supportà<s n="vblex"/></l><r>supportare<s n="vblex"/></r></p></e>
       <e><p><l>trascinà<s n="vblex"/></l><r>trascinare<s n="vblex"/></r></p></e>
       <e><p><l>traslitterà<s n="vblex"/></l><r>traslitterare<s n="vblex"/></r></p></e>
 
