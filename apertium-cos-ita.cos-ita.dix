@@ -98,6 +98,7 @@
 
       <e><p><l>di<s n="pr"/></l><r>di<s n="pr"/></r></p></e>
       <e><p><l>da<s n="pr"/></l><r>da<s n="pr"/></r></p></e>
+      <e><p><l>cù<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
       <e><p><l>senza<s n="pr"/></l><r>senza<s n="pr"/></r></p></e>
       <e><p><l>sopra<s n="pr"/></l><r>sopra<s n="pr"/></r></p></e>
       <e><p><l>fin<b/>da<s n="pr"/></l><r>fin<b/>da<s n="pr"/></r></p></e>
@@ -110,6 +111,11 @@
       <e><p><l>si<s n="prn"/><s n="pro"/><s n="ref"/></l><r>si<s n="prn"/><s n="pro"/><s n="ref"/></r></p></e>
       <e><p><l>ci<s n="prn"/><s n="pro"/><s n="adv"/></l><r>ci<s n="prn"/><s n="pro"/><s n="adv"/></r></p></e>
       <e><p><l>ne<s n="prn"/><s n="pro"/><s n="adv"/></l><r>ne<s n="prn"/><s n="pro"/><s n="adv"/></r></p></e>
+
+      <e><p><l>ellu<s n="prn"/><s n="tn"/></l><r>egli<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>quissu<s n="prn"/><s n="tn"/></l><r>questo<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>eiu<s n="prn"/><s n="tn"/></l><r>io<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>tù<s n="prn"/><s n="tn"/></l><r>tu<s n="prn"/><s n="tn"/></r></p></e>
 
       <e><p><l>ci<s n="prn"/><s n="pro"/></l><r>ci<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>ciò<s n="prn"/><s n="tn"/></l><r>ciò<s n="prn"/><s n="tn"/></r></p></e>
@@ -283,7 +289,7 @@
       <e><p><l>valore<s n="n"/><s n="m"/></l><r>valore<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nave<s n="n"/><s n="f"/></l><r>nave<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>antichità<s n="n"/><s n="f"/></l><r>antichità<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
-      <e><p><l>terminu<s n="n"/><s n="m"/></l><r>termino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>terminu<s n="n"/><s n="m"/></l><r>termine<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>nascita<s n="n"/><s n="f"/></l><r>nascita<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>nazione<s n="n"/><s n="f"/></l><r>nazione<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>manu<s n="n"/><s n="m"/></l><r>mano<s n="n"/><s n="m"/></r></p></e>
@@ -593,6 +599,52 @@
       <e><p><l>balia<s n="n"/><s n="f"/></l><r>balia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>avvicinamentu<s n="n"/><s n="m"/></l><r>avvicinamento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>appellu<s n="n"/><s n="m"/></l><r>appello<s n="n"/><s n="m"/></r></p></e>
+
+      <e><p><l>populazione<s n="n"/><s n="f"/></l><r>popolazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>custellazione<s n="n"/><s n="f"/></l><r>costellazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>custruzzione<s n="n"/><s n="f"/></l><r>costruzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pusizione<s n="n"/><s n="f"/></l><r>posizione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>azzione<s n="n"/><s n="f"/></l><r>azione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fundazione<s n="n"/><s n="f"/></l><r>fondazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>produzzione<s n="n"/><s n="f"/></l><r>produzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>discrizzione<s n="n"/><s n="f"/></l><r>descrizione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>furmazione<s n="n"/><s n="f"/></l><r>formazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pruduzzione<s n="n"/><s n="f"/></l><r>produzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cundizione<s n="n"/><s n="f"/></l><r>condizione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cumpusizione<s n="n"/><s n="f"/></l><r>composizione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prutezzione<s n="n"/><s n="f"/></l><r>protezione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>descrizzione<s n="n"/><s n="f"/></l><r>descrizione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prutizzione<s n="n"/><s n="f"/></l><r>protezione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cumunicazione<s n="n"/><s n="f"/></l><r>comunicazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>direzzione<s n="n"/><s n="f"/></l><r>direzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>organisazione<s n="n"/><s n="f"/></l><r>organizazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>elezzione<s n="n"/><s n="f"/></l><r>elezione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cunvinzione<s n="n"/><s n="f"/></l><r>convenzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rivuluzione<s n="n"/><s n="f"/></l><r>rivoluzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>evuluzione<s n="n"/><s n="f"/></l><r>evoluzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>emuzione<s n="n"/><s n="f"/></l><r>emozione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>duminazione<s n="n"/><s n="f"/></l><r>dominazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>urganisazione<s n="n"/><s n="f"/></l><r>organizazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>civilisazione<s n="n"/><s n="f"/></l><r>civilizzazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>infurmazione<s n="n"/><s n="f"/></l><r>informazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>trasfurmazione<s n="n"/><s n="f"/></l><r>trasformazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>intruduzione<s n="n"/><s n="f"/></l><r>introduzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cumpetizione<s n="n"/><s n="f"/></l><r>competizione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>oppusizione<s n="n"/><s n="f"/></l><r>opposizione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cunsirvazione<s n="n"/><s n="f"/></l><r>conservazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ussirvazione<s n="n"/><s n="f"/></l><r>osservazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cultivazione<s n="n"/><s n="f"/></l><r>coltivazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pricipitazione<s n="n"/><s n="f"/></l><r>precipitazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>accupazione<s n="n"/><s n="f"/></l><r>occupazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rutazione<s n="n"/><s n="f"/></l><r>rotazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>intinzione<s n="n"/><s n="f"/></l><r>intenzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>traduzzione<s n="n"/><s n="f"/></l><r>traduzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>uparazione<s n="n"/><s n="f"/></l><r>operazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuncintrazione<s n="n"/><s n="f"/></l><r>concentrazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>evapurazione<s n="n"/><s n="f"/></l><r>evaporazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>suluzione<s n="n"/><s n="f"/></l><r>soluzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nigazione<s n="n"/><s n="f"/></l><r>negazione<s n="n"/><s n="f"/></r></p></e>
+
       
       <e><p><l>m<s n="n"/><s n="acr"/><s n="m"/></l><r>m<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
       <e><p><l>km<s n="n"/><s n="acr"/><s n="m"/></l><r>km<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
