@@ -100,6 +100,7 @@
       <e><p><l>chì<s n="cnjsub"/></l><r>che<s n="cnjsub"/></r></p></e>
 
       <e><p><l>sicondu<s n="cnjadv"/></l><r>secondo<s n="cnjadv"/></r></p></e>
+      <e><p><l>sì<s n="cnjadv"/></l><r>se<s n="cnjadv"/></r></p></e>
 
       <!-- SECTION: Preposiciones -->
 
@@ -111,6 +112,7 @@
       <e><p><l>pè<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
       <e><p><l>senza<s n="pr"/></l><r>senza<s n="pr"/></r></p></e>
       <e><p><l>sopra<s n="pr"/></l><r>sopra<s n="pr"/></r></p></e>
+      <e><p><l>nant'à<s n="pr"/></l><r>sopra<s n="pr"/></r></p></e>
       <e><p><l>fin<b/>da<s n="pr"/></l><r>fin<b/>da<s n="pr"/></r></p></e>
       <e><p><l>per<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
       <e><p><l>à<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
@@ -172,6 +174,7 @@
       <e><p><l>mi<s n="prn"/><s n="pro"/></l><r>mi<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>cosa<s n="prn"/><s n="itg"/></l><r>cosa<s n="prn"/><s n="itg"/></r></p></e>
 
+      <e><p><l>nunda<s n="prn"/><s n="tn"/></l><r>niente<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>altru<s n="prn"/><s n="tn"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
 
       <!-- SECTION: Determinantes -->
@@ -2401,6 +2404,7 @@
       <!-- SECTION: Adjetivos -->
 
       <e><p><l>nostru<s n="adj"/><s n="pos"/></l><r>nostro<s n="adj"/><s n="pos"/></r></p></e>
+      <e><p><l>vostru<s n="adj"/><s n="pos"/></l><r>vostro<s n="adj"/><s n="pos"/></r></p></e>
 
       <e><p><l>primu<s n="adj"/><s n="ord"/></l><r>primo<s n="adj"/><s n="ord"/></r></p></e>
       <e><p><l>sicundu<s n="adj"/><s n="ord"/></l><r>secondo<s n="adj"/><s n="ord"/></r></p></e>
@@ -2416,6 +2420,7 @@
       <e><p><l>modernu<s n="adj"/></l><r>moderno<s n="adj"/></r></p></e>
       <e><p><l>epicu<s n="adj"/></l><r>epico<s n="adj"/></r></p></e>
       <e><p><l>anzianu<s n="adj"/></l><r>anziano<s n="adj"/></r></p></e>
+      <e><p><l>ecunomicu<s n="adj"/></l><r>economico<s n="adj"/></r></p></e>
 
       <e><p><l>inglese<s n="adj"/><s n="mf"/></l><r>inglese<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -2427,6 +2432,7 @@
       <e><p><l>ufficiale<s n="adj"/><s n="mf"/></l><r>ufficiale<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>naturale<s n="adj"/><s n="mf"/></l><r>naturale<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>attuale<s n="adj"/><s n="mf"/></l><r>attuale<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>visuale<s n="adj"/><s n="mf"/></l><r>visuale<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>minore<s n="adj"/><s n="mf"/></l><r>minore<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>federale<s n="adj"/><s n="mf"/></l><r>federale<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>civile<s n="adj"/><s n="mf"/></l><r>civile<s n="adj"/><s n="mf"/></r></p></e>
@@ -2450,6 +2456,8 @@
       <e><p><l>ùn<s n="adv"/></l><r>non<s n="adv"/></r></p></e>
 
       <e><p><l>sempri<s n="adv"/></l><r>sempre<s n="adv"/></r></p></e>
+      <e><p><l>quà<s n="adv"/></l><r>qua<s n="adv"/></r></p></e>
+      <e><p><l>quì<s n="adv"/></l><r>qui<s n="adv"/></r></p></e>
       <e><p><l>troppu<s n="adv"/></l><r>troppo<s n="adv"/></r></p></e>
 
       <e><p><l>cusì<s n="adv"/></l><r>così<s n="adv"/></r></p></e>
@@ -2654,13 +2662,16 @@
       <e><p><l>elevà<s n="vblex"/></l><r>elevare<s n="vblex"/></r></p></e>
       <e><p><l>avanzà<s n="vblex"/></l><r>avanzare<s n="vblex"/></r></p></e>
       <e><p><l>avvicinà<s n="vblex"/></l><r>avvicinare<s n="vblex"/></r></p></e>
+      <e><p><l>pagà<s n="vblex"/></l><r>pagare<s n="vblex"/></r></p></e>
       <e><p><l>catturà<s n="vblex"/></l><r>catturare<s n="vblex"/></r></p></e>
       <e><p><l>fissà<s n="vblex"/></l><r>fissare<s n="vblex"/></r></p></e>
       <e><p><l>lancià<s n="vblex"/></l><r>lanciare<s n="vblex"/></r></p></e>
       <e><p><l>utilizzà<s n="vblex"/></l><r>utilizzare<s n="vblex"/></r></p></e>
+      <e><p><l>arruvinà<s n="vblex"/></l><r>rovinare<s n="vblex"/></r></p></e>
       <e><p><l>supportà<s n="vblex"/></l><r>supportare<s n="vblex"/></r></p></e>
       <e><p><l>trascinà<s n="vblex"/></l><r>trascinare<s n="vblex"/></r></p></e>
       <e><p><l>traslitterà<s n="vblex"/></l><r>traslitterare<s n="vblex"/></r></p></e>
+      <e><p><l>interrugà<s n="vblex"/></l><r>interrogare<s n="vblex"/></r></p></e>
 
       
       <e><p><l>priferisce<s n="vblex"/></l><r>preferire<s n="vblex"/></r></p></e>
