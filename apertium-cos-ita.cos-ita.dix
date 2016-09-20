@@ -2447,6 +2447,8 @@
 
       <e><p><l>induva<s n="rel"/><s n="adv"/></l><r>dove<s n="rel"/><s n="adv"/></r></p></e>
 
+      <e><p><l>ùn<s n="adv"/></l><r>non<s n="adv"/></r></p></e>
+
       <e><p><l>sempri<s n="adv"/></l><r>sempre<s n="adv"/></r></p></e>
       <e><p><l>troppu<s n="adv"/></l><r>troppo<s n="adv"/></r></p></e>
 
@@ -2638,6 +2640,7 @@
       <e><p><l>situà<s n="vblex"/></l><r>situare<s n="vblex"/></r></p></e>
       <e><p><l>consacrà<s n="vblex"/></l><r>consacrare<s n="vblex"/></r></p></e>
       <e><p><l>implicà<s n="vblex"/></l><r>implicare<s n="vblex"/></r></p></e>
+      <e><p><l>cumplicà<s n="vblex"/></l><r>complicare<s n="vblex"/></r></p></e>
 
       <e><p><l>accade<s n="vblex"/></l><r>accade<s n="vblex"/></r></p></e>
       <e><p><l>scambià<s n="vblex"/></l><r>scambiare<s n="vblex"/></r></p></e>
@@ -2676,6 +2679,7 @@
       <e><re>[\)\]]</re><p><l><s n="rpar"/></l>       <r><s n="rpar"/></r></p></e>
       <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
       <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
+      <e><p><l>–<s n="guio"/></l><r>–<s n="guio"/></r></p></e>
       <e><p><l>'<s n="apos"/></l><r>'<s n="apos"/></r></p></e>
       <e><p><l>’<s n="apos"/></l><r>’<s n="apos"/></r></p></e>
       <e><p><l>‘<s n="apos"/></l><r>‘<s n="apos"/></r></p></e>
