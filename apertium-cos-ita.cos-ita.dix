@@ -90,6 +90,7 @@
       <e><p><l>è<s n="cnjcoo"/></l><r>e<s n="cnjcoo"/></r></p></e>
       <e><p><l>ma<s n="cnjcoo"/></l><r>ma<s n="cnjcoo"/></r></p></e>
       <e><p><l>però<s n="cnjcoo"/></l><r>però<s n="cnjcoo"/></r></p></e>
+      <e><p><l>o<s n="cnjcoo"/></l><r>o<s n="cnjcoo"/></r></p></e>
       <e><p><l>chì<s n="cnjsub"/></l><r>che<s n="cnjsub"/></r></p></e>
 
       <e><p><l>sicondu<s n="cnjadv"/></l><r>secondo<s n="cnjadv"/></r></p></e>
@@ -99,6 +100,8 @@
       <e><p><l>di<s n="pr"/></l><r>di<s n="pr"/></r></p></e>
       <e><p><l>da<s n="pr"/></l><r>da<s n="pr"/></r></p></e>
       <e><p><l>cù<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
+      <e><p><l>dopu<s n="pr"/></l><r>dopo<s n="pr"/></r></p></e>
+      <e><p><l>pè<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
       <e><p><l>senza<s n="pr"/></l><r>senza<s n="pr"/></r></p></e>
       <e><p><l>sopra<s n="pr"/></l><r>sopra<s n="pr"/></r></p></e>
       <e><p><l>fin<b/>da<s n="pr"/></l><r>fin<b/>da<s n="pr"/></r></p></e>
@@ -133,9 +136,40 @@
       <e r="LR"><p><l>un<s n="det"/><s n="ind"/><s n="mf"/></l><r>un<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
       <e><p><l>ogni<s n="det"/><s n="ind"/></l><r>ogni<s n="det"/><s n="ind"/></r></p></e>
       <e><p><l>tale<s n="det"/><s n="dem"/></l><r>tale<s n="det"/><s n="dem"/></r></p></e>
+      <e><p><l>quellu<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/></r></p></e>
 
       <!-- SECTION: Numeros -->
 
+      <e><p><l>C<s n="num"/></l><r>C<s n="num"/></r></p></e>
+      <e><p><l>D<s n="num"/></l><r>D<s n="num"/></r></p></e>
+      <e><p><l>I<s n="num"/></l><r>I<s n="num"/></r></p></e>
+      <e><p><l>II<s n="num"/></l><r>II<s n="num"/></r></p></e>
+      <e><p><l>III<s n="num"/></l><r>III<s n="num"/></r></p></e>
+      <e><p><l>IV<s n="num"/></l><r>IV<s n="num"/></r></p></e>
+      <e><p><l>IX<s n="num"/></l><r>IX<s n="num"/></r></p></e>
+      <e><p><l>L<s n="num"/></l><r>L<s n="num"/></r></p></e>
+      <e><p><l>M<s n="num"/></l><r>M<s n="num"/></r></p></e>
+      <e><p><l>V<s n="num"/></l><r>V<s n="num"/></r></p></e>
+      <e><p><l>VI<s n="num"/></l><r>VI<s n="num"/></r></p></e>
+      <e><p><l>VII<s n="num"/></l><r>VII<s n="num"/></r></p></e>
+      <e><p><l>VIII<s n="num"/></l><r>VIII<s n="num"/></r></p></e>
+      <e><p><l>X<s n="num"/></l><r>X<s n="num"/></r></p></e>
+      <e><p><l>XI<s n="num"/></l><r>XI<s n="num"/></r></p></e>
+      <e><p><l>XII<s n="num"/></l><r>XII<s n="num"/></r></p></e>
+      <e><p><l>XIII<s n="num"/></l><r>XIII<s n="num"/></r></p></e>
+      <e><p><l>XIV<s n="num"/></l><r>XIV<s n="num"/></r></p></e>
+      <e><p><l>XIX<s n="num"/></l><r>XIX<s n="num"/></r></p></e>
+      <e><p><l>XV<s n="num"/></l><r>XV<s n="num"/></r></p></e>
+      <e><p><l>XVI<s n="num"/></l><r>XVI<s n="num"/></r></p></e>
+      <e><p><l>XVII<s n="num"/></l><r>XVII<s n="num"/></r></p></e>
+      <e><p><l>XVIII<s n="num"/></l><r>XVIII<s n="num"/></r></p></e>
+      <e><p><l>XX<s n="num"/></l><r>XX<s n="num"/></r></p></e>
+      <e><p><l>XXI<s n="num"/></l><r>XXI<s n="num"/></r></p></e>
+      <e><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+
+      <!-- SECTION: Sustantivos -->
+
+      <e><p><l>aceddu<s n="n"/><s n="m"/></l><r>uccello<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ribelle<s n="n"/><s n="m"/></l><r>ribelle<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>fratellu<s n="n"/><s n="m"/></l><r>fratello<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sangue<s n="n"/><s n="m"/></l><r>sangue<s n="n"/><s n="m"/></r></p></e>
@@ -275,7 +309,7 @@
       <e><p><l>libru<s n="n"/><s n="m"/></l><r>libro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>causa<s n="n"/><s n="f"/></l><r>causa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>testu<s n="n"/><s n="m"/></l><r>testo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>sistemu<s n="n"/><s n="m"/></l><r>sistemo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sistemu<s n="n"/><s n="m"/></l><r>sistema<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>golfu<s n="n"/><s n="m"/></l><r>golfo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>vista<s n="n"/><s n="f"/></l><r>vista<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>regnu<s n="n"/><s n="m"/></l><r>regno<s n="n"/><s n="m"/></r></p></e>
@@ -655,7 +689,6 @@
       <e><p><l>mg<s n="n"/><s n="acr"/><s n="m"/></l><r>mg<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 
 
-      <!-- SECTION: Sustantivos -->
 
       <!-- SECTION: Nombres propios -->
 
@@ -1624,13 +1657,18 @@
 
       <!-- SECTION: Adjetivos -->
 
-      <e><p><l>nostru<s n="adj"/></l><r>nostro<s n="adj"/></r></p></e>
+      <e><p><l>nostru<s n="adj"/><s n="pos"/></l><r>nostro<s n="adj"/><s n="pos"/></r></p></e>
+
+      <e><p><l>sicundu<s n="adj"/><s n="ord"/></l><r>secondo<s n="adj"/><s n="ord"/></r></p></e>
+      <e><p><l>terzu<s n="adj"/><s n="ord"/></l><r>terzo<s n="adj"/><s n="ord"/></r></p></e>
+      <e><p><l>quartu<s n="adj"/><s n="ord"/></l><r>quarto<s n="adj"/><s n="ord"/></r></p></e>
 
       <e><p><l>corsu<s n="adj"/></l><r>corso<s n="adj"/></r></p></e>
       <e><p><l>grecu<s n="adj"/></l><r>greco<s n="adj"/></r></p></e>
       <e><p><l>talianu<s n="adj"/></l><r>italiano<s n="adj"/></r></p></e>
 
       <e><p><l>modernu<s n="adj"/></l><r>moderno<s n="adj"/></r></p></e>
+      <e><p><l>epicu<s n="adj"/></l><r>epico<s n="adj"/></r></p></e>
 
       <e><p><l>grande<s n="adj"/><s n="mf"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>principale<s n="adj"/><s n="mf"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
@@ -1654,6 +1692,9 @@
       <e><p><l>danese<s n="adj"/><s n="mf"/></l><r>danese<s n="adj"/><s n="mf"/></r></p></e>
       
       <!-- SECTION: Adverbios -->
+
+      <e><p><l>quandu<s n="adv"/><s n="itg"/></l><r>quando<s n="adv"/><s n="itg"/></r></p></e>
+      <e><p><l>quandu<s n="adv"/><s n="rel"/></l><r>quando<s n="adv"/><s n="rel"/></r></p></e>
 
       <e><p><l>sempri<s n="adv"/></l><r>sempre<s n="adv"/></r></p></e>
       <e><p><l>troppu<s n="adv"/></l><r>troppo<s n="adv"/></r></p></e>
@@ -1735,6 +1776,7 @@
       <e><p><l>prisentà<s n="vblex"/></l><r>presentare<s n="vblex"/></r></p></e>
       <e><p><l>usà<s n="vblex"/></l><r>usare<s n="vblex"/></r></p></e>
       <e><p><l>tene<s n="vblex"/></l><r>tenere<s n="vblex"/></r></p></e>
+      <e><p><l>ottene<s n="vblex"/></l><r>ottenere<s n="vblex"/></r></p></e>
       <e><p><l>chjamà<s n="vblex"/></l><r>chiamare<s n="vblex"/></r></p></e>
       <e><p><l>nasce<s n="vblex"/></l><r>nascere<s n="vblex"/></r></p></e>
       <e><p><l>cantà<s n="vblex"/></l><r>cantare<s n="vblex"/></r></p></e>
