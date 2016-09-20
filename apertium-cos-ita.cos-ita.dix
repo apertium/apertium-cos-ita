@@ -502,7 +502,7 @@
       <e><p><l>celebrazione<s n="n"/><s n="f"/></l><r>celebrazione<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>territori<s n="n"/><s n="m"/></l><r>territori<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>senu<s n="n"/><s n="m"/></l><r>seno<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>oggettu<s n="n"/><s n="m"/></l><r>oggetto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ughjettu<s n="n"/><s n="m"/></l><r>oggetto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>guerrieru<s n="n"/><s n="m"/></l><r>guerriero<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>fiancu<s n="n"/><s n="m"/></l><r>fianco<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>vallu<s n="n"/><s n="m"/></l><r>vallo<s n="n"/><s n="m"/></r></p></e>
@@ -1628,6 +1628,9 @@
 
       <e><p><l>corsu<s n="adj"/></l><r>corso<s n="adj"/></r></p></e>
       <e><p><l>grecu<s n="adj"/></l><r>greco<s n="adj"/></r></p></e>
+      <e><p><l>talianu<s n="adj"/></l><r>italiano<s n="adj"/></r></p></e>
+
+      <e><p><l>modernu<s n="adj"/></l><r>moderno<s n="adj"/></r></p></e>
 
       <e><p><l>grande<s n="adj"/><s n="mf"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>principale<s n="adj"/><s n="mf"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
@@ -1655,6 +1658,7 @@
       <e><p><l>sempri<s n="adv"/></l><r>sempre<s n="adv"/></r></p></e>
       <e><p><l>troppu<s n="adv"/></l><r>troppo<s n="adv"/></r></p></e>
 
+      <e><p><l>cusì<s n="adv"/></l><r>così<s n="adv"/></r></p></e>
       <e><p><l>più<s n="adv"/></l><r>più<s n="adv"/></r></p></e>
       <e><p><l>circa<s n="adv"/></l><r>circa<s n="adv"/></r></p></e>
       <e><p><l>solu<s n="adv"/></l><r>solo<s n="adv"/></r></p></e>
@@ -1821,7 +1825,6 @@
       <e><p><l>arristà<s n="vblex"/></l><r>arrestare<s n="vblex"/></r></p></e>
       <e><p><l>piace<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e>
       <e><p><l>assassinà<s n="vblex"/></l><r>assassinare<s n="vblex"/></r></p></e>
-      <e><p><l>utilizà<s n="vblex"/></l><r>utilizare<s n="vblex"/></r></p></e>
       <e><p><l>enuncià<s n="vblex"/></l><r>enunciare<s n="vblex"/></r></p></e>
       <e><p><l>furtificà<s n="vblex"/></l><r>fortificare<s n="vblex"/></r></p></e>
       <e><p><l>sparà<s n="vblex"/></l><r>sparare<s n="vblex"/></r></p></e>
@@ -1830,7 +1833,7 @@
       <e><p><l>determinà<s n="vblex"/></l><r>determinare<s n="vblex"/></r></p></e>
       <e><p><l>cumunicà<s n="vblex"/></l><r>comunicare<s n="vblex"/></r></p></e>
       <e><p><l>cullaburà<s n="vblex"/></l><r>collaborare<s n="vblex"/></r></p></e>
-      <e><p><l>utilizzà<s n="vblex"/></l><r>utilizzare<s n="vblex"/></r></p></e>
+      <e><p><l>utilizà<s n="vblex"/></l><r>utilizzare<s n="vblex"/></r></p></e>
       <e><p><l>considerà<s n="vblex"/></l><r>considerare<s n="vblex"/></r></p></e>
       <e><p><l>assimilà<s n="vblex"/></l><r>assimilare<s n="vblex"/></r></p></e>
       <e><p><l>importà<s n="vblex"/></l><r>importare<s n="vblex"/></r></p></e>
