@@ -18,6 +18,7 @@
     <sdef n="pr"      c=""/>
     <sdef n="predet"  c=""/>
     <sdef n="vbser"   c=""/>
+    <sdef n="vbmod"   c=""/>
     <sdef n="vblex"   c=""/>
     <sdef n="tn"      c="Tónico"/>
     <sdef n="ND"      c=""/>
@@ -109,9 +110,130 @@
       <!-- SECTION: Verbos -->
 
       <e><p><l>esse<s n="vbser"/></l><r>essere<s n="vbser"/></r></p></e>
+      <e><p><l>pudè<s n="vbmod"/></l><r>potere<s n="vbmod"/></r></p></e>
+
       <e><p><l>rinasce<s n="vblex"/></l><r>rinascere<s n="vblex"/></r></p></e>
       <e><p><l>durà<s n="vblex"/></l><r>durare<s n="vblex"/></r></p></e>
-
+      <e><p><l>dì<s n="vblex"/></l><r>dire<s n="vblex"/></r></p></e>
+      <e><p><l>dà<s n="vblex"/></l><r>dare<s n="vblex"/></r></p></e>
+      <e><p><l>sapè<s n="vblex"/></l><r>sapere<s n="vblex"/></r></p></e>
+      <e><p><l>stà<s n="vblex"/></l><r>stare<s n="vblex"/></r></p></e>
+      <e><p><l>fà<s n="vblex"/></l><r>fare<s n="vblex"/></r></p></e>
+      <e><p><l>cità<s n="vblex"/></l><r>citare<s n="vblex"/></r></p></e>
+      <e><p><l>truvà<s n="vblex"/></l><r>trovare<s n="vblex"/></r></p></e>
+      <e><p><l>trovà<s n="vblex"/></l><r>trovare<s n="vblex"/></r></p></e>
+      <e><p><l>circà<s n="vblex"/></l><r>cercare<s n="vblex"/></r></p></e>
+      <e><p><l>vene<s n="vblex"/></l><r>venire<s n="vblex"/></r></p></e>
+      <e><p><l>prisentà<s n="vblex"/></l><r>presentare<s n="vblex"/></r></p></e>
+      <e><p><l>usà<s n="vblex"/></l><r>usare<s n="vblex"/></r></p></e>
+      <e><p><l>tene<s n="vblex"/></l><r>tenere<s n="vblex"/></r></p></e>
+      <e><p><l>chjamà<s n="vblex"/></l><r>chiamare<s n="vblex"/></r></p></e>
+      <e><p><l>nasce<s n="vblex"/></l><r>nascere<s n="vblex"/></r></p></e>
+      <e><p><l>cantà<s n="vblex"/></l><r>cantare<s n="vblex"/></r></p></e>
+      <e><p><l>parlà<s n="vblex"/></l><r>parlare<s n="vblex"/></r></p></e>
+      <e><p><l>trattà<s n="vblex"/></l><r>trattare<s n="vblex"/></r></p></e>
+      <e><p><l>vedè<s n="vblex"/></l><r>vedere<s n="vblex"/></r></p></e>
+      <e><p><l>studià<s n="vblex"/></l><r>studiare<s n="vblex"/></r></p></e>
+      <e><p><l>cunfinà<s n="vblex"/></l><r>confinare<s n="vblex"/></r></p></e>
+      <e><p><l>pruvene<s n="vblex"/></l><r>provenire<s n="vblex"/></r></p></e>
+      <e><p><l>mintuvà<s n="vblex"/></l><r>mantenere<s n="vblex"/></r></p></e>
+      <e><p><l>restà<s n="vblex"/></l><r>restare<s n="vblex"/></r></p></e>
+      <e><p><l>cunsiderà<s n="vblex"/></l><r>considerare<s n="vblex"/></r></p></e>
+      <e><p><l>basà<s n="vblex"/></l><r>basare<s n="vblex"/></r></p></e>
+      <e><p><l>populà<s n="vblex"/></l><r>popolare<s n="vblex"/></r></p></e>
+      <e><p><l>passà<s n="vblex"/></l><r>passare<s n="vblex"/></r></p></e>
+      <e><p><l>cunnosce<s n="vblex"/></l><r>conoscere<s n="vblex"/></r></p></e>
+      <e><p><l>contà<s n="vblex"/></l><r>contare<s n="vblex"/></r></p></e>
+      <e><p><l>diventà<s n="vblex"/></l><r>diventare<s n="vblex"/></r></p></e>
+      <e><p><l>vulè<s n="vblex"/></l><r>volere<s n="vblex"/></r></p></e>
+      <e><p><l>purtà<s n="vblex"/></l><r>portare<s n="vblex"/></r></p></e>
+      <e><p><l>misurà<s n="vblex"/></l><r>misurare<s n="vblex"/></r></p></e>
+      <e><p><l>scontrà<s n="vblex"/></l><r>scontrare<s n="vblex"/></r></p></e>
+      <e><p><l>sviluppà<s n="vblex"/></l><r>sviluppare<s n="vblex"/></r></p></e>
+      <e><p><l>mette<s n="vblex"/></l><r>mettere<s n="vblex"/></r></p></e>
+      <e><p><l>influenzà<s n="vblex"/></l><r>influenzare<s n="vblex"/></r></p></e>
+      <e><p><l>esiste<s n="vblex"/></l><r>esistere<s n="vblex"/></r></p></e>
+      <e><p><l>fundà<s n="vblex"/></l><r>fondare<s n="vblex"/></r></p></e>
+      <e><p><l>andà<s n="vblex"/></l><r>andare<s n="vblex"/></r></p></e>
+      <e><p><l>inizià<s n="vblex"/></l><r>iniziare<s n="vblex"/></r></p></e>
+      <e><p><l>dirivà<s n="vblex"/></l><r>derivare<s n="vblex"/></r></p></e>
+      <e><p><l>vale<s n="vblex"/></l><r>valere<s n="vblex"/></r></p></e>
+      <e><p><l>firmà<s n="vblex"/></l><r>firmare<s n="vblex"/></r></p></e>
+      <e><p><l>lascià<s n="vblex"/></l><r>lasciare<s n="vblex"/></r></p></e>
+      <e><p><l>limità<s n="vblex"/></l><r>limitare<s n="vblex"/></r></p></e>
+      <e><p><l>aiutà<s n="vblex"/></l><r>aiutare<s n="vblex"/></r></p></e>
+      <e><p><l>difinisce<s n="vblex"/></l><r>definire<s n="vblex"/></r></p></e>
+      <e><p><l>creà<s n="vblex"/></l><r>creare<s n="vblex"/></r></p></e>
+      <e><p><l>indicà<s n="vblex"/></l><r>indicare<s n="vblex"/></r></p></e>
+      <e><p><l>ghjudicà<s n="vblex"/></l><r>giudicare<s n="vblex"/></r></p></e>
+      <e><p><l>vultà<s n="vblex"/></l><r>voltare<s n="vblex"/></r></p></e>
+      <e><p><l>cumportà<s n="vblex"/></l><r>comportare<s n="vblex"/></r></p></e>
+      <e><p><l>calculà<s n="vblex"/></l><r>calculare<s n="vblex"/></r></p></e>
+      <e><p><l>marcà<s n="vblex"/></l><r>marcare<s n="vblex"/></r></p></e>
+      <e><p><l>significà<s n="vblex"/></l><r>significare<s n="vblex"/></r></p></e>
+      <e><p><l>salvà<s n="vblex"/></l><r>salvare<s n="vblex"/></r></p></e>
+      <e><p><l>cambià<s n="vblex"/></l><r>cambiare<s n="vblex"/></r></p></e>
+      <e><p><l>praticà<s n="vblex"/></l><r>praticare<s n="vblex"/></r></p></e>
+      <e><p><l>cultivà<s n="vblex"/></l><r>cultivare<s n="vblex"/></r></p></e>
+      <e><p><l>stampà<s n="vblex"/></l><r>stampare<s n="vblex"/></r></p></e>
+      <e><p><l>visità<s n="vblex"/></l><r>visitare<s n="vblex"/></r></p></e>
+      <e><p><l>siparà<s n="vblex"/></l><r>separare<s n="vblex"/></r></p></e>
+      <e><p><l>stimà<s n="vblex"/></l><r>stimare<s n="vblex"/></r></p></e>
+      <e><p><l>cunsirvà<s n="vblex"/></l><r>conservare<s n="vblex"/></r></p></e>
+      <e><p><l>numinà<s n="vblex"/></l><r>nominare<s n="vblex"/></r></p></e>
+      <e><p><l>participà<s n="vblex"/></l><r>participare<s n="vblex"/></r></p></e>
+      <e><p><l>finisce<s n="vblex"/></l><r>finire<s n="vblex"/></r></p></e>
+      <e><p><l>pruvà<s n="vblex"/></l><r>provare<s n="vblex"/></r></p></e>
+      <e><p><l>derivà<s n="vblex"/></l><r>derivare<s n="vblex"/></r></p></e>
+      <e><p><l>pensà<s n="vblex"/></l><r>pensare<s n="vblex"/></r></p></e>
+      <e><p><l>dimustrà<s n="vblex"/></l><r>demostrare<s n="vblex"/></r></p></e>
+      <e><p><l>abità<s n="vblex"/></l><r>abitare<s n="vblex"/></r></p></e>
+      <e><p><l>occupà<s n="vblex"/></l><r>occupare<s n="vblex"/></r></p></e>
+      <e><p><l>narrà<s n="vblex"/></l><r>narrare<s n="vblex"/></r></p></e>
+      <e><p><l>trasfurmà<s n="vblex"/></l><r>trasformare<s n="vblex"/></r></p></e>
+      <e><p><l>francà<s n="vblex"/></l><r>francare<s n="vblex"/></r></p></e>
+      <e><p><l>pubblicà<s n="vblex"/></l><r>pubblicare<s n="vblex"/></r></p></e>
+      <e><p><l>illustrà<s n="vblex"/></l><r>illustrare<s n="vblex"/></r></p></e>
+      <e><p><l>ricurdà<s n="vblex"/></l><r>recordare<s n="vblex"/></r></p></e>
+      <e><p><l>didicà<s n="vblex"/></l><r>dedicare<s n="vblex"/></r></p></e>
+      <e><p><l>urganizà<s n="vblex"/></l><r>organizzare<s n="vblex"/></r></p></e>
+      <e><p><l>ditarminà<s n="vblex"/></l><r>determinare<s n="vblex"/></r></p></e>
+      <e><p><l>accusà<s n="vblex"/></l><r>accusare<s n="vblex"/></r></p></e>
+      <e><p><l>suparà<s n="vblex"/></l><r>superare<s n="vblex"/></r></p></e>
+      <e><p><l>dedicà<s n="vblex"/></l><r>dedicare<s n="vblex"/></r></p></e>
+      <e><p><l>teme<s n="vblex"/></l><r>temere<s n="vblex"/></r></p></e>
+      <e><p><l>evità<s n="vblex"/></l><r>evitare<s n="vblex"/></r></p></e>
+      <e><p><l>vindicà<s n="vblex"/></l><r>vindicare<s n="vblex"/></r></p></e>
+      <e><p><l>mustrà<s n="vblex"/></l><r>mostrare<s n="vblex"/></r></p></e>
+      <e><p><l>gridà<s n="vblex"/></l><r>gridare<s n="vblex"/></r></p></e>
+      <e><p><l>crede<s n="vblex"/></l><r>credere<s n="vblex"/></r></p></e>
+      <e><p><l>capisce<s n="vblex"/></l><r>capire<s n="vblex"/></r></p></e>
+      <e><p><l>mudificà<s n="vblex"/></l><r>modificare<s n="vblex"/></r></p></e>
+      <e><p><l>osservà<s n="vblex"/></l><r>osservare<s n="vblex"/></r></p></e>
+      <e><p><l>vutà<s n="vblex"/></l><r>votare<s n="vblex"/></r></p></e>
+      <e><p><l>inspirà<s n="vblex"/></l><r>inspirare<s n="vblex"/></r></p></e>
+      <e><p><l>necessità<s n="vblex"/></l><r>necessitare<s n="vblex"/></r></p></e>
+      <e><p><l>assignà<s n="vblex"/></l><r>assignare<s n="vblex"/></r></p></e>
+      <e><p><l>arristà<s n="vblex"/></l><r>arrestare<s n="vblex"/></r></p></e>
+      <e><p><l>piace<s n="vblex"/></l><r>piacere<s n="vblex"/></r></p></e>
+      <e><p><l>assassinà<s n="vblex"/></l><r>assassinare<s n="vblex"/></r></p></e>
+      <e><p><l>utilizà<s n="vblex"/></l><r>utilizare<s n="vblex"/></r></p></e>
+      <e><p><l>enuncià<s n="vblex"/></l><r>enunciare<s n="vblex"/></r></p></e>
+      <e><p><l>furtificà<s n="vblex"/></l><r>fortificare<s n="vblex"/></r></p></e>
+      <e><p><l>sparà<s n="vblex"/></l><r>sparare<s n="vblex"/></r></p></e>
+      <e><p><l>riurganizà<s n="vblex"/></l><r>riorganizzare<s n="vblex"/></r></p></e>
+      <e><p><l>ricircà<s n="vblex"/></l><r>ricercare<s n="vblex"/></r></p></e>
+      <e><p><l>determinà<s n="vblex"/></l><r>determinare<s n="vblex"/></r></p></e>
+      <e><p><l>cumunicà<s n="vblex"/></l><r>comunicare<s n="vblex"/></r></p></e>
+      <e><p><l>cullaburà<s n="vblex"/></l><r>collaborare<s n="vblex"/></r></p></e>
+      <e><p><l>utilizzà<s n="vblex"/></l><r>utilizzare<s n="vblex"/></r></p></e>
+      <e><p><l>considerà<s n="vblex"/></l><r>considerare<s n="vblex"/></r></p></e>
+      <e><p><l>assimilà<s n="vblex"/></l><r>assimilare<s n="vblex"/></r></p></e>
+      <e><p><l>importà<s n="vblex"/></l><r>importare<s n="vblex"/></r></p></e>
+      <e><p><l>rivindicà<s n="vblex"/></l><r>revindicare<s n="vblex"/></r></p></e>
+      <e><p><l>buscà<s n="vblex"/></l><r>buscare<s n="vblex"/></r></p></e>
+      
+  
       <!-- SECTION: Interyecciones -->
 
       <!-- SECTION: Punctuación -->
