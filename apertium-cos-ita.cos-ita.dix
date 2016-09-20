@@ -69,6 +69,12 @@
   </sdefs>
 
    <pardefs>
+     <pardef n="GD_mf">
+       <e r="LR"><p><l><s n="m"/></l><r><s n="mf"/></r></p></e>
+       <e r="LR"><p><l><s n="f"/></l><r><s n="mf"/></r></p></e>
+       <e r="RL"><p><l><s n="GD"/></l><r><s n="mf"/></r></p></e>
+     </pardef>
+
      <pardef n="ND_sp">
        <e r="LR"><p><l><s n="sg"/></l><r><s n="sp"/></r></p></e>
        <e r="LR"><p><l><s n="pl"/></l><r><s n="sp"/></r></p></e>
@@ -145,8 +151,10 @@
       <!-- SECTION: Pronombres -->
       <e><p><l>altru<s n="prn"/><s n="tn"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>si<s n="prn"/><s n="pro"/><s n="ref"/></l><r>si<s n="prn"/><s n="pro"/><s n="ref"/></r></p></e>
+      <e><p><l>si<s n="prn"/><s n="enc"/><s n="ref"/></l><r>si<s n="prn"/><s n="enc"/><s n="ref"/></r></p></e>
       <e><p><l>ci<s n="prn"/><s n="pro"/><s n="adv"/></l><r>ci<s n="prn"/><s n="pro"/><s n="adv"/></r></p></e>
       <e><p><l>ne<s n="prn"/><s n="pro"/><s n="adv"/></l><r>ne<s n="prn"/><s n="pro"/><s n="adv"/></r></p></e>
+      <e><p><l>ne<s n="prn"/><s n="enc"/><s n="adv"/></l><r>ne<s n="prn"/><s n="enc"/><s n="adv"/></r></p></e>
 
       <e><p><l>ellu<s n="prn"/><s n="tn"/></l><r>egli<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>quissu<s n="prn"/><s n="tn"/></l><r>questo<s n="prn"/><s n="tn"/></r></p></e>
@@ -212,6 +220,7 @@
 
       <!-- SECTION: Sustantivos -->
 
+      <e><p><l>appoghju<s n="n"/><s n="m"/></l><r>appoggio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>aceddu<s n="n"/><s n="m"/></l><r>uccello<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ribelle<s n="n"/><s n="m"/></l><r>ribelle<s n="n"/><s n="mf"/></r></p></e>
       <e><p><l>fratellu<s n="n"/><s n="m"/></l><r>fratello<s n="n"/><s n="m"/></r></p></e>
@@ -2039,10 +2048,13 @@
       <e><p><l>corsu<s n="adj"/></l><r>corso<s n="adj"/></r></p></e>
       <e><p><l>grecu<s n="adj"/></l><r>greco<s n="adj"/></r></p></e>
       <e><p><l>talianu<s n="adj"/></l><r>italiano<s n="adj"/></r></p></e>
+      <e><p><l>inglesu<s n="adj"/></l><r>inglese<s n="adj"/></r></p><par n="GD_mf"/></e>
 
       <e><p><l>modernu<s n="adj"/></l><r>moderno<s n="adj"/></r></p></e>
       <e><p><l>epicu<s n="adj"/></l><r>epico<s n="adj"/></r></p></e>
       <e><p><l>anzianu<s n="adj"/></l><r>anzianu<s n="adj"/></r></p></e>
+
+      <e><p><l>inglese<s n="adj"/><s n="mf"/></l><r>inglese<s n="adj"/><s n="mf"/></r></p></e>
 
       <e><p><l>grande<s n="adj"/><s n="mf"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>principale<s n="adj"/><s n="mf"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
@@ -2068,7 +2080,9 @@
       <!-- SECTION: Adverbios -->
 
       <e><p><l>quandu<s n="adv"/><s n="itg"/></l><r>quando<s n="adv"/><s n="itg"/></r></p></e>
-      <e><p><l>quandu<s n="adv"/><s n="rel"/></l><r>quando<s n="adv"/><s n="rel"/></r></p></e>
+      <e><p><l>quandu<s n="rel"/><s n="adv"/></l><r>quando<s n="rel"/><s n="adv"/></r></p></e>
+
+      <e><p><l>induva<s n="rel"/><s n="adv"/></l><r>dove<s n="rel"/><s n="adv"/></r></p></e>
 
       <e><p><l>sempri<s n="adv"/></l><r>sempre<s n="adv"/></r></p></e>
       <e><p><l>troppu<s n="adv"/></l><r>troppo<s n="adv"/></r></p></e>
@@ -2192,6 +2206,7 @@
       <e><p><l>indicà<s n="vblex"/></l><r>indicare<s n="vblex"/></r></p></e>
       <e><p><l>ghjudicà<s n="vblex"/></l><r>giudicare<s n="vblex"/></r></p></e>
       <e><p><l>vultà<s n="vblex"/></l><r>voltare<s n="vblex"/></r></p></e>
+      <e><p><l>vultà<s n="vblex"/></l><r>tornare<s n="vblex"/></r></p></e>
       <e><p><l>cumportà<s n="vblex"/></l><r>comportare<s n="vblex"/></r></p></e>
       <e><p><l>calculà<s n="vblex"/></l><r>calculare<s n="vblex"/></r></p></e>
       <e><p><l>marcà<s n="vblex"/></l><r>marcare<s n="vblex"/></r></p></e>
@@ -2282,6 +2297,7 @@
       <e><p><l>traslitterà<s n="vblex"/></l><r>traslitterare<s n="vblex"/></r></p></e>
 
       
+      <e><p><l>priferisce<s n="vblex"/></l><r>preferire<s n="vblex"/></r></p></e>
   
       <!-- SECTION: Interyecciones -->
 

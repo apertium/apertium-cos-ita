@@ -2895,6 +2895,77 @@
 
     <!-- ================================================================== -->
 
+ 
+    <rule comment="regla: inf enc">
+       <pattern>
+         <pattern-item n="inf"/>
+         <pattern-item n="enc"/>
+       </pattern>
+       <action>
+         <call-macro n="f_concord1">
+           <with-param pos="2"/>
+         </call-macro>     
+         <out>
+           <chunk name="verb_enc">
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
+             <mlu>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="tags"/>
+               </lu>
+               <lu>
+                 <clip pos="2" side="tl" part="lem"/>
+                 <clip pos="2" side="tl" part="tags"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </mlu>
+           </chunk>
+         </out>
+       </action>
+    </rule>
+
+
+    <rule comment="regla: inf enc enc">	<!-- eliminamos nche -->
+       <pattern>
+         <pattern-item n="inf"/>
+         <pattern-item n="enc"/>
+         <pattern-item n="enc"/>
+       </pattern>
+       <action>
+         <call-macro n="f_concord1">
+           <with-param pos="2"/>
+         </call-macro>     
+         <call-macro n="f_concord1">
+           <with-param pos="3"/>
+         </call-macro>     
+         <out>
+           <chunk name="verb_enc">
+             <tags>
+               <tag><lit-tag v="SV"/></tag>
+             </tags>
+             <mlu>
+               <lu>
+                 <clip pos="1" side="tl" part="lemh"/>
+                 <clip pos="1" side="tl" part="tags"/>
+               </lu>
+               <lu>
+                 <clip pos="2" side="tl" part="lem"/>
+                 <clip pos="2" side="tl" part="tags"/>
+               </lu>
+               <lu>
+                 <clip pos="3" side="tl" part="lem"/>
+                 <clip pos="3" side="tl" part="tags"/>
+                 <clip pos="1" side="tl" part="lemq"/>
+               </lu>
+             </mlu>
+           </chunk>
+         </out>
+       </action>
+    </rule>
+
+
    
     <rule comment="regla: imper-ger-pp enc">
        <pattern>
