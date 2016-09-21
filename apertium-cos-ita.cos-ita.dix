@@ -196,6 +196,8 @@
       <e><p><l>li<s n="prn"/><s n="enc"/></l><r>gli<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>lu<s n="prn"/><s n="enc"/></l><r>lo<s n="prn"/><s n="enc"/></r></p></e>
 
+      <e><p><l>lu<s n="prn"/><s n="pro"/></l><r>lo<s n="prn"/><s n="pro"/></r></p></e>
+
       <e><p><l>si<s n="prn"/><s n="pro"/><s n="ref"/></l><r>si<s n="prn"/><s n="pro"/><s n="ref"/></r></p></e>
       <e><p><l>si<s n="prn"/><s n="enc"/><s n="ref"/></l><r>si<s n="prn"/><s n="enc"/><s n="ref"/></r></p></e>
 
@@ -2795,6 +2797,8 @@
       <e><p><l>priferisce<s n="vblex"/></l><r>preferire<s n="vblex"/></r></p></e>
   
       <!-- SECTION: Interyecciones -->
+
+      <e><p><l>iè<s n="ij"/></l><r>eh<s n="ij"/></r></p></e>
 
       <!-- SECTION: Punctuación -->
 
