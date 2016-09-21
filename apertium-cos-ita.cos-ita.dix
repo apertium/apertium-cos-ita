@@ -169,6 +169,9 @@
       <e><p><l>eiu<s n="prn"/><s n="tn"/></l><r>io<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>tù<s n="prn"/><s n="tn"/></l><r>tu<s n="prn"/><s n="tn"/></r></p></e>
 
+      <e><p><l>li<s n="prn"/><s n="enc"/></l><r>gli<s n="prn"/><s n="enc"/></r></p></e>
+      <e><p><l>lu<s n="prn"/><s n="enc"/></l><r>lo<s n="prn"/><s n="enc"/></r></p></e>
+
       <e><p><l>si<s n="prn"/><s n="pro"/><s n="ref"/></l><r>si<s n="prn"/><s n="pro"/><s n="ref"/></r></p></e>
       <e><p><l>si<s n="prn"/><s n="enc"/><s n="ref"/></l><r>si<s n="prn"/><s n="enc"/><s n="ref"/></r></p></e>
 
@@ -187,6 +190,7 @@
       <e><p><l>vi<s n="prn"/><s n="pro"/></l><r>vi<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>mi<s n="prn"/><s n="pro"/></l><r>mi<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>cosa<s n="prn"/><s n="itg"/></l><r>cosa<s n="prn"/><s n="itg"/></r></p></e>
+      <e><p><l>què<s n="prn"/><s n="itg"/></l><r>che<s n="prn"/><s n="itg"/></r></p></e>
 
       <e><p><l>nunda<s n="prn"/><s n="tn"/></l><r>niente<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>altru<s n="prn"/><s n="tn"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
