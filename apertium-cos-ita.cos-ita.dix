@@ -262,6 +262,21 @@
 
       <!-- SECTION: Numeros -->
 
+      <e><p><l>dui<s n="num"/></l><r>due<s n="num"/></r></p><par n="GD_mf"/></e>
+      <e><p><l>trè<s n="num"/></l><r>tre<s n="num"/></r></p></e>
+      <e><p><l>quattru<s n="num"/></l><r>quattru<s n="num"/></r></p></e>
+      <e><p><l>cinqui<s n="num"/></l><r>cinque<s n="num"/></r></p></e>
+      <e><p><l>cinque<s n="num"/></l><r>cinque<s n="num"/></r></p></e>
+      <e><p><l>sei<s n="num"/></l><r>sei<s n="num"/></r></p></e>
+      <e><p><l>setti<s n="num"/></l><r>sette<s n="num"/></r></p></e>
+      <e><p><l>sette<s n="num"/></l><r>sette<s n="num"/></r></p></e>
+      <e><p><l>ottu<s n="num"/></l><r>otto<s n="num"/></r></p></e>
+      <e><p><l>nove<s n="num"/></l><r>nove<s n="num"/></r></p></e>
+      <e><p><l>centu<s n="num"/></l><r>cento<s n="num"/></r></p></e>
+      <e><p><l>milion<s n="num"/></l><r>milione<s n="num"/></r></p></e>
+      <e><p><l>dodici<s n="num"/></l><r>dodici<s n="num"/></r></p></e>
+
+
       <e><p><l>C<s n="num"/></l><r>C<s n="num"/></r></p></e>
       <e><p><l>D<s n="num"/></l><r>D<s n="num"/></r></p></e>
       <e><p><l>I<s n="num"/></l><r>I<s n="num"/></r></p></e>
