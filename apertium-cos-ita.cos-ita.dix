@@ -212,6 +212,7 @@
       <e><p><l>tuttu<s n="predet"/></l><r>tutto<s n="predet"/></r></p></e>
       <e><p><l>u<s n="det"/><s n="def"/></l><r>il<s n="det"/><s n="def"/></r></p></e>
       <e r="LR"><p><l>u<s n="det"/><s n="def"/><s n="mf"/><s n="sp"/></l><r>il<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
+      <e r="LR"><p><l>u<s n="det"/><s n="def"/><s n="mf"/><s n="sg"/></l><r>il<s n="det"/><s n="def"/><s n="GD"/><s n="sg"/></r></p></e>
       <e><p><l>un<s n="det"/><s n="ind"/></l><r>un<s n="det"/><s n="ind"/></r></p></e>
       <e r="LR"><p><l>un<s n="det"/><s n="ind"/><s n="mf"/></l><r>un<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
       <e><p><l>ogni<s n="det"/><s n="ind"/></l><r>ogni<s n="det"/><s n="ind"/></r></p></e>
