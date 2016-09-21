@@ -2477,7 +2477,7 @@
       <e><p><l>inglese<s n="adj"/><s n="mf"/></l><r>inglese<s n="adj"/><s n="mf"/></r></p></e>
 
       <e><p><l>grande<s n="adj"/><s n="mf"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>principale<s n="adj"/><s n="mf"/></l><r>principale<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>principale<s n="adj"/><s n="mf"/></l><r>principale<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
       <e><p><l>generale<s n="adj"/><s n="mf"/></l><r>generale<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>orientale<s n="adj"/><s n="mf"/></l><r>orientale<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>forte<s n="adj"/><s n="mf"/></l><r>forte<s n="adj"/><s n="mf"/></r></p></e>
@@ -2802,7 +2802,7 @@
       <e><p><l>micca<s n="adv"/></l><r>mica<s n="adv"/></r></p></e>
       <e><p><l>altru<s n="adj"/></l><r>altro<s n="adj"/></r></p></e>
       <!--<e><p><l>prima<s n="pr"/></l><r>prima<s n="pr"/></r></p></e>-->
-      <e><p><l>cum'è<s n="adv"/></l><r>com'è<s n="adv"/></r></p></e>
+      <e><p><l>cum'è<s n="adv"/></l><r>come<s n="adv"/></r></p></e>
       <e><p><l>u quali<s n="rel"/><s n="an"/></l><r>il quale<s n="rel"/><s n="an"/></r></p></e>
       <e><p><l>solu<s n="adj"/></l><r>solo<s n="adj"/></r></p></e>
       <e><p><l>francesu<s n="adj"/></l><r>francese<s n="adj"/></r></p><par n="GD_mf"/></e>
@@ -2904,7 +2904,6 @@
       <e><p><l>avà<s n="adv"/></l><r>avere<s n="adv"/></r></p></e>
       <e><p><l>abbandunà<s n="vblex"/></l><r>abbandonare<s n="vblex"/></r></p></e>
       <e><p><l>culturale<s n="adj"/><s n="mf"/></l><r>culturale<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>quandu<s n="adv"/><s n="rel"/></l><r>quando<s n="adv"/><s n="rel"/></r></p></e>
       <e><p><l>unicu<s n="adj"/></l><r>unico<s n="adj"/></r></p></e>
       <e><p><l>umanu<s n="adj"/></l><r>umano<s n="adj"/></r></p></e>
       <e><p><l>sanu<s n="adj"/></l><r>sano<s n="adj"/></r></p></e>
@@ -3072,7 +3071,7 @@
       <e><p><l>sturicamente<s n="adv"/></l><r>storicamente<s n="adv"/></r></p></e>
       <e><p><l>littiralamente<s n="adv"/></l><r>letteralmente<s n="adv"/></r></p></e>
       <e><p><l>intiriamente<s n="adv"/></l><r>interamente<s n="adv"/></r></p></e>
-      <e><p><l>attive<s n="adj"/><s n="mf"/></l><r>attivo<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>attive<s n="adj"/></l><r>attivo<s n="adj"/></r></p><par n="mf_GD"/></e>
       <e><p><l>nurmalamente<s n="adv"/></l><r>normalmente<s n="adv"/></r></p></e>
       <e><p><l>funziunamentu<s n="n"/><s n="m"/></l><r>funzionamento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>battizà<s n="vblex"/></l><r>battezzare<s n="vblex"/></r></p></e>
