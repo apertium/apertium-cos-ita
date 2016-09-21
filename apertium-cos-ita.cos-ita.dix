@@ -190,6 +190,9 @@
       <e><p><l>eiu<s n="prn"/><s n="tn"/></l><r>io<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>tù<s n="prn"/><s n="tn"/></l><r>tu<s n="prn"/><s n="tn"/></r></p></e>
 
+      <e><p><l>noi<s n="prn"/><s n="tn"/></l><r>noi<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>voi<s n="prn"/><s n="tn"/></l><r>voi<s n="prn"/><s n="tn"/></r></p></e>
+
       <e><p><l>li<s n="prn"/><s n="enc"/></l><r>gli<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>lu<s n="prn"/><s n="enc"/></l><r>lo<s n="prn"/><s n="enc"/></r></p></e>
 
@@ -2820,7 +2823,7 @@
       <e><p><l>anticu<s n="adj"/></l><r>antico<s n="adj"/></r></p></e>
       <e><p><l>pocu<s n="adj"/></l><r>poco<s n="adj"/></r></p></e>
       
-      <e><p><l>longu<s n="adj"/></l><r>longo<s n="adj"/></r></p></e>
+      <e><p><l>longu<s n="adj"/></l><r>lungo<s n="adj"/></r></p></e>
       <e><p><l>novu<s n="adj"/></l><r>nuovo<s n="adj"/></r></p></e>
       <e><p><l>altu<s n="adj"/></l><r>alto<s n="adj"/></r></p></e>
       <e><p><l>latinu<s n="adj"/></l><r>latino<s n="adj"/></r></p></e>
