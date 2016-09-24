@@ -2557,6 +2557,7 @@
       <e><p><l>epicu<s n="adj"/></l><r>epico<s n="adj"/></r></p></e>
       <e><p><l>anzianu<s n="adj"/></l><r>anziano<s n="adj"/></r></p></e>
       <e><p><l>ecunomicu<s n="adj"/></l><r>economico<s n="adj"/></r></p></e>
+      <e><p><l>seriu<s n="adj"/></l><r>serio<s n="adj"/></r></p></e>
 
       <e><p><l>inglese<s n="adj"/><s n="mf"/></l><r>inglese<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -2853,6 +2854,7 @@
       <e><p><l>integrà<s n="vblex"/></l><r>integrare<s n="vblex"/></r></p></e>
       <e><p><l>ispirà<s n="vblex"/></l><r>ispirare<s n="vblex"/></r></p></e>
       <e><p><l>insultà<s n="vblex"/></l><r>insultare<s n="vblex"/></r></p></e>
+      <e><p><l>piglià<s n="vblex"/></l><r>pigliare<s n="vblex"/></r></p></e>
       <e><p><l>esaminà<s n="vblex"/></l><r>esaminare<s n="vblex"/></r></p></e>
       <e><p><l>idintificà<s n="vblex"/></l><r>identificare<s n="vblex"/></r></p></e>
       <e><p><l>rivendicà<s n="vblex"/></l><r>rivendicare<s n="vblex"/></r></p></e>
@@ -2861,6 +2863,90 @@
       <e><p><l>centralizà<s n="vblex"/></l><r>centralizzare<s n="vblex"/></r></p></e>
       <e><p><l>dubbità<s n="vblex"/></l><r>dubitare<s n="vblex"/></r></p></e>
       <e><p><l>parte<s n="vblex"/></l><r>partire<s n="vblex"/></r></p></e>
+
+      <e><p><l>costà<s n="vblex"/></l><r>costare<s n="vblex"/></r></p></e>
+      <e><p><l>pone<s n="vblex"/></l><r>ponere<s n="vblex"/></r></p></e>
+      <e><p><l>campà<s n="vblex"/></l><r>campare<s n="vblex"/></r></p></e>
+      <e><p><l>scrive<s n="vblex"/></l><r>scrivere<s n="vblex"/></r></p></e>
+      <e><p><l>custruisce<s n="vblex"/></l><r>costruire<s n="vblex"/></r></p></e>
+      <e><p><l>viaghjà<s n="vblex"/></l><r>viaggiare<s n="vblex"/></r></p></e>
+      <e><p><l>cumpone<s n="vblex"/></l><r>comporre<s n="vblex"/></r></p></e>
+      <e><p><l>ghjocà<s n="vblex"/></l><r>giocare<s n="vblex"/></r></p></e>
+      <e><p><l>luttà<s n="vblex"/></l><r>lottare<s n="vblex"/></r></p></e>
+      <e><p><l>calà<s n="vblex"/></l><r>calare<s n="vblex"/></r></p></e>
+      <e><p><l>pesà<s n="vblex"/></l><r>pesare<s n="vblex"/></r></p></e>
+      <e><p><l>manghjà<s n="vblex"/></l><r>mangiare<s n="vblex"/></r></p></e>
+      <e><p><l>cascà<s n="vblex"/></l><r>cascare<s n="vblex"/></r></p></e>
+      <e><p><l>sente<s n="vblex"/></l><r>sentire<s n="vblex"/></r></p></e>
+      <e><p><l>entrà<s n="vblex"/></l><r>entrare<s n="vblex"/></r></p></e>
+      <e><p><l>discrive<s n="vblex"/></l><r>descrivere<s n="vblex"/></r></p></e>
+      <e><p><l>appostà<s n="vblex"/></l><r>appostare<s n="vblex"/></r></p></e>
+      <e><p><l>cresce<s n="vblex"/></l><r>crescere<s n="vblex"/></r></p></e>
+      <e><p><l>mandà<s n="vblex"/></l><r>mandare<s n="vblex"/></r></p></e>
+      <e><p><l>spiegà<s n="vblex"/></l><r>spiegare<s n="vblex"/></r></p></e>
+      <e><p><l>cuntà<s n="vblex"/></l><r>contare<s n="vblex"/></r></p></e>
+      <e><p><l>riceve<s n="vblex"/></l><r>ricevere<s n="vblex"/></r></p></e>
+      <e><p><l>cercà<s n="vblex"/></l><r>cercare<s n="vblex"/></r></p></e>
+      <e><p><l>entre<s n="vblex"/></l><r>entrare<s n="vblex"/></r></p></e>
+      <e><p><l>unisce<s n="vblex"/></l><r>unire<s n="vblex"/></r></p></e>
+      <e><p><l>tirà<s n="vblex"/></l><r>tirare<s n="vblex"/></r></p></e>
+      <e><p><l>sustene<s n="vblex"/></l><r>sostenere<s n="vblex"/></r></p></e>
+      <e><p><l>sorte<s n="vblex"/></l><r>sortire<s n="vblex"/></r></p></e>
+      <e><p><l>girà<s n="vblex"/></l><r>girare<s n="vblex"/></r></p></e>
+      <e><p><l>bastà<s n="vblex"/></l><r>bastare<s n="vblex"/></r></p></e>
+      <e><p><l>perde<s n="vblex"/></l><r>perdere<s n="vblex"/></r></p></e>
+      <e><p><l>prupone<s n="vblex"/></l><r>proponere<s n="vblex"/></r></p></e>
+      <e><p><l>classificà<s n="vblex"/></l><r>classificare<s n="vblex"/></r></p></e>
+      <e><p><l>cullà<s n="vblex"/></l><r>colare<s n="vblex"/></r></p></e>
+      <e><p><l>votà<s n="vblex"/></l><r>votare<s n="vblex"/></r></p></e>
+      <e><p><l>ricunnosce<s n="vblex"/></l><r>riconoscere<s n="vblex"/></r></p></e>
+      <e><p><l>rende<s n="vblex"/></l><r>rendere<s n="vblex"/></r></p></e>
+      <e><p><l>currisponde<s n="vblex"/></l><r>corrispondere<s n="vblex"/></r></p></e>
+      <e><p><l>cummandà<s n="vblex"/></l><r>comandare<s n="vblex"/></r></p></e>
+      <e><p><l>metà<s n="vblex"/></l><r>mettere<s n="vblex"/></r></p></e>
+      <e><p><l>appartene<s n="vblex"/></l><r>appartenere<s n="vblex"/></r></p></e>
+      <e><p><l>risponde<s n="vblex"/></l><r>rispondere<s n="vblex"/></r></p></e>
+      <e><p><l>adattà<s n="vblex"/></l><r>adattare<s n="vblex"/></r></p></e>
+      <e><p><l>marchjà<s n="vblex"/></l><r>marciare<s n="vblex"/></r></p></e>
+      <e><p><l>scappà<s n="vblex"/></l><r>scappare<s n="vblex"/></r></p></e>
+      <e><p><l>vince<s n="vblex"/></l><r>vincere<s n="vblex"/></r></p></e>
+      <e><p><l>traduce<s n="vblex"/></l><r>tradurre<s n="vblex"/></r></p></e>
+      <e><p><l>accettà<s n="vblex"/></l><r>accettare<s n="vblex"/></r></p></e>
+      <e><p><l>vende<s n="vblex"/></l><r>vendere<s n="vblex"/></r></p></e>
+      <e><p><l>mutà<s n="vblex"/></l><r>mutare<s n="vblex"/></r></p></e>
+      <e><p><l>mantene<s n="vblex"/></l><r>mantenere<s n="vblex"/></r></p></e>
+      <e><p><l>batte<s n="vblex"/></l><r>battere<s n="vblex"/></r></p></e>
+      <e><p><l>rimpiazzà<s n="vblex"/></l><r>rimpiazzare<s n="vblex"/></r></p></e>
+      <e><p><l>corre<s n="vblex"/></l><r>correre<s n="vblex"/></r></p></e>
+      <e><p><l>riferisce<s n="vblex"/></l><r>riferire<s n="vblex"/></r></p></e>
+      <e><p><l>imaginà<s n="vblex"/></l><r>immaginare<s n="vblex"/></r></p></e>
+      <e><p><l>disputà<s n="vblex"/></l><r>disputare<s n="vblex"/></r></p></e>
+      <e><p><l>dimostrà<s n="vblex"/></l><r>dimostrare<s n="vblex"/></r></p></e>
+      <e><p><l>ride<s n="vblex"/></l><r>ridere<s n="vblex"/></r></p></e>
+      <e><p><l>impone<s n="vblex"/></l><r>imporre<s n="vblex"/></r></p></e>
+      <e><p><l>interpretà<s n="vblex"/></l><r>interpretare<s n="vblex"/></r></p></e>
+      <e><p><l>incaricà<s n="vblex"/></l><r>incaricare<s n="vblex"/></r></p></e>
+      <e><p><l>preferisce<s n="vblex"/></l><r>preferire<s n="vblex"/></r></p></e>
+      <e><p><l>dibatte<s n="vblex"/></l><r>dibattere<s n="vblex"/></r></p></e>
+      <e><p><l>surtisce<s n="vblex"/></l><r>sortire<s n="vblex"/></r></p></e>
+      <e><p><l>sperà<s n="vblex"/></l><r>sperare<s n="vblex"/></r></p></e>
+      <e><p><l>ascultà<s n="vblex"/></l><r>ascoltare<s n="vblex"/></r></p></e>
+      <e><p><l>invintà<s n="vblex"/></l><r>inventare<s n="vblex"/></r></p></e>
+      <e><p><l>beie<s n="vblex"/></l><r>bere<s n="vblex"/></r></p></e>
+      <e><p><l>vinde<s n="vblex"/></l><r>vendere<s n="vblex"/></r></p></e>
+      <e><p><l>neguzià<s n="vblex"/></l><r>negoziare</r></p></e>
+      <e><p><l>punisce<s n="vblex"/></l><r>punire<s n="vblex"/></r></p></e>
+      <e><p><l>ubligà<s n="vblex"/></l><r>obbligare<s n="vblex"/></r></p></e>
+      <e><p><l>empie<s n="vblex"/></l><r>empiere<s n="vblex"/></r></p></e>
+      <e><p><l>cunvince<s n="vblex"/></l><r>convincere<s n="vblex"/></r></p></e>
+      <e><p><l>prununzià<s n="vblex"/></l><r>pronunciare<s n="vblex"/></r></p></e>
+      <e><p><l>mubilizà<s n="vblex"/></l><r>mobilizare<s n="vblex"/></r></p></e>
+      <e><p><l>dinunzià<s n="vblex"/></l><r>denunciare<s n="vblex"/></r></p></e>
+      <e><p><l>discorre<s n="vblex"/></l><r>discorrere<s n="vblex"/></r></p></e>
+      <e><p><l>decide<s n="vblex"/></l><r>decidere<s n="vblex"/></r></p></e>
+      <e><p><l>abbassà<s n="vblex"/></l><r>abbassare<s n="vblex"/></r></p></e>
+      <e><p><l>valurizà<s n="vblex"/></l><r>valorizzare<s n="vblex"/></r></p></e>
+      <e><p><l>stabilizà<s n="vblex"/></l><r>stabilizzare</r></p></e>
 
 
       
