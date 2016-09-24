@@ -2209,6 +2209,7 @@
       <e><p><l>Achillea<s n="np"/><s n="ant"/><s n="f"/></l><r>Achillea<s n="np"/><s n="ant"/><s n="f"/></r></p><par n="sp_sg"/></e>
 
       <e><p><l>Corsica<s n="np"/><s n="top"/><s n="f"/></l><r>Corsica<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+      <e><p><l>Côte<b/>d'Azur<s n="np"/><s n="top"/><s n="f"/></l><r>Costa<b/>Azzurra<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Auropa<s n="np"/><s n="top"/><s n="f"/></l><r>Europa<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Lipsia<s n="np"/><s n="top"/><s n="f"/></l><r>Lipsia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Catalunia<s n="np"/><s n="top"/><s n="f"/></l><r>Catalogna<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -2397,6 +2398,7 @@
       <e><p><l>Aiacciu<s n="np"/><s n="top"/><s n="m"/></l><r>Ajaccio<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
       <e><p><l>Portugallu<s n="np"/><s n="top"/><s n="m"/></l><r>Portogallo<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
       <e><p><l>Brasile<s n="np"/><s n="top"/><s n="m"/></l><r>Brasile<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+      <e><p><l>Purtugallu<s n="np"/><s n="top"/><s n="m"/></l><r>Portogallo<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
       <e><p><l>Livornu<s n="np"/><s n="top"/><s n="m"/></l><r>Livorno<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
       <e><p><l>Sassari<s n="np"/><s n="top"/><s n="m"/></l><r>Sassari<s n="np"/><s n="loc"/><s n="m"/></r></p><par n="sg_pl"/></e>
       <e><p><l>Laziu<s n="np"/><s n="top"/><s n="m"/></l><r>Lazio<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
@@ -3298,6 +3300,24 @@
       <e><p><l>cuuperazione<s n="n"/><s n="f"/></l><r>cooperazione<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>caminu<s n="n"/><s n="m"/></l><r>cammino<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>baruffa<s n="n"/><s n="f"/></l><r>baruffa<s n="n"/><s n="f"/></r></p></e>
+
+      <e><p><l>residenza<s n="n"/><s n="f"/></l><r>residenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>abbraculà<s n="vblex"/></l><r>abbraculare<s n="vblex"/></r></p></e>
+      <e><p><l>ricusà<s n="vblex"/></l><r>ricusare<s n="vblex"/></r></p></e>
+      <e><p><l>pronti<s n="adv"/></l><r>pronte<s n="adv"/></r></p></e>
+      <e><p><l>precisamente<s n="adv"/></l><r>precisamente<s n="adv"/></r></p></e>
+      <e><p><l>menu<s n="adv"/></l><r>meno<s n="adv"/></r></p></e>
+      <e><p><l>ghjustu<s n="adj"/></l><r>giusto<s n="adj"/></r></p></e>
+      <e><p><l>fughje<s n="vblex"/></l><r>fughje<s n="vblex"/></r></p></e>
+      <e><p><l>fiscale<s n="adj"/><s n="mf"/></l><r>fiscale<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>dirittu<s n="adj"/></l><r>deretto<s n="adj"/></r></p></e>
+      <e><p><l>cunservatoriu<s n="n"/><s n="m"/></l><r>conservatorio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bonu<s n="adj"/></l><r>buono<s n="adj"/></r></p></e>
+      <e><p><l>attrattivu<s n="adj"/></l><r>attrattivo<s n="adj"/></r></p></e>
+      <e><p><l>bellu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
+      <e><p><l>immubiliariu<s n="adj"/></l><r>immobiliare<s n="adj"/></r></p><par n="GD_mf"/></e>
+      <e><p><l>appartamentu<s n="n"/><s n="m"/></l><r>appartamento<s n="n"/><s n="m"/></r></p></e>
+
       
 
    </section>
