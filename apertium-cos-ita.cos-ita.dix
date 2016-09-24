@@ -220,6 +220,7 @@
       <e><p><l>mi<s n="prn"/><s n="pro"/></l><r>mi<s n="prn"/><s n="pro"/></r></p></e>
       <e><p><l>cosa<s n="prn"/><s n="itg"/></l><r>cosa<s n="prn"/><s n="itg"/></r></p></e>
       <e><p><l>què<s n="prn"/><s n="itg"/></l><r>che<s n="prn"/><s n="itg"/></r></p></e>
+      <e><p><l>quale<s n="prn"/><s n="itg"/></l><r>quale<s n="prn"/><s n="itg"/></r></p></e>
 
       <e><p><l>nunda<s n="prn"/><s n="tn"/></l><r>niente<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>altru<s n="prn"/><s n="tn"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
@@ -1222,6 +1223,7 @@
       <e><p><l>affettazione<s n="n"/><s n="f"/></l><r>affettazione<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>rivindicazione<s n="n"/><s n="f"/></l><r>rivendicazione<s n="n"/><s n="f"/></r></p></e>
 
+      <e><p><l>avvene<s n="n"/><s n="m"/></l><r>futuro<s n="n"/><s n="m"/></r></p></e>
 
 
       
@@ -2548,6 +2550,8 @@
       <e><p><l>altru<s n="adj"/><s n="ind"/></l><r>altro<s n="adj"/><s n="ind"/></r></p></e>
       <e><p><l>antru<s n="adj"/><s n="ind"/></l><r>altro<s n="adj"/><s n="ind"/></r></p></e>
 
+      <e><p><l>tal<s n="adj"/><s n="mf"/></l><r>tale<s n="adj"/><s n="mf"/></r></p><par n="sp_ND"/></e>
+
       <e><p><l>corsu<s n="adj"/></l><r>corso<s n="adj"/></r></p></e>
       <e><p><l>grecu<s n="adj"/></l><r>greco<s n="adj"/></r></p></e>
       <e><p><l>talianu<s n="adj"/></l><r>italiano<s n="adj"/></r></p></e>
@@ -2865,7 +2869,7 @@
       <e><p><l>parte<s n="vblex"/></l><r>partire<s n="vblex"/></r></p></e>
 
       <e><p><l>costà<s n="vblex"/></l><r>costare<s n="vblex"/></r></p></e>
-      <e><p><l>pone<s n="vblex"/></l><r>ponere<s n="vblex"/></r></p></e>
+      <e><p><l>pone<s n="vblex"/></l><r>posare<s n="vblex"/></r></p></e>
       <e><p><l>campà<s n="vblex"/></l><r>campare<s n="vblex"/></r></p></e>
       <e><p><l>scrive<s n="vblex"/></l><r>scrivere<s n="vblex"/></r></p></e>
       <e><p><l>custruisce<s n="vblex"/></l><r>costruire<s n="vblex"/></r></p></e>
@@ -2934,7 +2938,7 @@
       <e><p><l>invintà<s n="vblex"/></l><r>inventare<s n="vblex"/></r></p></e>
       <e><p><l>beie<s n="vblex"/></l><r>bere<s n="vblex"/></r></p></e>
       <e><p><l>vinde<s n="vblex"/></l><r>vendere<s n="vblex"/></r></p></e>
-      <e><p><l>neguzià<s n="vblex"/></l><r>negoziare</r></p></e>
+      <e><p><l>neguzià<s n="vblex"/></l><r>negoziare<s n="vblex"/></r></p></e>
       <e><p><l>punisce<s n="vblex"/></l><r>punire<s n="vblex"/></r></p></e>
       <e><p><l>ubligà<s n="vblex"/></l><r>obbligare<s n="vblex"/></r></p></e>
       <e><p><l>empie<s n="vblex"/></l><r>empiere<s n="vblex"/></r></p></e>
@@ -2946,7 +2950,7 @@
       <e><p><l>decide<s n="vblex"/></l><r>decidere<s n="vblex"/></r></p></e>
       <e><p><l>abbassà<s n="vblex"/></l><r>abbassare<s n="vblex"/></r></p></e>
       <e><p><l>valurizà<s n="vblex"/></l><r>valorizzare<s n="vblex"/></r></p></e>
-      <e><p><l>stabilizà<s n="vblex"/></l><r>stabilizzare</r></p></e>
+      <e><p><l>stabilizà<s n="vblex"/></l><r>stabilizzare<s n="vblex"/></r></p></e>
 
 
       
