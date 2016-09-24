@@ -280,6 +280,8 @@
       <e><p><l>nove<s n="num"/></l><r>nove<s n="num"/></r></p></e>
       <e><p><l>centu<s n="num"/></l><r>cento<s n="num"/></r></p></e>
       <e><p><l>milion<s n="num"/></l><r>milione<s n="num"/></r></p></e>
+      <e><p><l>vinti<s n="num"/></l><r>venti<s n="num"/></r></p></e>
+      <e><p><l>novanta<s n="num"/></l><r>novanta<s n="num"/></r></p></e>
       <e><p><l>dodici<s n="num"/></l><r>dodici<s n="num"/></r></p></e>
 
 
@@ -1138,11 +1140,11 @@
       <e><p><l>prucissione<s n="n"/><s n="f"/></l><r>processione<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>predominiu<s n="n"/><s n="m"/></l><r>predominio<s n="n"/><s n="m"/></r></p></e>
 
-      <e><p><l>Vennari<s n="n"/><s n="m"/></l><r>venerdì<s n="n"/><s n="m"/></r></p><par n="sg_sp"/></e>
-      <e><p><l>Marti<s n="n"/><s n="m"/></l><r>martedì<s n="n"/><s n="m"/></r></p><par n="sg_sp"/></e>
-      <e><p><l>Luni<s n="n"/><s n="m"/></l><r>lunedì<s n="n"/><s n="m"/></r></p><par n="sg_sp"/></e>
-      <e><p><l>Marcuri<s n="n"/><s n="m"/></l><r>mercoledì<s n="n"/><s n="m"/></r></p><par n="sg_sp"/></e>
-      <e><p><l>Dumenica<s n="n"/><s n="m"/></l><r>domenica<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vennari<s n="n"/><s n="m"/></l><r>venerdì<s n="n"/><s n="m"/></r></p><par n="sg_sp"/></e>
+      <e><p><l>marti<s n="n"/><s n="m"/></l><r>martedì<s n="n"/><s n="m"/></r></p><par n="sg_sp"/></e>
+      <e><p><l>luni<s n="n"/><s n="m"/></l><r>lunedì<s n="n"/><s n="m"/></r></p><par n="sg_sp"/></e>
+      <e><p><l>marcuri<s n="n"/><s n="m"/></l><r>mercoledì<s n="n"/><s n="m"/></r></p><par n="sg_sp"/></e>
+      <e><p><l>dumenica<s n="n"/><s n="m"/></l><r>domenica<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>impositu<s n="n"/><s n="m"/></l><r>imposta<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>diaspora<s n="n"/><s n="f"/></l><r>diaspora<s n="n"/><s n="f"/></r></p></e>
@@ -2954,6 +2956,7 @@
       <e><p><l>cunvince<s n="vblex"/></l><r>convincere<s n="vblex"/></r></p></e>
       <e><p><l>prununzià<s n="vblex"/></l><r>pronunciare<s n="vblex"/></r></p></e>
       <e><p><l>mubilizà<s n="vblex"/></l><r>mobilizare<s n="vblex"/></r></p></e>
+      <e><p><l>scopre<s n="vblex"/></l><r>scoprire<s n="vblex"/></r></p></e>
       <e><p><l>dinunzià<s n="vblex"/></l><r>denunciare<s n="vblex"/></r></p></e>
       <e><p><l>discorre<s n="vblex"/></l><r>discorrere<s n="vblex"/></r></p></e>
       <e><p><l>imprestà<s n="vblex"/></l><r>prestare<s n="vblex"/></r></p></e>
@@ -3318,7 +3321,13 @@
       <e><p><l>immubiliariu<s n="adj"/></l><r>immobiliare<s n="adj"/></r></p><par n="GD_mf"/></e>
       <e><p><l>appartamentu<s n="n"/><s n="m"/></l><r>appartamento<s n="n"/><s n="m"/></r></p></e>
 
-      
+     
+      <e><p><l>pressione<s n="n"/><s n="f"/></l><r>pressione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>liturale<s n="n"/><s n="m"/></l><r>litorale<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>turistu<s n="n"/><s n="m"/></l><r>turista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ora<s n="n"/><s n="f"/></l><r>ora<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dumenicu<s n="n"/></l><r>domenica<s n="n"/></r></p></e>
+       
 
    </section>
 </dictionary>
