@@ -224,6 +224,8 @@
 
       <e><p><l>nunda<s n="prn"/><s n="tn"/></l><r>niente<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>altru<s n="prn"/><s n="tn"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>nissunu<s n="prn"/><s n="tn"/></l><r>nessuno<s n="prn"/><s n="tn"/></r></p></e>
+      <e r="LR"><p><l>nissunu<s n="prn"/><s n="tn"/><s n="mf"/></l><r>nessuno<s n="prn"/><s n="tn"/><s n="GD"/></r></p></e>
 
       <e><p><l>chì<s n="rel"/><s n="an"/></l><r>chi<s n="rel"/><s n="nn"/></r></p></e>
 
@@ -260,12 +262,14 @@
 <!--      <e><p><l>uni pochi<s n="det"/><s n="ind"/></l><r>@uni pochi<s n="det"/><s n="ind"/></r></p></e>-->
 
       <e><p><l>parechju<s n="det"/><s n="dem"/></l><r>parecchio<s n="adj"/></r></p></e>
+      <e><p><l>nissunu<s n="det"/><s n="ind"/></l><r>nessuno<s n="det"/><s n="ind"/></r></p></e>
+      <e r="LR"><p><l>nissunu<s n="det"/><s n="ind"/><s n="mf"/></l><r>nessuno<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
 
       <!-- SECTION: Numeros -->
 
       <e><p><l>dui<s n="num"/></l><r>due<s n="num"/></r></p><par n="GD_mf"/></e>
       <e><p><l>trè<s n="num"/></l><r>tre<s n="num"/></r></p></e>
-      <e><p><l>quattru<s n="num"/></l><r>quattru<s n="num"/></r></p></e>
+      <e><p><l>quattru<s n="num"/></l><r>quattro<s n="num"/></r></p></e>
       <e><p><l>cinqui<s n="num"/></l><r>cinque<s n="num"/></r></p></e>
       <e><p><l>cinque<s n="num"/></l><r>cinque<s n="num"/></r></p></e>
       <e><p><l>sei<s n="num"/></l><r>sei<s n="num"/></r></p></e>
@@ -1224,6 +1228,7 @@
       <e><p><l>rivindicazione<s n="n"/><s n="f"/></l><r>rivendicazione<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>avvene<s n="n"/><s n="m"/></l><r>futuro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>parlamentariu<s n="n"/><s n="m"/></l><r>parlamentarista<s n="n"/><s n="m"/></r></p></e>
 
 
       
@@ -2960,6 +2965,7 @@
 
       <e><p><l>iè<s n="ij"/></l><r>eh<s n="ij"/></r></p></e>
       <e><p><l>eccu<s n="ij"/></l><r>ecco<s n="ij"/></r></p></e>
+      <e><p><l>allora<s n="ij"/></l><r>allora<s n="adv"/></r></p></e>
 
       <!-- SECTION: Punctuación -->
 
