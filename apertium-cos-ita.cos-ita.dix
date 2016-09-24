@@ -193,6 +193,7 @@
       <e><p><l>noi<s n="prn"/><s n="tn"/></l><r>noi<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>voi<s n="prn"/><s n="tn"/></l><r>voi<s n="prn"/><s n="tn"/></r></p></e>
 
+      <e><p><l>mi<s n="prn"/><s n="enc"/></l><r>mi<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>li<s n="prn"/><s n="enc"/></l><r>gli<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>lu<s n="prn"/><s n="enc"/></l><r>lo<s n="prn"/><s n="enc"/></r></p></e>
 
@@ -2567,6 +2568,7 @@
       <e><p><l>anzianu<s n="adj"/></l><r>anziano<s n="adj"/></r></p></e>
       <e><p><l>ecunomicu<s n="adj"/></l><r>economico<s n="adj"/></r></p></e>
       <e><p><l>seriu<s n="adj"/></l><r>serio<s n="adj"/></r></p></e>
+      <e><p><l>falsu<s n="adj"/></l><r>falso<s n="adj"/></r></p></e>
 
       <e><p><l>inglese<s n="adj"/><s n="mf"/></l><r>inglese<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -2952,6 +2954,7 @@
       <e><p><l>mubilizà<s n="vblex"/></l><r>mobilizare<s n="vblex"/></r></p></e>
       <e><p><l>dinunzià<s n="vblex"/></l><r>denunciare<s n="vblex"/></r></p></e>
       <e><p><l>discorre<s n="vblex"/></l><r>discorrere<s n="vblex"/></r></p></e>
+      <e><p><l>imprestà<s n="vblex"/></l><r>prestare<s n="vblex"/></r></p></e>
       <e><p><l>decide<s n="vblex"/></l><r>decidere<s n="vblex"/></r></p></e>
       <e><p><l>abbassà<s n="vblex"/></l><r>abbassare<s n="vblex"/></r></p></e>
       <e><p><l>valurizà<s n="vblex"/></l><r>valorizzare<s n="vblex"/></r></p></e>
