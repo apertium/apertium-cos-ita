@@ -193,6 +193,8 @@
       <e><p><l>noi<s n="prn"/><s n="tn"/></l><r>noi<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>voi<s n="prn"/><s n="tn"/></l><r>voi<s n="prn"/><s n="tn"/></r></p></e>
 
+      <e><p><l>mè<s n="prn"/><s n="tn"/></l><r>me<s n="prn"/><s n="tn"/></r></p></e>
+
       <e><p><l>mi<s n="prn"/><s n="enc"/></l><r>mi<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>li<s n="prn"/><s n="enc"/></l><r>gli<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>lu<s n="prn"/><s n="enc"/></l><r>lo<s n="prn"/><s n="enc"/></r></p></e>
@@ -2565,6 +2567,7 @@
       <e><p><l>corsu<s n="adj"/></l><r>corso<s n="adj"/></r></p></e>
       <e><p><l>grecu<s n="adj"/></l><r>greco<s n="adj"/></r></p></e>
       <e><p><l>talianu<s n="adj"/></l><r>italiano<s n="adj"/></r></p></e>
+      <e><p><l>cubanu<s n="adj"/></l><r>cubano<s n="adj"/></r></p></e>
       <e><p><l>inglesu<s n="adj"/></l><r>inglese<s n="adj"/></r></p><par n="GD_mf"/></e>
 
       <e><p><l>modernu<s n="adj"/></l><r>moderno<s n="adj"/></r></p></e>
@@ -2619,7 +2622,9 @@
 
       <e><p><l>cusì<s n="adv"/></l><r>così<s n="adv"/></r></p></e>
       <e><p><l>più<s n="adv"/></l><r>più<s n="adv"/></r></p></e>
+      <e><p><l>inseme<s n="adv"/></l><r>insieme<s n="adv"/></r></p></e>
       <e><p><l>circa<s n="adv"/></l><r>circa<s n="adv"/></r></p></e>
+      <e><p><l>digià<s n="adv"/></l><r>già<s n="adv"/></r></p></e>
       <e><p><l>solu<s n="adv"/></l><r>solo<s n="adv"/></r></p></e>
       <e><p><l>spessu<s n="adv"/></l><r>spesso<s n="adv"/></r></p></e>
       <e><p><l>assai<s n="adv"/></l><r>assai<s n="adv"/></r></p></e>
@@ -2911,7 +2916,8 @@
       <e><p><l>girà<s n="vblex"/></l><r>girare<s n="vblex"/></r></p></e>
       <e><p><l>bastà<s n="vblex"/></l><r>bastare<s n="vblex"/></r></p></e>
       <e><p><l>perde<s n="vblex"/></l><r>perdere<s n="vblex"/></r></p></e>
-      <e><p><l>prupone<s n="vblex"/></l><r>proponere<s n="vblex"/></r></p></e>
+      <e><p><l>prupone<s n="vblex"/></l><r>proporre<s n="vblex"/></r></p></e>
+      <e><p><l>oppone<s n="vblex"/></l><r>opporre<s n="vblex"/></r></p></e>
       <e><p><l>classificà<s n="vblex"/></l><r>classificare<s n="vblex"/></r></p></e>
       <e><p><l>cullà<s n="vblex"/></l><r>colare<s n="vblex"/></r></p></e>
       <e><p><l>votà<s n="vblex"/></l><r>votare<s n="vblex"/></r></p></e>
@@ -3102,8 +3108,10 @@
       <e><p><l>fundatu<s n="adj"/></l><r>fondato<s n="adj"/></r></p></e>
       <e><p><l>bisestile<s n="adj"/><s n="mf"/></l><r>bisestile<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>currispundente<s n="adj"/><s n="mf"/></l><r>corrispondente<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>indipendente<s n="adj"/><s n="mf"/></l><r>indipendente<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>naziunale<s n="adj"/><s n="mf"/></l><r>nazionale<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>internu<s n="adj"/></l><r>interno<s n="adj"/></r></p></e>
+      <e><p><l>culunialistu<s n="adj"/></l><r>colonialista<s n="adj"/></r></p></e>
       <e><p><l>mediu<s n="adj"/></l><r>medio<s n="adj"/></r></p></e>
       <e><p><l>atomicu<s n="adj"/></l><r>atomico<s n="adj"/></r></p></e>
       <e><p><l>dapoi<s n="adv"/></l><r>poi<s n="adv"/></r></p></e>
@@ -3311,23 +3319,25 @@
       <e><p><l>caminu<s n="n"/><s n="m"/></l><r>cammino<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>baruffa<s n="n"/><s n="f"/></l><r>baruffa<s n="n"/><s n="f"/></r></p></e>
 
-      <e><p><l>residenza<s n="n"/><s n="f"/></l><r>residenza<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>pronti<s n="adv"/></l><r>pronte<s n="adv"/></r></p></e>
-      <e><p><l>precisamente<s n="adv"/></l><r>precisamente<s n="adv"/></r></p></e>
       <e><p><l>menu<s n="adv"/></l><r>meno<s n="adv"/></r></p></e>
+      <e><p><l>precisamente<s n="adv"/></l><r>precisamente<s n="adv"/></r></p></e>
+
       <e><p><l>ghjustu<s n="adj"/></l><r>giusto<s n="adj"/></r></p></e>
       <e><p><l>fiscale<s n="adj"/><s n="mf"/></l><r>fiscale<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>custruttibile<s n="adj"/><s n="mf"/></l><r>costruibile<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>dirittu<s n="adj"/></l><r>deretto<s n="adj"/></r></p></e>
-      <e><p><l>cunservatoriu<s n="n"/><s n="m"/></l><r>conservatorio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>bonu<s n="adj"/></l><r>buono<s n="adj"/></r></p></e>
       <e><p><l>attrattivu<s n="adj"/></l><r>attrattivo<s n="adj"/></r></p></e>
       <e><p><l>bellu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
       <e><p><l>immubiliariu<s n="adj"/></l><r>immobiliare<s n="adj"/></r></p><par n="GD_mf"/></e>
-      <e><p><l>appartamentu<s n="n"/><s n="m"/></l><r>appartamento<s n="n"/><s n="m"/></r></p></e>
 
      
+      <e><p><l>cunservatoriu<s n="n"/><s n="m"/></l><r>conservatorio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>residenza<s n="n"/><s n="f"/></l><r>residenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>appartamentu<s n="n"/><s n="m"/></l><r>appartamento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pressione<s n="n"/><s n="f"/></l><r>pressione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>autonomia<s n="n"/><s n="f"/></l><r>autonomia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>merendella<s n="n"/><s n="f"/></l><r>pranzo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>liturale<s n="n"/><s n="m"/></l><r>litorale<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>laziu<s n="n"/><s n="m"/></l><r>piacere<s n="n"/><s n="m"/></r></p></e>
