@@ -1,5 +1,7 @@
 <rules>
-
+  <rule>
+    <match lemma="laziu" tags="n.*"><select lemma="piacere" tags="n.*"/></match>
+  </rule>
   <rule>
     <match lemma="vultà" tags="vblex.*"><select lemma="tornare" tags="vblex.*"/></match>
     <match lemma="si" tags="prn.*"/>
