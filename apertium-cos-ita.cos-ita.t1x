@@ -2497,6 +2497,46 @@
        </action>
     </rule>
 
+    <rule comment="regla: det adjec nom">
+       <pattern>
+         <pattern-item n="det"/>
+         <pattern-item n="adjec"/>
+         <pattern-item n="nom"/>
+       </pattern>
+       <action>
+         <call-macro n="f_concord3">
+           <with-param pos="3"/>
+           <with-param pos="2"/>
+           <with-param pos="1"/>
+         </call-macro>     
+         <out>
+           <chunk name="det_j_n">
+             <tags>
+               <tag><lit-tag v="SN"/></tag>
+             </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lemh"/>
+             <clip pos="1" side="tl" part="tags"/>
+             <clip pos="1" side="tl" part="lemq"/>
+           </lu>
+           <b pos="1"/>
+           <lu>
+             <clip pos="2" side="tl" part="lemh"/>
+             <clip pos="2" side="tl" part="tags"/>
+             <clip pos="2" side="tl" part="lemq"/>
+           </lu>
+           <b pos="2"/>
+           <lu>
+             <clip pos="3" side="tl" part="lemh"/>
+             <clip pos="3" side="tl" part="tags"/>
+             <clip pos="3" side="tl" part="lemq"/>
+           </lu>
+         </chunk>
+         </out>
+       </action>
+    </rule>
+
+
 
     <rule comment="regla: num nom">
        <pattern>
