@@ -261,8 +261,8 @@
       <e><p><l>quellu<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/></r></p></e>
       <e r="LR"><p><l>quellu<s n="det"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>quello<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
 
-      <e><p><l>unepochi<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></l><r>qualcuno<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p><l>unepochi<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></l><r>qualcuno<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p><l>unepochi<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></l><r>alcun<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>unepochi<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></l><r>alcun<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
 
       <e><p><l>quiddu<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/></r></p></e>
       <e r="LR"><p><l>quiddu<s n="det"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>quello<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
