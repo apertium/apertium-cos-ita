@@ -2548,6 +2548,8 @@
       <e><p><l>mo<s n="adj"/><s n="pos"/></l><r>mio<s n="adj"/><s n="pos"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>to<s n="adj"/><s n="pos"/></l><r>tuo<s n="adj"/><s n="pos"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>so<s n="adj"/><s n="pos"/></l><r>suo<s n="adj"/><s n="pos"/></r></p><par n="mf_GD|sp_ND"/></e>
+      <e><p><l>so<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></l><r>suo<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+
       <e><p><l>nostru<s n="adj"/><s n="pos"/></l><r>nostro<s n="adj"/><s n="pos"/></r></p></e>
       <e><p><l>vostru<s n="adj"/><s n="pos"/></l><r>vostro<s n="adj"/><s n="pos"/></r></p></e>
 
@@ -2876,6 +2878,7 @@
       <e><p><l>ispirà<s n="vblex"/></l><r>ispirare<s n="vblex"/></r></p></e>
       <e><p><l>insultà<s n="vblex"/></l><r>insultare<s n="vblex"/></r></p></e>
       <e><p><l>piglià<s n="vblex"/></l><r>pigliare<s n="vblex"/></r></p></e>
+      <e><p><l>piglià<s n="vblex"/></l><r>prendere<s n="vblex"/></r></p></e>
       <e><p><l>esaminà<s n="vblex"/></l><r>esaminare<s n="vblex"/></r></p></e>
       <e><p><l>idintificà<s n="vblex"/></l><r>identificare<s n="vblex"/></r></p></e>
       <e><p><l>rivendicà<s n="vblex"/></l><r>rivendicare<s n="vblex"/></r></p></e>
