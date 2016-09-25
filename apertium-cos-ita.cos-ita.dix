@@ -1771,6 +1771,7 @@
       <e><p><l>discuteca<s n="n"/><s n="f"/></l><r>discoteca<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>cuuperazione<s n="n"/><s n="f"/></l><r>cooperazione<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>caminu<s n="n"/><s n="m"/></l><r>cammino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>accidente<s n="n"/><s n="m"/></l><r>accidente<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>baruffa<s n="n"/><s n="f"/></l><r>baruffa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>scelta<s n="n"/><s n="f"/></l><r>scelta<s n="n"/><s n="f"/></r></p></e>
       
@@ -4300,6 +4301,7 @@
       <e><p><l>prisente<s n="adj"/><s n="mf"/></l><r>presente<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>oghje<s n="adv"/></l><r>oggi<s n="adv"/></r></p></e>
       <e><p><l>maiore<s n="adj"/><s n="mf"/></l><r>maggiore<s n="adj"/><s n="mf"/></r></p></e>
+      <e r="LR"><p><l>maiò<s n="adj"/><s n="mf"/><s n="sp"/></l><r>maggiore<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e><p><l>scupertu<s n="adj"/></l><r>scoperto<s n="adj"/></r></p></e>
       
       <e><p><l>suttanu<s n="adj"/></l><r>sottano<s n="adj"/></r></p></e>
