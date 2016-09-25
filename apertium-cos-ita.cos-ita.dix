@@ -178,9 +178,15 @@
       <e><p><l>nantu<s n="pr"/></l><r>dentro<s n="pr"/></r></p></e>
       <e><p><l>versu<s n="pr"/></l><r>verso<s n="pr"/></r></p></e>
       <e><p><l>fora<s n="pr"/></l><r>fuori<s n="pr"/></r></p></e>
-      <e><p><l>sottu à<s n="pr"/></l><r>soto a<s n="pr"/></r></p></e>
+      <e><p><l>sottu<b/>à<s n="pr"/></l><r>soto<b/>a<s n="pr"/></r></p></e>
+ 
+      <e><p><l>prima<s n="pr"/></l><r>prima<s n="pr"/></r></p></e>
+      <e><p><l>intornu<s n="pr"/></l><r>intorno<s n="pr"/></r></p></e>
+      <e><p><l>accantu<s n="pr"/></l><r>accanto<s n="pr"/></r></p></e>
+      <e><p><l>insin'à<s n="pr"/></l><r>fino<b/>a<s n="pr"/></r></p></e>
+      <e><p><l>davant'à<s n="pr"/></l><r>davanti<b/>a<s n="pr"/></r></p></e>
 
-<!--
+     <!--
       <e><p><l>insin'à<s n="pr"/></l><r>@insin'à<s n="pr"/></r></p></e>
       <e><p><l>accantu<s n="pr"/></l><r>accanto<s n="pr"/></r></p></e>
       <e><p><l>intornu<s n="pr"/></l><r>intorno<s n="pr"/></r></p></e>
@@ -231,6 +237,14 @@
       <e r="LR"><p><l>nissunu<s n="prn"/><s n="tn"/><s n="mf"/></l><r>nessuno<s n="prn"/><s n="tn"/><s n="GD"/></r></p></e>
 
       <e><p><l>chì<s n="rel"/><s n="an"/></l><r>chi<s n="rel"/><s n="nn"/></r></p></e>
+ 
+      <e><p><l>edda<s n="prn"/><s n="tn"/></l><r>lei<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>ognunu<s n="prn"/><s n="tn"/></l><r>ognuno<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>qualcosa<s n="prn"/><s n="tn"/></l><r>qualcosa<s n="prn"/><s n="tn"/></r></p></e>
+      
+      <e><p><l>quanto<s n="rel"/><s n="nn"/></l><r>quanto<s n="rel"/><s n="nn"/></r></p></e>
+      
+     
 
       <!-- SECTION: Determinantes -->
 
@@ -285,7 +299,10 @@
       <e><p><l>vinti<s n="num"/></l><r>venti<s n="num"/></r></p></e>
       <e><p><l>novanta<s n="num"/></l><r>novanta<s n="num"/></r></p></e>
       <e><p><l>dodici<s n="num"/></l><r>dodici<s n="num"/></r></p></e>
-
+      
+      <e><p><l>quaranta<s n="num"/></l><r>quaranta<s n="num"/></r></p></e>
+      <e><p><l>cinquecentu<s n="num"/></l><r>cinquecento<s n="num"/></r></p></e>
+ 
 
       <e><p><l>C<s n="num"/></l><r>C<s n="num"/></r></p></e>
       <e><p><l>D<s n="num"/></l><r>D<s n="num"/></r></p></e>
@@ -1235,6 +1252,510 @@
       <e><p><l>avvene<s n="n"/><s n="m"/></l><r>futuro<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>parlamentariu<s n="n"/><s n="m"/></l><r>parlamentarista<s n="n"/><s n="m"/></r></p></e>
 
+      <e><p><l>cunservatoriu<s n="n"/><s n="m"/></l><r>conservatorio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>residenza<s n="n"/><s n="f"/></l><r>residenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>appartamentu<s n="n"/><s n="m"/></l><r>appartamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pressione<s n="n"/><s n="f"/></l><r>pressione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>autonomia<s n="n"/><s n="f"/></l><r>autonomia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>merendella<s n="n"/><s n="f"/></l><r>pranzo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>liturale<s n="n"/><s n="m"/></l><r>litorale<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>laziu<s n="n"/><s n="m"/></l><r>piacere<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>laziu<s n="n"/><s n="m"/></l><r>voglia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>turistu<s n="n"/><s n="m"/></l><r>turista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>astutone<s n="n"/><s n="m"/></l><r>furbacchione<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scornu<s n="n"/><s n="m"/></l><r>scorno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>petroliu<s n="n"/><s n="m"/></l><r>petrolio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bettonu<s n="n"/><s n="m"/></l><r>cemento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>paisaghju<s n="n"/><s n="m"/></l><r>paesaggio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>speculatore<s n="n"/><s n="m"/></l><r>speculatore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ora<s n="n"/><s n="f"/></l><r>ora<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dumenicu<s n="n"/></l><r>domenica<s n="n"/></r></p></e>
+ 
+      <e><p><l>locu<s n="n"/><s n="m"/></l><r>luogo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lavu<s n="n"/><s n="m"/></l><r>lago<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sudu<s n="n"/><s n="m"/></l><r>sud<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>basa<s n="n"/><s n="f"/></l><r>base<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ebbica<s n="n"/><s n="f"/></l><r>epoca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>voce<s n="n"/><s n="f"/></l><r>voce<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>discu<s n="n"/><s n="m"/></l><r>disco<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>seria<s n="n"/><s n="f"/></l><r>serie<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cosa<s n="n"/><s n="f"/></l><r>cosa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>notte<s n="n"/><s n="f"/></l><r>notte<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>squadra<s n="n"/><s n="f"/></l><r>squadra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ghjente<s n="n"/><s n="f"/></l><r>gente<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>amore<s n="n"/><s n="m"/></l><r>amore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ghjucadore<s n="n"/><s n="m"/></l><r>giocatore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cucina<s n="n"/><s n="f"/></l><r>cucina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vinu<s n="n"/><s n="m"/></l><r>vino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cima<s n="n"/><s n="f"/></l><r>cima<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>staghjone<s n="n"/><s n="f"/></l><r>stagione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>assemblea<s n="n"/><s n="f"/></l><r>assemblea<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pezzu<s n="n"/><s n="m"/></l><r>pezzo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>minutu<s n="n"/><s n="m"/></l><r>minuto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>carriera<s n="n"/><s n="f"/></l><r>carriera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scena<s n="n"/><s n="f"/></l><r>scena<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>accordu<s n="n"/><s n="m"/></l><r>accordo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ochju<s n="n"/><s n="m"/></l><r>occhio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>male<s n="n"/><s n="m"/></l><r>male<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>prublema<s n="n"/><s n="m"/></l><r>problema<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pagina<s n="n"/><s n="f"/></l><r>pagina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>circondu<s n="n"/><s n="m"/></l><r>circondario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>stilu<s n="n"/><s n="m"/></l><r>stile<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rivolta<s n="n"/><s n="f"/></l><r>rivolta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>carta<s n="n"/><s n="f"/></l><r>carta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cantadore<s n="n"/><s n="m"/></l><r>cantante<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>strumentu<s n="n"/><s n="m"/></l><r>strumento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ritrattu<s n="n"/><s n="m"/></l><r>ritratto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dirittu<s n="n"/><s n="m"/></l><r>diritto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>accessu<s n="n"/><s n="m"/></l><r>accesso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tomba<s n="n"/><s n="f"/></l><r>tomba<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rumanzu<s n="n"/><s n="m"/></l><r>romanzo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bisognu<s n="n"/><s n="m"/></l><r>bisogno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pruprietà<s n="n"/><s n="f"/></l><r>proprietà<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>caldu<s n="n"/><s n="m"/></l><r>caldo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>patria<s n="n"/><s n="f"/></l><r>patria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>finale<s n="n"/><s n="f"/></l><r>finale<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ducumentu<s n="n"/><s n="m"/></l><r>documento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>discorsu<s n="n"/><s n="m"/></l><r>discorso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lista<s n="n"/><s n="f"/></l><r>lista<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>teatru<s n="n"/><s n="m"/></l><r>teatro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>superiore<s n="n"/><s n="m"/></l><r>superiore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sucetà<s n="n"/><s n="f"/></l><r>società<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rete<s n="n"/><s n="f"/></l><r>rete<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>legenda<s n="n"/><s n="f"/></l><r>leggenda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lamentu<s n="n"/><s n="m"/></l><r>lamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ghjovi<s n="n"/><s n="m"/></l><r>giovedì<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>truppa<s n="n"/><s n="f"/></l><r>truppa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>regula<s n="n"/><s n="f"/></l><r>regola<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>citatinu<s n="n"/><s n="m"/></l><r>cittadino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>identità<s n="n"/><s n="f"/></l><r>identità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>estate<s n="n"/><s n="m"/></l><r>estate<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>batteria<s n="n"/><s n="f"/></l><r>batteria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>associu<s n="n"/><s n="m"/></l><r>associazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>tema<s n="n"/><s n="m"/></l><r>tema<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nutizia<s n="n"/><s n="f"/></l><r>notizia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nubiltà<s n="n"/><s n="f"/></l><r>nobiltà<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>episodiu<s n="n"/><s n="m"/></l><r>episodio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>attu<s n="n"/><s n="m"/></l><r>atto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>infernu<s n="n"/><s n="m"/></l><r>inferno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>stadiu<s n="n"/><s n="m"/></l><r>stadio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>linea<s n="n"/><s n="f"/></l><r>linea<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lege<s n="n"/><s n="f"/></l><r>legge<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>impresa<s n="n"/><s n="f"/></l><r>impresa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cummunità<s n="n"/><s n="f"/></l><r>comunità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>strattu<s n="n"/><s n="m"/></l><r>estratto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>racolta<s n="n"/><s n="f"/></l><r>raccolta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>equilibriu<s n="n"/><s n="m"/></l><r>equilibrio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dichjarazione<s n="n"/><s n="f"/></l><r>dichiarazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>apertura<s n="n"/><s n="f"/></l><r>apertura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>riforma<s n="n"/><s n="f"/></l><r>riforma<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>insignamentu<s n="n"/><s n="m"/></l><r>insegnamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>differenza<s n="n"/><s n="f"/></l><r>differenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cullettività<s n="n"/><s n="f"/></l><r>collettività<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>castagnu<s n="n"/><s n="m"/></l><r>castagno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>attualità<s n="n"/><s n="f"/></l><r>attualità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>artistu<s n="n"/><s n="m"/></l><r>artista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ricchezza<s n="n"/><s n="f"/></l><r>ricchezza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>resistenza<s n="n"/><s n="f"/></l><r>resistenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>verità<s n="n"/><s n="f"/></l><r>verità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>persunalità<s n="n"/><s n="f"/></l><r>personalità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>parità<s n="n"/><s n="f"/></l><r>parità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>militante<s n="n"/><s n="m"/></l><r>militante<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>festività<s n="n"/><s n="f"/></l><r>festività<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>duttore<s n="n"/><s n="m"/></l><r>dottore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dischettu<s n="n"/><s n="m"/></l><r>dischetto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cuppa<s n="n"/><s n="f"/></l><r>coppa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuntrariu<s n="n"/><s n="m"/></l><r>contrario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>assenza<s n="n"/><s n="f"/></l><r>assenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>universu<s n="n"/><s n="m"/></l><r>universo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>residente<s n="n"/><s n="m"/></l><r>residente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>internet<s n="n"/><s n="m"/></l><r>internet<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>frasa<s n="n"/><s n="f"/></l><r>frase<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>crisa<s n="n"/><s n="f"/></l><r>crisi<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>campana<s n="n"/><s n="f"/></l><r>campana<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pulizza<s n="n"/><s n="f"/></l><r>polizia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prugramma<s n="n"/><s n="m"/></l><r>programma<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>omagiu<s n="n"/><s n="m"/></l><r>omaggio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cuscenza<s n="n"/><s n="f"/></l><r>coscenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuncertu<s n="n"/><s n="m"/></l><r>concerto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vittura<s n="n"/><s n="f"/></l><r>vettura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>settimana<s n="n"/><s n="f"/></l><r>settimana<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ricordu<s n="n"/><s n="m"/></l><r>ricordo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>paisanu<s n="n"/><s n="m"/></l><r>paesano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ghjurnata<s n="n"/><s n="f"/></l><r>giornata<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>viulenza<s n="n"/><s n="f"/></l><r>violenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pruposta<s n="n"/><s n="f"/></l><r>proposta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>presenza<s n="n"/><s n="f"/></l><r>presenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>maturità<s n="n"/><s n="f"/></l><r>maturità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>campione<s n="n"/><s n="m"/></l><r>campione<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sonu<s n="n"/><s n="m"/></l><r>suono<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>settore<s n="n"/><s n="m"/></l><r>settore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>publicazione<s n="n"/><s n="f"/></l><r>pubblicazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>minacciatu<s n="n"/><s n="m"/></l><r>minacciato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fucile<s n="n"/><s n="m"/></l><r>fucile<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>esecutivu<s n="n"/><s n="m"/></l><r>esecutivo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>disertu<s n="n"/><s n="m"/></l><r>deserto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>diritta<s n="n"/><s n="f"/></l><r>diritta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dibattitu<s n="n"/><s n="m"/></l><r>dibattito<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cummandante<s n="n"/><s n="m"/></l><r>comandante<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>capimachja<s n="n"/><s n="m"/></l><r>capo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>suvranità<s n="n"/><s n="f"/></l><r>sovranità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prefettura<s n="n"/><s n="f"/></l><r>prefettura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>matina<s n="n"/><s n="f"/></l><r>mattina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>magiurità<s n="n"/><s n="f"/></l><r>maggioranza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>intensità<s n="n"/><s n="f"/></l><r>intensità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>gloria<s n="n"/><s n="f"/></l><r>gloria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dissegnu<s n="n"/><s n="m"/></l><r>disegno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>assassiniu<s n="n"/><s n="m"/></l><r>assassinio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sognu<s n="n"/><s n="m"/></l><r>sogno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>patrone<s n="n"/><s n="m"/></l><r>padrone<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>odore<s n="n"/><s n="m"/></l><r>odore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>missaghju<s n="n"/><s n="m"/></l><r>messaggio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>maraviglia<s n="n"/><s n="f"/></l><r>meraviglia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>futbol<s n="n"/><s n="m"/></l><r>calcio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>caffè<s n="n"/><s n="m"/></l><r>caffè<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vuluntà<s n="n"/><s n="f"/></l><r>volontà<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>viulinu<s n="n"/><s n="m"/></l><r>violino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sabatu<s n="n"/><s n="m"/></l><r>sabato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ragione<s n="n"/><s n="f"/></l><r>ragione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prefettu<s n="n"/><s n="m"/></l><r>prefetto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>missione<s n="n"/><s n="f"/></l><r>missione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lindumane<s n="n"/><s n="m"/></l><r>indomani<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>impussibilità<s n="n"/><s n="f"/></l><r>impossibilità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ghitarra<s n="n"/><s n="f"/></l><r>chitarra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>geniu<s n="n"/><s n="m"/></l><r>genio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cunsequenza<s n="n"/><s n="f"/></l><r>conseguenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>video<s n="n"/><s n="m"/></l><r>video<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tippu<s n="n"/><s n="m"/></l><r>tipo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sustenidore<s n="n"/><s n="m"/></l><r>sostenitore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>studiante<s n="n"/><s n="m"/></l><r>studente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pulifunia<s n="n"/><s n="f"/></l><r>polifonia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>nuttata<s n="n"/><s n="f"/></l><r>nottata<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mancanza<s n="n"/><s n="f"/></l><r>mancanza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ghjuventù<s n="n"/><s n="f"/></l><r>gioventù<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cummentu<s n="n"/><s n="m"/></l><r>commento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cumitatu<s n="n"/><s n="m"/></l><r>comitato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bomba<s n="n"/><s n="f"/></l><r>bomba<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>banda<s n="n"/><s n="f"/></l><r>banda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>argumentu<s n="n"/><s n="m"/></l><r>argomento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vittima<s n="n"/><s n="f"/></l><r>vittima<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>turismu<s n="n"/><s n="m"/></l><r>turismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>trasmissione<s n="n"/><s n="f"/></l><r>trasmissione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rivalità<s n="n"/><s n="f"/></l><r>rivalità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rigalu<s n="n"/><s n="m"/></l><r>regalo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>paradisu<s n="n"/><s n="m"/></l><r>paradiso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nemicu<s n="n"/><s n="m"/></l><r>nemico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>naziunalità<s n="n"/><s n="f"/></l><r>nazionalità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>moda<s n="n"/><s n="f"/></l><r>moda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>evenimentu<s n="n"/><s n="m"/></l><r>avvenimento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>direttore<s n="n"/><s n="m"/></l><r>direttore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dialogu<s n="n"/><s n="m"/></l><r>dialogo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cunfusione<s n="n"/><s n="f"/></l><r>confusione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cunclusione<s n="n"/><s n="f"/></l><r>conclusione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuncizzione<s n="n"/><s n="f"/></l><r>concezione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>categuria<s n="n"/><s n="f"/></l><r>categoria<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>bellezza<s n="n"/><s n="f"/></l><r>bellezza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>agentu<s n="n"/><s n="m"/></l><r>agente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>abbundanza<s n="n"/><s n="f"/></l><r>abbondanza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>webmaestru<s n="n"/><s n="m"/></l><r>webmaster<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tribuna<s n="n"/><s n="f"/></l><r>tribuna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scandalu<s n="n"/><s n="m"/></l><r>scandalo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>riferenza<s n="n"/><s n="f"/></l><r>referenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prufessore<s n="n"/><s n="m"/></l><r>professore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>orechja<s n="n"/><s n="f"/></l><r>orecchio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>opinione<s n="n"/><s n="f"/></l><r>opinione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>iniziativa<s n="n"/><s n="f"/></l><r>iniziativa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>furtificazione<s n="n"/><s n="f"/></l><r>fortificazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>furia<s n="n"/><s n="f"/></l><r>fretta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cungressu<s n="n"/><s n="m"/></l><r>congresso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cummuna<s n="n"/><s n="f"/></l><r>comune<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bibliugrafia<s n="n"/><s n="f"/></l><r>bibliografia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>avucatu<s n="n"/><s n="m"/></l><r>avvocato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>teulugia<s n="n"/><s n="f"/></l><r>teologia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>televisione<s n="n"/><s n="f"/></l><r>televisione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>struzzione<s n="n"/><s n="f"/></l><r>istruzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>speranza<s n="n"/><s n="f"/></l><r>speranza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>simplicità<s n="n"/><s n="f"/></l><r>semplicità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rivuluziunariu<s n="n"/><s n="m"/></l><r>rivoluzionario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ritimu<s n="n"/><s n="m"/></l><r>ritmo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rap<s n="n"/><s n="m"/></l><r>rap<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ombra<s n="n"/><s n="f"/></l><r>ombra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>municipalità<s n="n"/><s n="f"/></l><r>municipalità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>magazinu<s n="n"/><s n="m"/></l><r>magazzino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fiascu<s n="n"/><s n="m"/></l><r>fiasco<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>difensore<s n="n"/><s n="m"/></l><r>difensore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>culunia<s n="n"/><s n="f"/></l><r>colonia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>carne<s n="n"/><s n="f"/></l><r>carne<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>blogu<s n="n"/><s n="m"/></l><r>blog<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bigliettu<s n="n"/><s n="m"/></l><r>biglietto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>asterismu<s n="n"/><s n="m"/></l><r>asterismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>viaghjadore<s n="n"/><s n="m"/></l><r>viaggiatore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tensione<s n="n"/><s n="f"/></l><r>tensione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>talentu<s n="n"/><s n="m"/></l><r>talento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>stabilimentu<s n="n"/><s n="m"/></l><r>stabilimento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>spressione<s n="n"/><s n="f"/></l><r>espressione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sfarenza<s n="n"/><s n="f"/></l><r>differenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>riunione<s n="n"/><s n="f"/></l><r>riunione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>risa<s n="n"/><s n="f"/></l><r>risata<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ragiò<s n="n"/><s n="f"/></l><r>ragione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>patriottu<s n="n"/><s n="m"/></l><r>patriota<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>maffiosu<s n="n"/><s n="m"/></l><r>mafioso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>invinzione<s n="n"/><s n="f"/></l><r>invenzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>giurnale<s n="n"/><s n="m"/></l><r>giornale<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>forum<s n="n"/><s n="m"/></l><r>forum<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>demucrazia<s n="n"/><s n="f"/></l><r>democrazia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>delegatu<s n="n"/><s n="m"/></l><r>delegato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cuncurrenza<s n="n"/><s n="f"/></l><r>concorrenza<s n="n"/><s n="f"/></r></p></e>
+      
+      
+      <e><p><l>candidatu<s n="n"/><s n="m"/></l><r>candidato<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>accanitu<s n="n"/><s n="m"/></l><r>accanito<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>uccasione<s n="n"/><s n="f"/></l><r>occasione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>turneu<s n="n"/><s n="m"/></l><r>torneo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>tesoru<s n="n"/><s n="m"/></l><r>tesoro<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sunadore<s n="n"/><s n="m"/></l><r>suonatore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>strufata<s n="n"/><s n="f"/></l><r>strofa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sinu<s n="n"/><s n="m"/></l><r>seno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>securità<s n="n"/><s n="f"/></l><r>sicurezza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>saccheghju<s n="n"/><s n="m"/></l><r>saccheggio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>riassuntu<s n="n"/><s n="m"/></l><r>riassunto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>referendum<s n="n"/><s n="m"/></l><r>referendum<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pudere<s n="n"/><s n="m"/></l><r>potere<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pistola<s n="n"/><s n="f"/></l><r>pistola<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ostilità<s n="n"/><s n="f"/></l><r>ostilità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>minurità<s n="n"/><s n="f"/></l><r>minoranza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ministra<s n="n"/><s n="f"/></l><r>ministra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>magagna<s n="n"/><s n="f"/></l><r>scherzo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>macciu<s n="n"/><s n="m"/></l><r>partita<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>liceanu<s n="n"/><s n="m"/></l><r>liceale<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ghjuramentu<s n="n"/><s n="m"/></l><r>giuramento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ghitara<s n="n"/><s n="f"/></l><r>chitarra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>filmettu<s n="n"/><s n="m"/></l><r>filmetto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fallu<s n="n"/><s n="m"/></l><r>fallo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cuufficialità<s n="n"/><s n="f"/></l><r>coufficialità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>curiosità<s n="n"/><s n="f"/></l><r>curiosità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cunfidenza<s n="n"/><s n="f"/></l><r>confidenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>carità<s n="n"/><s n="f"/></l><r>carità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cacciadore<s n="n"/><s n="m"/></l><r>cacciatore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vacanza<s n="n"/><s n="f"/></l><r>vacanza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>surpresa<s n="n"/><s n="f"/></l><r>sorpresa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>striscione<s n="n"/><s n="f"/></l><r>striscione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>spirienza<s n="n"/><s n="f"/></l><r>esperienza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>seminariu<s n="n"/><s n="m"/></l><r>seminario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ripressione<s n="n"/><s n="f"/></l><r>repressione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>retorica<s n="n"/><s n="f"/></l><r>retorica<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>privatizazione<s n="n"/><s n="f"/></l><r>privatizzazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>picuraghju<s n="n"/><s n="m"/></l><r>pecoraio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>partigianu<s n="n"/><s n="m"/></l><r>partigiano<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pacchettu<s n="n"/><s n="m"/></l><r>pacchetto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>naziunalisimu<s n="n"/><s n="m"/></l><r>nazionalisimo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>inghjustizia<s n="n"/><s n="f"/></l><r>ingiustizia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>giurnalistu<s n="n"/><s n="m"/></l><r>giornalista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>finanza<s n="n"/><s n="f"/></l><r>finanza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>elettore<s n="n"/><s n="m"/></l><r>elettore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>disimpiegu<s n="n"/><s n="m"/></l><r>disimpiego<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>discografia<s n="n"/><s n="f"/></l><r>discografia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>curridore<s n="n"/><s n="m"/></l><r>corridore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cunferenza<s n="n"/><s n="f"/></l><r>conferenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cumbattente<s n="n"/><s n="m"/></l><r>combattente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>catastrofa<s n="n"/><s n="f"/></l><r>catastrofe<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>buttiglia<s n="n"/><s n="f"/></l><r>bottiglia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>brama<s n="n"/><s n="f"/></l><r>brama<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>aventura<s n="n"/><s n="f"/></l><r>avventura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>autonomistu<s n="n"/><s n="m"/></l><r>autonomista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>appuntamentu<s n="n"/><s n="m"/></l><r>appuntamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ambianza<s n="n"/><s n="f"/></l><r>ambiente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>agenzia<s n="n"/><s n="f"/></l><r>agenzia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vincidore<s n="n"/><s n="m"/></l><r>vincitore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>telefuninu<s n="n"/><s n="m"/></l><r>telefonino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sucialistu<s n="n"/><s n="m"/></l><r>socialista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>succesu<s n="n"/><s n="m"/></l><r>successo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>spesa<s n="n"/><s n="f"/></l><r>spesa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sottumissione<s n="n"/><s n="f"/></l><r>sottomissione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sensibilità<s n="n"/><s n="f"/></l><r>sensibilità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>selezziunadore<s n="n"/><s n="m"/></l><r>selezionatore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scempiu<s n="n"/><s n="m"/></l><r>scempio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>salvezza<s n="n"/><s n="f"/></l><r>salvezza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>riflessione<s n="n"/><s n="f"/></l><r>riflessione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prupurzione<s n="n"/><s n="f"/></l><r>proporzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prevenutu<s n="n"/><s n="m"/></l><r>prevenuto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>precisione<s n="n"/><s n="f"/></l><r>precisione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>miraculu<s n="n"/><s n="m"/></l><r>miracolo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>leghjitimità<s n="n"/><s n="f"/></l><r>legittimità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>intruduzzione<s n="n"/><s n="f"/></l><r>introduzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>impressione<s n="n"/><s n="f"/></l><r>impressione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>imaginazione<s n="n"/><s n="f"/></l><r>immaginazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ignuranza<s n="n"/><s n="f"/></l><r>ignoranza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fraternità<s n="n"/><s n="f"/></l><r>fratellanza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>detaglu<s n="n"/><s n="m"/></l><r>dettaglio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>demissione<s n="n"/><s n="f"/></l><r>dimissione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>curpurazione<s n="n"/><s n="f"/></l><r>corporazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cristianismu<s n="n"/><s n="m"/></l><r>cristianesimo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>clip<s n="n"/><s n="m"/></l><r>clip<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cimentu<s n="n"/><s n="m"/></l><r>cemento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>centinaia<s n="n"/><s n="f"/></l><r>centinaia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>associ<s n="n"/><s n="m"/></l><r>associazione<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>anniversariu<s n="n"/><s n="m"/></l><r>anniversario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>adattazione<s n="n"/><s n="f"/></l><r>adattamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>viulunistu<s n="n"/><s n="m"/></l><r>violinista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vagabonda<s n="n"/><s n="f"/></l><r>vagabonda<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>urganismu<s n="n"/><s n="m"/></l><r>organismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>uguaglianza<s n="n"/><s n="f"/></l><r>uguaglianza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>terrorismu<s n="n"/><s n="m"/></l><r>terrorismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sugettu<s n="n"/><s n="m"/></l><r>soggetto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sucialistu<s n="n"/><s n="f"/></l><r>socialista<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>signatura<s n="n"/><s n="f"/></l><r>firma<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>seanza<s n="n"/><s n="f"/></l><r>sequenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ripruduzzione<s n="n"/><s n="f"/></l><r>riproduzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>riportu<s n="n"/><s n="m"/></l><r>riporto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ripertoriu<s n="n"/><s n="m"/></l><r>repertorio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ricunniscenza<s n="n"/><s n="f"/></l><r>riconoscenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>raprisentazione<s n="n"/><s n="f"/></l><r>rappresentazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pruiezzione<s n="n"/><s n="f"/></l><r>proiezione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prufessione<s n="n"/><s n="f"/></l><r>professione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pantera<s n="n"/><s n="f"/></l><r>pantera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mullizzu<s n="n"/><s n="m"/></l><r>immondizia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lagnanza<s n="n"/><s n="f"/></l><r>lamentela<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ingrediente<s n="n"/><s n="m"/></l><r>ingrediente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>independenza<s n="n"/><s n="f"/></l><r>indipendenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ginnàstica<s n="n"/><s n="f"/></l><r>ginnastica<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ghjudaismu<s n="n"/><s n="m"/></l><r>giudaismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>gendarmeria<s n="n"/><s n="f"/></l><r>carabinieri<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fastidiu<s n="n"/><s n="m"/></l><r>fastidio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fascismu<s n="n"/><s n="m"/></l><r>fascismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dittatura<s n="n"/><s n="f"/></l><r>dittatura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dirigente<s n="n"/><s n="m"/></l><r>dirigente<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>depressione<s n="n"/><s n="f"/></l><r>depressione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuncurenza<s n="n"/><s n="f"/></l><r>concorrenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cummunicazione<s n="n"/><s n="f"/></l><r>comunicazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cullaburazione<s n="n"/><s n="f"/></l><r>collaborazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuerenza<s n="n"/><s n="f"/></l><r>coerenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>clientela<s n="n"/><s n="f"/></l><r>clientela<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>classamentu<s n="n"/><s n="m"/></l><r>classificazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>citatinanza<s n="n"/><s n="f"/></l><r>cittadinanza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cistinu<s n="n"/><s n="m"/></l><r>cestino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cerbellu<s n="n"/><s n="m"/></l><r>cervello<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bettunizazione<s n="n"/><s n="f"/></l><r>cementificazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>avisu<s n="n"/><s n="m"/></l><r>avviso<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>autonomistu<s n="n"/><s n="f"/></l><r>autonomista<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>artistu<s n="n"/><s n="f"/></l><r>artista<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>arregistramentu<s n="n"/><s n="m"/></l><r>registrazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>anglismu<s n="n"/><s n="m"/></l><r>anglismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>andatura<s n="n"/><s n="f"/></l><r>andatura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>viulazione<s n="n"/><s n="f"/></l><r>violazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>urbanisimu<s n="n"/><s n="m"/></l><r>urbanistica<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>trasferimentu<s n="n"/><s n="m"/></l><r>trasferimento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sustinitore<s n="n"/><s n="m"/></l><r>sostenitore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>supresa<s n="n"/><s n="f"/></l><r>sopresa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sundagiu<s n="n"/><s n="m"/></l><r>sondaggio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sulistu<s n="n"/><s n="m"/></l><r>solista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>sulistu<s n="n"/><s n="f"/></l><r>solista<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sulidarità<s n="n"/><s n="f"/></l><r>solidarietà<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sprufundamentu<s n="n"/><s n="m"/></l><r>sprofondamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>spiazzamentu<s n="n"/><s n="m"/></l><r>@spiazzamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>spezialità<s n="n"/><s n="f"/></l><r>specialità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>specificità<s n="n"/><s n="f"/></l><r>specificità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sociulinguistica<s n="n"/><s n="f"/></l><r>sociolinguistica<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sismu<s n="n"/><s n="m"/></l><r>sisma<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>simbulismu<s n="n"/><s n="m"/></l><r>simbolismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>serenità<s n="n"/><s n="f"/></l><r>serenità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scumpientu<s n="n"/><s n="m"/></l><r>sciagura<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ricuperazione<s n="n"/><s n="f"/></l><r>recupero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>revelazione<s n="n"/><s n="f"/></l><r>rivelazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rettore<s n="n"/><s n="m"/></l><r>rettore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>respunsabilità<s n="n"/><s n="f"/></l><r>responsabilità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>repressione<s n="n"/><s n="f"/></l><r>repressione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>regiunalisimu<s n="n"/><s n="m"/></l><r>regionalismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rapresentazione<s n="n"/><s n="f"/></l><r>rappresentazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>radicalizazione<s n="n"/><s n="f"/></l><r>radicalizzazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>purtiere<s n="n"/><s n="m"/></l><r>portiere<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>puntellu<s n="n"/><s n="m"/></l><r>punto<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pruvucazione<s n="n"/><s n="f"/></l><r>provocazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>prutagonistu<s n="n"/><s n="f"/></l><r>protagonista<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pronòsticu<s n="n"/><s n="m"/></l><r>pronostico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>presidenza<s n="n"/><s n="f"/></l><r>presidenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>precarità<s n="n"/><s n="f"/></l><r>precarietà<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pensamentu<s n="n"/><s n="m"/></l><r>pensiero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>paghjolu<s n="n"/><s n="m"/></l><r>paiolo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ochjata<s n="n"/><s n="f"/></l><r>occhiata<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>naziunalismu<s n="n"/><s n="m"/></l><r>nazionalismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>muntagiu<s n="n"/><s n="m"/></l><r>montaggio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mubilizazione<s n="n"/><s n="f"/></l><r>mobilizzazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>mezafinale<s n="n"/><s n="f"/></l><r>semifinale<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>meccanismu<s n="n"/><s n="m"/></l><r>meccanismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>manipulazione<s n="n"/><s n="f"/></l><r>manipolazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>maiurità<s n="n"/><s n="f"/></l><r>maggioranza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>magiorità<s n="n"/><s n="f"/></l><r>maggioranza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>intrenamentu<s n="n"/><s n="m"/></l><r>internamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>intervenzione<s n="n"/><s n="f"/></l><r>intervento<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>integralità<s n="n"/><s n="f"/></l><r>integralità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>induismu<s n="n"/><s n="m"/></l><r>induismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>impupularità<s n="n"/><s n="f"/></l><r>impopolarità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>immersione<s n="n"/><s n="f"/></l><r>immersione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>imbasciadore<s n="n"/><s n="m"/></l><r>ambasciatore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>illusione<s n="n"/><s n="f"/></l><r>illusione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>illuminismu<s n="n"/><s n="m"/></l><r>illuminismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fratellanza<s n="n"/><s n="f"/></l><r>fratellanza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>flashball<s n="n"/><s n="m"/></l><r>flashball<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>finalistu<s n="n"/><s n="m"/></l><r>finalista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>fecundità<s n="n"/><s n="f"/></l><r>fecondità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>facistu<s n="n"/><s n="m"/></l><r>fascista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>evucazione<s n="n"/><s n="f"/></l><r>evocazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>esigenza<s n="n"/><s n="f"/></l><r>esigenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>domiciliu<s n="n"/><s n="m"/></l><r>domicilio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>destruzzione<s n="n"/><s n="f"/></l><r>distruzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cunvivialità<s n="n"/><s n="f"/></l><r>convivialità<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cunsulazione<s n="n"/><s n="f"/></l><r>consolazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cummunistu<s n="n"/><s n="m"/></l><r>comunista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cumbugliu<s n="n"/><s n="m"/></l><r>scompiglio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>culunnia<s n="n"/><s n="f"/></l><r>colonia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>culpacciu<s n="n"/><s n="m"/></l><r>colpaccio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>clientelismu<s n="n"/><s n="m"/></l><r>clientelismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cellula<s n="n"/><s n="f"/></l><r>cellula<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>capitalismu<s n="n"/><s n="m"/></l><r>capitalismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>bumbardamentu<s n="n"/><s n="m"/></l><r>bombardamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>banditismu<s n="n"/><s n="m"/></l><r>banditismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>babbone<s n="n"/><s n="m"/></l><r>nonno<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>apperitivu<s n="n"/><s n="m"/></l><r>aperitivo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>antagunismu<s n="n"/><s n="m"/></l><r>antagonismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>anarchistu<s n="n"/><s n="m"/></l><r>anarchico<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>alpinismu<s n="n"/><s n="m"/></l><r>alpinismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>zoroatrismu<s n="n"/><s n="m"/></l><r>zoroastrismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>vittimizazione<s n="n"/><s n="f"/></l><r>vittimizzazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>visualizazione<s n="n"/><s n="f"/></l><r>visualizzazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vandalismu<s n="n"/><s n="m"/></l><r>vandalismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>utilizazione<s n="n"/><s n="f"/></l><r>utilizzo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>supressione<s n="n"/><s n="f"/></l><r>soppressione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>spluttazione<s n="n"/><s n="f"/></l><r>sfruttamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>signalamentu<s n="n"/><s n="m"/></l><r>segnalazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sembianza<s n="n"/><s n="f"/></l><r>sembianza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>secessione<s n="n"/><s n="f"/></l><r>secessione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>sclusione<s n="n"/><s n="f"/></l><r>esclusione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>schiavismu<s n="n"/><s n="m"/></l><r>schiavismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>scaldamentu<s n="n"/><s n="m"/></l><r>riscaldamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>rumanizazione<s n="n"/><s n="f"/></l><r>romanizzazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>rifurmazione<s n="n"/><s n="f"/></l><r>riforma<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>riattaccamentu<s n="n"/><s n="m"/></l><r>riattaccamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>revuluzione<s n="n"/><s n="f"/></l><r>rivoluzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>revanchismu<s n="n"/><s n="m"/></l><r>revanchismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>recuperazione<s n="n"/><s n="f"/></l><r>recupero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>prumuzione<s n="n"/><s n="f"/></l><r>promozione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>priservazione<s n="n"/><s n="f"/></l><r>preservazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pricauzione<s n="n"/><s n="f"/></l><r>precauzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>pretensione<s n="n"/><s n="f"/></l><r>pretesa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>precizione<s n="n"/><s n="f"/></l><r>precisione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>patriuttismu<s n="n"/><s n="m"/></l><r>patriottismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>opportunisimu<s n="n"/><s n="m"/></l><r>opportunismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>neulugismu<s n="n"/><s n="m"/></l><r>neologismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>neulugisimu<s n="n"/><s n="m"/></l><r>neologismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nazismu<s n="n"/><s n="m"/></l><r>nazismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ministeriu<s n="n"/><s n="m"/></l><r>ministero<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>militarismu<s n="n"/><s n="m"/></l><r>militarismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mercantilizazione<s n="n"/><s n="f"/></l><r>commercializzazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>marcadore<s n="n"/><s n="m"/></l><r>mercante<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>lucazione<s n="n"/><s n="f"/></l><r>locazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lucalizazione<s n="n"/><s n="f"/></l><r>localizzazione<s n="n"/><s n="f"/></r></p></e>
+      
 
       
       <e><p><l>m<s n="n"/><s n="acr"/><s n="m"/><s n="sp"/></l><r>m<s n="abbr"/></r></p></e>
@@ -3337,26 +3858,7 @@
       <e><p><l>bellu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
       <e><p><l>immubiliariu<s n="adj"/></l><r>immobiliare<s n="adj"/></r></p><par n="GD_mf"/></e>
 
-     
-      <e><p><l>cunservatoriu<s n="n"/><s n="m"/></l><r>conservatorio<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>residenza<s n="n"/><s n="f"/></l><r>residenza<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>appartamentu<s n="n"/><s n="m"/></l><r>appartamento<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>pressione<s n="n"/><s n="f"/></l><r>pressione<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>autonomia<s n="n"/><s n="f"/></l><r>autonomia<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>merendella<s n="n"/><s n="f"/></l><r>pranzo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>liturale<s n="n"/><s n="m"/></l><r>litorale<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>laziu<s n="n"/><s n="m"/></l><r>piacere<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>laziu<s n="n"/><s n="m"/></l><r>voglia<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>turistu<s n="n"/><s n="m"/></l><r>turista<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>astutone<s n="n"/><s n="m"/></l><r>furbacchione<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>scornu<s n="n"/><s n="m"/></l><r>scorno<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>petroliu<s n="n"/><s n="m"/></l><r>petrolio<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>bettonu<s n="n"/><s n="m"/></l><r>cemento<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>paisaghju<s n="n"/><s n="m"/></l><r>paesaggio<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>speculatore<s n="n"/><s n="m"/></l><r>speculatore<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>ora<s n="n"/><s n="f"/></l><r>ora<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>dumenicu<s n="n"/></l><r>domenica<s n="n"/></r></p></e>
-       
+    
 
    </section>
 </dictionary>
