@@ -3779,6 +3779,7 @@
       <e><p><l>anzianu<s n="adj"/></l><r>anziano<s n="adj"/></r></p></e>
       <e><p><l>ecunomicu<s n="adj"/></l><r>economico<s n="adj"/></r></p></e>
       <e><p><l>seriu<s n="adj"/></l><r>serio<s n="adj"/></r></p></e>
+      <e><p><l>publicu<s n="adj"/></l><r>pubblico<s n="adj"/></r></p></e>
       <e><p><l>falsu<s n="adj"/></l><r>falso<s n="adj"/></r></p></e>
       <e><p><l>caru<s n="adj"/></l><r>caro<s n="adj"/></r></p></e>
 
@@ -4058,6 +4059,7 @@
       <e><p><l>pinsà<s n="vblex"/></l><r>pensare<s n="vblex"/></r></p></e>
       <e><p><l>animà<s n="vblex"/></l><r>animare<s n="vblex"/></r></p></e>
       <e><p><l>presentà<s n="vblex"/></l><r>presentare<s n="vblex"/></r></p></e>
+      <e><p><l>prisintà<s n="vblex"/></l><r>presentare<s n="vblex"/></r></p></e>
       <e><p><l>esilià<s n="vblex"/></l><r>esiliare<s n="vblex"/></r></p></e>
       <e><p><l>suspettà<s n="vblex"/></l><r>sospettare<s n="vblex"/></r></p></e>
       <e><p><l>turnà<s n="vblex"/></l><r>tornare<s n="vblex"/></r></p></e>
@@ -4172,6 +4174,7 @@
       <e><p><l>prununzià<s n="vblex"/></l><r>pronunciare<s n="vblex"/></r></p></e>
       <e><p><l>mubilizà<s n="vblex"/></l><r>mobilizare<s n="vblex"/></r></p></e>
       <e><p><l>scopre<s n="vblex"/></l><r>scoprire<s n="vblex"/></r></p></e>
+      <e><p><l>eleghje<s n="vblex"/></l><r>eleggere<s n="vblex"/></r></p></e>
       <e><p><l>dinunzià<s n="vblex"/></l><r>denunciare<s n="vblex"/></r></p></e>
       <e><p><l>minaccià<s n="vblex"/></l><r>minacciare<s n="vblex"/></r></p></e>
       <e><p><l>discorre<s n="vblex"/></l><r>discorrere<s n="vblex"/></r></p></e>
@@ -4531,12 +4534,14 @@
       <e><p><l>ghjustu<s n="adj"/></l><r>giusto<s n="adj"/></r></p></e>
       <e><p><l>fiscale<s n="adj"/><s n="mf"/></l><r>fiscale<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>custruttibile<s n="adj"/><s n="mf"/></l><r>costruibile<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>essenziale<s n="adj"/><s n="mf"/></l><r>essenziale<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>dirittu<s n="adj"/></l><r>deretto<s n="adj"/></r></p></e>
       <e><p><l>bonu<s n="adj"/></l><r>buono<s n="adj"/></r></p></e>
       <e><p><l>viotu<s n="adj"/></l><r>vuoto<s n="adj"/></r></p></e>
       <e><p><l>attrattivu<s n="adj"/></l><r>attrattivo<s n="adj"/></r></p></e>
       <e><p><l>bellu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
       <e><p><l>immubiliariu<s n="adj"/></l><r>immobiliare<s n="adj"/></r></p><par n="GD_mf"/></e>
+      <e><p><l>peghju<s n="adj"/></l><r>peggiore<s n="adj"/></r></p><par n="GD_mf"/></e>
 
     
 
