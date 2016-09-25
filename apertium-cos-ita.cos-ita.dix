@@ -266,6 +266,8 @@
       <e><p><l>quellu<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/></r></p></e>
       <e r="LR"><p><l>quellu<s n="det"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>quello<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
 
+      <e><p><l>alcunu<s n="det"/><s n="ind"/></l><r>alcun<s n="det"/><s n="ind"/></r></p></e>
+
       <e><p><l>unepochi<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></l><r>alcun<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>unepochi<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></l><r>alcun<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
 
@@ -460,6 +462,7 @@
       <e><p><l>postu<s n="n"/><s n="m"/></l><r>posto<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>armata<s n="n"/><s n="f"/></l><r>armata<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>funzione<s n="n"/><s n="f"/></l><r>funzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>funzione<s n="n"/><s n="f"/></l><r>carica<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>imperu<s n="n"/><s n="m"/></l><r>impero<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>modu<s n="n"/><s n="m"/></l><r>modo<s n="n"/><s n="m"/></r></p></e>
       <!--<e><p><l>basa<s n="n"/><s n="f"/></l><r>basa<s n="n"/><s n="f"/></r></p></e>-->
@@ -2758,6 +2761,7 @@
       <e><p><l>Auropa<s n="np"/><s n="top"/><s n="f"/></l><r>Europa<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Lipsia<s n="np"/><s n="top"/><s n="f"/></l><r>Lipsia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Catalunia<s n="np"/><s n="top"/><s n="f"/></l><r>Catalogna<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+      <e><p><l>America<s n="np"/><s n="top"/><s n="f"/></l><r>America<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Catalogna<s n="np"/><s n="top"/><s n="f"/></l><r>Catalogna<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Asia<s n="np"/><s n="top"/><s n="f"/></l><r>Asia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Francia<s n="np"/><s n="top"/><s n="f"/></l><r>Francia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -2769,6 +2773,7 @@
       <e><p><l>Russia<s n="np"/><s n="top"/><s n="f"/></l><r>Russia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Austria<s n="np"/><s n="top"/><s n="f"/></l><r>Austria<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Malta<s n="np"/><s n="top"/><s n="f"/></l><r>Malta<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
+      <e><p><l>Stati<b/>uniti<b/>d'America<s n="np"/><s n="top"/><s n="m"/></l><r>Stati<b/>Uniti<b/>d'America<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
       <e><p><l>Siena<s n="np"/><s n="top"/><s n="f"/></l><r>Siena<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Alimagna<s n="np"/><s n="top"/><s n="f"/></l><r>Germania<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>California<s n="np"/><s n="top"/><s n="f"/></l><r>California<s n="np"/><s n="loc"/><s n="m"/></r></p></e>
@@ -3944,6 +3949,7 @@
       <e><p><l>sviluppà<s n="vblex"/></l><r>sviluppare<s n="vblex"/></r></p></e>
       <e><p><l>induvinà<s n="vblex"/></l><r>indovinare<s n="vblex"/></r></p></e>
       <e><p><l>mette<s n="vblex"/></l><r>mettere<s n="vblex"/></r></p></e>
+      <e><p><l>sceglie<s n="vblex"/></l><r>scegliere<s n="vblex"/></r></p></e>
       <e><p><l>influenzà<s n="vblex"/></l><r>influenzare<s n="vblex"/></r></p></e>
       <e><p><l>esiste<s n="vblex"/></l><r>esistere<s n="vblex"/></r></p></e>
       <e><p><l>fundà<s n="vblex"/></l><r>fondare<s n="vblex"/></r></p></e>
