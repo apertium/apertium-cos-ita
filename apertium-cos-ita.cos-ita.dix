@@ -152,6 +152,7 @@
       <e><p><l>à<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
       <e><p><l>attraversu<s n="pr"/></l><r>attraverso<s n="pr"/></r></p></e>
       <e><p><l>in<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+      <e><p><l>in<b/>quant'à<s n="pr"/></l><r>in<b/>quanto<s n="pr"/></r></p></e>
 
       <e><p><l>comu<s n="pr"/></l><r>come<s n="pr"/></r></p></e>
       <e><p><l>trà<s n="pr"/></l><r>tra<s n="pr"/></r></p></e>
@@ -245,7 +246,10 @@
       <e><p><l>ognunu<s n="prn"/><s n="tn"/></l><r>ognuno<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>qualcosa<s n="prn"/><s n="tn"/></l><r>qualcosa<s n="prn"/><s n="tn"/></r></p></e>
       
-      <e><p><l>quanto<s n="rel"/><s n="nn"/></l><r>quanto<s n="rel"/><s n="nn"/></r></p></e>
+      <e><p><l>quantu<s n="rel"/><s n="nn"/></l><r>quanto<s n="rel"/><s n="nn"/></r></p></e>
+
+      <e><p><l>quantu<s n="prn"/><s n="itg"/></l><r>quanto<s n="prn"/><s n="itg"/></r></p></e>
+      <e r="LR"><p><l>quantu<s n="prn"/><s n="itg"/><s n="mf"/><s n="sg"/></l><r>quanto<s n="prn"/><s n="itg"/><s n="GD"/><s n="sg"/></r></p></e>
       
      
 
@@ -4519,22 +4523,20 @@
       <e><p><l>ghjeneralmente<s n="adv"/></l><r>generalmente<s n="adv"/></r></p></e>
       <e><p><l>carcu<s n="adj"/></l><r>carico<s n="adj"/></r></p></e>
       
-      <e><p><l>vestutu<s n="adj"/></l><r>vestito<s n="adj"/></r></p></e>
-      <e><p><l>stancu<s n="adj"/></l><r>stanco<s n="adj"/></r></p></e>
-      <e><p><l>novamente<s n="adv"/></l><r>nuovamente<s n="adv"/></r></p></e>
-      <e><p><l>cuntemporaneamente<s n="adv"/></l><r>contemporaneamente<s n="adv"/></r></p></e>
-      <e><p><l>burbonicu<s n="adj"/></l><r>borbonico<s n="adj"/></r></p></e>
-      <e><p><l>atipicu<s n="adj"/></l><r>atupico<s n="adj"/></r></p></e>
       
 
+      <e><p><l>novamente<s n="adv"/></l><r>nuovamente<s n="adv"/></r></p></e>
+      <e><p><l>cuntemporaneamente<s n="adv"/></l><r>contemporaneamente<s n="adv"/></r></p></e>
       <e><p><l>pronti<s n="adv"/></l><r>pronte<s n="adv"/></r></p></e>
       <e><p><l>menu<s n="adv"/></l><r>meno<s n="adv"/></r></p></e>
+      <e><p><l>quantunque<s n="adv"/></l><r>comunque<s n="adv"/></r></p></e>
       <e><p><l>precisamente<s n="adv"/></l><r>precisamente<s n="adv"/></r></p></e>
 
       <e><p><l>ghjustu<s n="adj"/></l><r>giusto<s n="adj"/></r></p></e>
       <e><p><l>fiscale<s n="adj"/><s n="mf"/></l><r>fiscale<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>custruttibile<s n="adj"/><s n="mf"/></l><r>costruibile<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>essenziale<s n="adj"/><s n="mf"/></l><r>essenziale<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>esigente<s n="adj"/><s n="mf"/></l><r>esigente<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>dirittu<s n="adj"/></l><r>deretto<s n="adj"/></r></p></e>
       <e><p><l>bonu<s n="adj"/></l><r>buono<s n="adj"/></r></p></e>
       <e><p><l>viotu<s n="adj"/></l><r>vuoto<s n="adj"/></r></p></e>
@@ -4542,6 +4544,10 @@
       <e><p><l>bellu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
       <e><p><l>immubiliariu<s n="adj"/></l><r>immobiliare<s n="adj"/></r></p><par n="GD_mf"/></e>
       <e><p><l>peghju<s n="adj"/></l><r>peggiore<s n="adj"/></r></p><par n="GD_mf"/></e>
+      <e><p><l>vestutu<s n="adj"/></l><r>vestito<s n="adj"/></r></p></e>
+      <e><p><l>stancu<s n="adj"/></l><r>stanco<s n="adj"/></r></p></e>
+      <e><p><l>burbonicu<s n="adj"/></l><r>borbonico<s n="adj"/></r></p></e>
+      <e><p><l>atipicu<s n="adj"/></l><r>atupico<s n="adj"/></r></p></e>
 
     
 
