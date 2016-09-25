@@ -2217,6 +2217,7 @@
       <e><p><l>Auropa<s n="np"/><s n="top"/><s n="f"/></l><r>Europa<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Lipsia<s n="np"/><s n="top"/><s n="f"/></l><r>Lipsia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Catalunia<s n="np"/><s n="top"/><s n="f"/></l><r>Catalogna<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
+      <e><p><l>Catalogna<s n="np"/><s n="top"/><s n="f"/></l><r>Catalogna<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Asia<s n="np"/><s n="top"/><s n="f"/></l><r>Asia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Francia<s n="np"/><s n="top"/><s n="f"/></l><r>Francia<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
       <e><p><l>Sardegna<s n="np"/><s n="top"/><s n="f"/></l><r>Sardegna<s n="np"/><s n="loc"/><s n="f"/></r></p></e>
@@ -3331,6 +3332,7 @@
       <e><p><l>custruttibile<s n="adj"/><s n="mf"/></l><r>costruibile<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>dirittu<s n="adj"/></l><r>deretto<s n="adj"/></r></p></e>
       <e><p><l>bonu<s n="adj"/></l><r>buono<s n="adj"/></r></p></e>
+      <e><p><l>viotu<s n="adj"/></l><r>vuoto<s n="adj"/></r></p></e>
       <e><p><l>attrattivu<s n="adj"/></l><r>attrattivo<s n="adj"/></r></p></e>
       <e><p><l>bellu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
       <e><p><l>immubiliariu<s n="adj"/></l><r>immobiliare<s n="adj"/></r></p><par n="GD_mf"/></e>
@@ -3350,6 +3352,8 @@
       <e><p><l>scornu<s n="n"/><s n="m"/></l><r>scorno<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>petroliu<s n="n"/><s n="m"/></l><r>petrolio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>bettonu<s n="n"/><s n="m"/></l><r>cemento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>paisaghju<s n="n"/><s n="m"/></l><r>paesaggio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>speculatore<s n="n"/><s n="m"/></l><r>speculatore<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ora<s n="n"/><s n="f"/></l><r>ora<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>dumenicu<s n="n"/></l><r>domenica<s n="n"/></r></p></e>
        
