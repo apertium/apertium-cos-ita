@@ -2473,8 +2473,8 @@
        </pattern>
        <action>
          <call-macro n="f_concord2">
-           <with-param pos="1"/>
            <with-param pos="2"/>
+           <with-param pos="1"/>
          </call-macro>     
          <out>
            <chunk name="det_n">
@@ -2505,8 +2505,8 @@
        </pattern>
        <action>
          <call-macro n="f_concord2">
-           <with-param pos="1"/>
            <with-param pos="2"/>
+           <with-param pos="1"/>
          </call-macro>     
          <out>
            <chunk name="num_n">
@@ -2537,8 +2537,8 @@
        </pattern>
        <action>
          <call-macro n="f_concord2">
-           <with-param pos="1"/>
            <with-param pos="2"/>
+           <with-param pos="1"/>
          </call-macro>     
          <out>
            <chunk name="adj_n">
