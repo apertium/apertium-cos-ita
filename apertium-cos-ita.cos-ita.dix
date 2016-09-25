@@ -149,6 +149,7 @@
       <e><p><l>fin<b/>da<s n="pr"/></l><r>fin<b/>da<s n="pr"/></r></p></e>
       <e><p><l>per<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
       <e><p><l>à<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
+      <e><p><l>attraversu<s n="pr"/></l><r>attraverso<s n="pr"/></r></p></e>
       <e><p><l>in<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
 
       <e><p><l>comu<s n="pr"/></l><r>come<s n="pr"/></r></p></e>
@@ -231,6 +232,7 @@
       <e><p><l>què<s n="prn"/><s n="itg"/></l><r>che<s n="prn"/><s n="itg"/></r></p></e>
       <e><p><l>quale<s n="prn"/><s n="itg"/></l><r>quale<s n="prn"/><s n="itg"/></r></p></e>
 
+      <e><p><l>nimu<s n="prn"/><s n="tn"/></l><r>nessuno<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>nunda<s n="prn"/><s n="tn"/></l><r>niente<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>altru<s n="prn"/><s n="tn"/></l><r>altro<s n="prn"/><s n="tn"/></r></p></e>
       <e><p><l>nissunu<s n="prn"/><s n="tn"/></l><r>nessuno<s n="prn"/><s n="tn"/></r></p></e>
@@ -258,6 +260,9 @@
       <e><p><l>tale<s n="det"/><s n="dem"/></l><r>tale<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>quellu<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/></r></p></e>
       <e r="LR"><p><l>quellu<s n="det"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>quello<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
+
+      <e><p><l>unepochi<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></l><r>qualcuno<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>unepochi<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></l><r>qualcuno<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
 
       <e><p><l>quiddu<s n="det"/><s n="dem"/></l><r>quello<s n="det"/><s n="dem"/></r></p></e>
       <e r="LR"><p><l>quiddu<s n="det"/><s n="dem"/><s n="mf"/><s n="sp"/></l><r>quello<s n="det"/><s n="dem"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -300,6 +305,7 @@
       <e><p><l>novanta<s n="num"/></l><r>novanta<s n="num"/></r></p></e>
       <e><p><l>dodici<s n="num"/></l><r>dodici<s n="num"/></r></p></e>
       
+      <e><p><l>trenta<s n="num"/></l><r>trenta<s n="num"/></r></p></e>
       <e><p><l>quaranta<s n="num"/></l><r>quaranta<s n="num"/></r></p></e>
       <e><p><l>cinquecentu<s n="num"/></l><r>cinquecento<s n="num"/></r></p></e>
  
@@ -1646,7 +1652,6 @@
       <e><p><l>urbanisimu<s n="n"/><s n="m"/></l><r>urbanistica<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>trasferimentu<s n="n"/><s n="m"/></l><r>trasferimento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sustinitore<s n="n"/><s n="m"/></l><r>sostenitore<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>supresa<s n="n"/><s n="f"/></l><r>sopresa<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>sundagiu<s n="n"/><s n="m"/></l><r>sondaggio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sulistu<s n="n"/><s n="m"/></l><r>solista<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sulistu<s n="n"/><s n="f"/></l><r>solista<s n="n"/><s n="f"/></r></p></e>
@@ -1755,6 +1760,14 @@
       <e><p><l>marcadore<s n="n"/><s n="m"/></l><r>mercante<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>lucazione<s n="n"/><s n="f"/></l><r>locazione<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>lucalizazione<s n="n"/><s n="f"/></l><r>localizzazione<s n="n"/><s n="f"/></r></p></e>
+
+      <e><p><l>tempacciu<s n="n"/><s n="m"/></l><r>tempaccio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mareghju<s n="n"/><s n="m"/></l><r>mare<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>discuteca<s n="n"/><s n="f"/></l><r>discoteca<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cuuperazione<s n="n"/><s n="f"/></l><r>cooperazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>caminu<s n="n"/><s n="m"/></l><r>cammino<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>baruffa<s n="n"/><s n="f"/></l><r>baruffa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>scelta<s n="n"/><s n="f"/></l><r>scelta<s n="n"/><s n="f"/></r></p></e>
       
 
       
@@ -3732,7 +3745,10 @@
       <e><p><l>mo<s n="adj"/><s n="pos"/></l><r>mio<s n="adj"/><s n="pos"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>to<s n="adj"/><s n="pos"/></l><r>tuo<s n="adj"/><s n="pos"/></r></p><par n="mf_GD|sp_ND"/></e>
       <e><p><l>so<s n="adj"/><s n="pos"/></l><r>suo<s n="adj"/><s n="pos"/></r></p><par n="mf_GD|sp_ND"/></e>
+
+      <e><p><l>so<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></l><r>suo<s n="adj"/><s n="pos"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>so<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></l><r>suo<s n="adj"/><s n="pos"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>so<s n="adj"/><s n="pos"/><s n="f"/><s n="pl"/></l><r>suo<s n="adj"/><s n="pos"/><s n="f"/><s n="pl"/></r></p></e>
 
       <e><p><l>nostru<s n="adj"/><s n="pos"/></l><r>nostro<s n="adj"/><s n="pos"/></r></p></e>
       <e><p><l>vostru<s n="adj"/><s n="pos"/></l><r>vostro<s n="adj"/><s n="pos"/></r></p></e>
@@ -3762,6 +3778,7 @@
       <e><p><l>ecunomicu<s n="adj"/></l><r>economico<s n="adj"/></r></p></e>
       <e><p><l>seriu<s n="adj"/></l><r>serio<s n="adj"/></r></p></e>
       <e><p><l>falsu<s n="adj"/></l><r>falso<s n="adj"/></r></p></e>
+      <e><p><l>caru<s n="adj"/></l><r>caro<s n="adj"/></r></p></e>
 
       <e><p><l>inglese<s n="adj"/><s n="mf"/></l><r>inglese<s n="adj"/><s n="mf"/></r></p></e>
 
@@ -3804,6 +3821,7 @@
       <e><p><l>sempri<s n="adv"/></l><r>sempre<s n="adv"/></r></p></e>
       <e><p><l>quà<s n="adv"/></l><r>qua<s n="adv"/></r></p></e>
       <e><p><l>quì<s n="adv"/></l><r>qui<s n="adv"/></r></p></e>
+      <e><p><l>custì<s n="adv"/></l><r>lì<s n="adv"/></r></p></e>
       <e><p><l>troppu<s n="adv"/></l><r>troppo<s n="adv"/></r></p></e>
 
       <e><p><l>cusì<s n="adv"/></l><r>così<s n="adv"/></r></p></e>
@@ -3916,6 +3934,7 @@
       <e><p><l>misurà<s n="vblex"/></l><r>misurare<s n="vblex"/></r></p></e>
       <e><p><l>scontrà<s n="vblex"/></l><r>scontrare<s n="vblex"/></r></p></e>
       <e><p><l>sviluppà<s n="vblex"/></l><r>sviluppare<s n="vblex"/></r></p></e>
+      <e><p><l>induvinà<s n="vblex"/></l><r>indovinare<s n="vblex"/></r></p></e>
       <e><p><l>mette<s n="vblex"/></l><r>mettere<s n="vblex"/></r></p></e>
       <e><p><l>influenzà<s n="vblex"/></l><r>influenzare<s n="vblex"/></r></p></e>
       <e><p><l>esiste<s n="vblex"/></l><r>esistere<s n="vblex"/></r></p></e>
@@ -4177,12 +4196,14 @@
       <e><p><l>caratterizà<s n="vblex"/></l><r>caratterizzare<s n="vblex"/></r></p></e>
       <e><p><l>trimà<s n="vblex"/></l><r>tremare<s n="vblex"/></r></p></e>
       <e><p><l>salpà<s n="vblex"/></l><r>salpare<s n="vblex"/></r></p></e>
+      <e><p><l>marità<s n="vblex"/></l><r>maritare<s n="vblex"/></r></p></e>
       <e><p><l>approntà<s n="vblex"/></l><r>approntare<s n="vblex"/></r></p></e>
       <e><p><l>fughje<s n="vblex"/></l><r>fughje<s n="vblex"/></r></p></e>
       <e><p><l>abbraculà<s n="vblex"/></l><r>abbraculare<s n="vblex"/></r></p></e>
       <e><p><l>ricusà<s n="vblex"/></l><r>ricusare<s n="vblex"/></r></p></e>
       <e><p><l>pussede<s n="vblex"/></l><r>possedere<s n="vblex"/></r></p></e>
       <e><p><l>travaglià<s n="vblex"/></l><r>lavorare<s n="vblex"/></r></p></e>
+      <e><p><l>ricuperà<s n="vblex"/></l><r>recuperare<s n="vblex"/></r></p></e>
       <e><p><l>divintà<s n="vblex"/></l><r>diventare<s n="vblex"/></r></p></e>
       <e><p><l>significheghjà<s n="vblex"/></l><r>significare<s n="vblex"/></r></p></e>
       <e><p><l>ritruvà<s n="vblex"/></l><r>ritrovare<s n="vblex"/></r></p></e>
@@ -4297,6 +4318,7 @@
       <e><p><l>currispundente<s n="adj"/><s n="mf"/></l><r>corrispondente<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>indipendente<s n="adj"/><s n="mf"/></l><r>indipendente<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>naziunale<s n="adj"/><s n="mf"/></l><r>nazionale<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>multinaziunale<s n="adj"/><s n="mf"/></l><r>multinazionale<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>internu<s n="adj"/></l><r>interno<s n="adj"/></r></p></e>
       <e><p><l>culunialistu<s n="adj"/></l><r>colonialista<s n="adj"/></r></p></e>
       <e><p><l>mediu<s n="adj"/></l><r>medio<s n="adj"/></r></p></e>
@@ -4488,7 +4510,6 @@
       <e><p><l>vucalicu<s n="adj"/></l><r>vocalico<s n="adj"/></r></p></e>
       <e><p><l>sinceru<s n="adj"/></l><r>sincero<s n="adj"/></r></p></e>
       <e><p><l>parchè<s n="adv"/><s n="itg"/></l><r>perché<s n="adv"/><s n="itg"/></r></p></e>
-      <e><p><l>mareghju<s n="n"/><s n="m"/></l><r>mare<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ghjeneralmente<s n="adv"/></l><r>generalmente<s n="adv"/></r></p></e>
       <e><p><l>carcu<s n="adj"/></l><r>carico<s n="adj"/></r></p></e>
       
@@ -4498,13 +4519,7 @@
       <e><p><l>cuntemporaneamente<s n="adv"/></l><r>contemporaneamente<s n="adv"/></r></p></e>
       <e><p><l>burbonicu<s n="adj"/></l><r>borbonico<s n="adj"/></r></p></e>
       <e><p><l>atipicu<s n="adj"/></l><r>atupico<s n="adj"/></r></p></e>
-      <e><p><l>tempacciu<s n="n"/><s n="m"/></l><r>tempaccio<s n="n"/><s n="m"/></r></p></e>
       
-      
-      <e><p><l>discuteca<s n="n"/><s n="f"/></l><r>discoteca<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>cuuperazione<s n="n"/><s n="f"/></l><r>cooperazione<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>caminu<s n="n"/><s n="m"/></l><r>cammino<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>baruffa<s n="n"/><s n="f"/></l><r>baruffa<s n="n"/><s n="f"/></r></p></e>
 
       <e><p><l>pronti<s n="adv"/></l><r>pronte<s n="adv"/></r></p></e>
       <e><p><l>menu<s n="adv"/></l><r>meno<s n="adv"/></r></p></e>
