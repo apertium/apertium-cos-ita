@@ -1846,6 +1846,26 @@
       <e><p><l>allusione<s n="n"/><s n="f"/></l><r>allusione<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>aereu<s n="n"/><s n="m"/></l><r>aereo<s n="n"/><s n="m"/></r></p></e>
       
+      <e><p><l>fruntiera<s n="n"/><s n="f"/></l><r>frontiera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>persunaghju<s n="n"/><s n="m"/></l><r>personaggio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>nuvella<s n="n"/><s n="f"/></l><r>novella<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>lucutore<s n="n"/><s n="m"/></l><r>locutore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>schjavu<s n="n"/><s n="m"/></l><r>schiavo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>prutettore<s n="n"/><s n="m"/></l><r>protettore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>schjavitù<s n="n"/><s n="f"/></l><r>schiavitù<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>schjavu<s n="n"/><s n="f"/></l><r>schiavo<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>interrugazione<s n="n"/><s n="f"/></l><r>interrogazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>giuristu<s n="n"/><s n="m"/></l><r>giurista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>divastatore<s n="n"/><s n="m"/></l><r>devastatore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>dicadentismu<s n="n"/><s n="m"/></l><r>decadentismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>culunialistu<s n="n"/><s n="m"/></l><r>colonialista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>culunialistu<s n="n"/><s n="f"/></l><r>colonialista<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>culunialismu<s n="n"/><s n="m"/></l><r>colonialismo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>conghjunzione<s n="n"/><s n="f"/></l><r>congiunzione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>bislinguisimu<s n="n"/><s n="m"/></l><r>bilinguismo<s n="n"/><s n="m"/></r></p></e>
+    
+    
+
  
       
       <e><p><l>m<s n="n"/><s n="acr"/><s n="m"/><s n="sp"/></l><r>m<s n="abbr"/></r></p></e>
@@ -4107,6 +4127,82 @@
       <e><p><l>allegoricu<s n="adj"/></l><r>allegorico<s n="adj"/></r></p></e>
       <e><p><l>alcolicu<s n="adj"/></l><r>alcolico<s n="adj"/></r></p></e>
       
+      <e><p><l>cumunu<s n="adj"/></l><r>comune<s n="adj"/></r></p><par n="GD_mf"/></e>
+      <e><p><l>solu<s n="adj"/></l><r>solo<s n="adj"/></r></p></e>
+      <e><p><l>francesu<s n="adj"/></l><r>francese<s n="adj"/></r></p><par n="GD_mf"/></e>
+      <e><p><l>americanu<s n="adj"/></l><r>americano<s n="adj"/></r></p></e>
+      <!--<e><p><l>situatu<s n="adj"/></l><r>situato<s n="adj"/></r></p></e>-->
+      <e><p><l>mortu<s n="adj"/></l><r>morto<s n="adj"/></r></p></e>
+      <e><p><l>anticu<s n="adj"/></l><r>antico<s n="adj"/></r></p></e>
+      <e><p><l>pocu<s n="adj"/></l><r>poco<s n="adj"/></r></p></e>
+      <e><p><l>longu<s n="adj"/></l><r>lungo<s n="adj"/></r></p></e>
+      <e><p><l>novu<s n="adj"/></l><r>nuovo<s n="adj"/></r></p></e>
+      <e><p><l>altu<s n="adj"/></l><r>alto<s n="adj"/></r></p></e>
+      <e><p><l>latinu<s n="adj"/></l><r>latino<s n="adj"/></r></p></e>
+      <e><p><l>natu<s n="adj"/></l><r>nato<s n="adj"/></r></p></e>
+      <e><p><l>bisestu<s n="adj"/></l><r>bisestile<s n="adj"/></r></p></e>
+      <e><p><l>etruscu<s n="adj"/></l><r>etrusco<s n="adj"/></r></p></e>
+      <e><p><l>gregorianu<s n="adj"/></l><r>gregoriano<s n="adj"/></r></p></e>
+      <e><p><l>rumanu<s n="adj"/></l><r>romano<s n="adj"/></r></p></e>
+      <e><p><l>ultimu<s n="adj"/></l><r>ultimo<s n="adj"/></r></p></e>
+      <e><p><l>impurtante<s n="adj"/><s n="mf"/></l><r>importante<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>importantu<s n="adj"/></l><r>importante<s n="adj"/></r></p><par n="GD_mf"/></e>
+      <e><p><l>certu<s n="adj"/></l><r>certo<s n="adj"/></r></p></e>
+      
+      <e><p><l>russiu<s n="adj"/></l><r>russo<s n="adj"/></r></p></e>
+      <e><p><l>carattaristicu<s n="adj"/></l><r>caratteristico<s n="adj"/></r></p></e>
+      <e><p><l>cunsidaratu<s n="adj"/></l><r>considerato<s n="adj"/></r></p></e>
+      <e><p><l>prufondu<s n="adj"/></l><r>profondo<s n="adj"/></r></p></e>
+      <e><p><l>difficiule<s n="adj"/><s n="mf"/></l><r>difficile<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>pupulare<s n="adj"/><s n="mf"/></l><r>popolare<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>putente<s n="adj"/><s n="mf"/></l><r>potente<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>giugraficu<s n="adj"/></l><r>geografico<s n="adj"/></r></p></e>
+      <e><p><l>filusoficu<s n="adj"/></l><r>filosofico<s n="adj"/></r></p></e>
+      <e><p><l>uriginale<s n="adj"/><s n="mf"/></l><r>originale<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>ghjinuvesu<s n="adj"/></l><r>genovese<s n="adj"/></r></p></e>
+      <e><p><l>regiunale<s n="adj"/><s n="mf"/></l><r>regionale<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>pueticu<s n="adj"/></l><r>poetico<s n="adj"/></r></p></e>
+      <e><p><l>svedesu<s n="adj"/></l><r>svedese<s n="adj"/></r></p></e>
+      <e><p><l>funeticu<s n="adj"/></l><r>fonetico<s n="adj"/></r></p></e>
+      <e><p><l>infurmaticu<s n="adj"/></l><r>informatico<s n="adj"/></r></p></e>
+      <e><p><l>suvieticu<s n="adj"/></l><r>sovietico<s n="adj"/></r></p></e>
+      <e><p><l>finlandesu<s n="adj"/></l><r>finlandese<s n="adj"/></r></p></e>
+      <e><p><l>prussimu<s n="adj"/></l><r>prossimo<s n="adj"/></r></p></e>
+      <e><p><l>immubiliare<s n="adj"/><s n="mf"/></l><r>immobiliare<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>giappunese<s n="adj"/><s n="mf"/></l><r>giapponese<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>autumaticu<s n="adj"/></l><r>automatico<s n="adj"/></r></p></e>
+      <e><p><l>uceanicu<s n="adj"/></l><r>oceanico<s n="adj"/></r></p></e>
+      <e><p><l>murfulogicu<s n="adj"/></l><r>morfologico<s n="adj"/></r></p></e>
+      <e><p><l>pruprietariu<s n="adj"/></l><r>proprietario<s n="adj"/></r></p></e>
+      <e><p><l>neuliticu<s n="adj"/></l><r>neolitico<s n="adj"/></r></p></e>
+      <e><p><l>impussibule<s n="adj"/><s n="mf"/></l><r>impossibile<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>giulogicu<s n="adj"/></l><r>geologico<s n="adj"/></r></p></e>
+      <e><p><l>ghjermanicu<s n="adj"/></l><r>germanico<s n="adj"/></r></p></e>
+      <e><p><l>crunulogicu<s n="adj"/></l><r>cronologico<s n="adj"/></r></p></e>
+      <e><p><l>arumaticu<s n="adj"/></l><r>aromatico<s n="adj"/></r></p></e>
+      <e><p><l>terribule<s n="adj"/><s n="mf"/></l><r>terribile<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>prublematicu<s n="adj"/></l><r>problematico<s n="adj"/></r></p></e>
+      <e><p><l>ghjuridicu<s n="adj"/></l><r>giuridico<s n="adj"/></r></p></e>
+      <e><p><l>prulificu<s n="adj"/></l><r>prolifico<s n="adj"/></r></p></e>
+      
+      <e><p><l>ghjustu<s n="adj"/></l><r>giusto<s n="adj"/></r></p></e>
+      <e><p><l>fiscale<s n="adj"/><s n="mf"/></l><r>fiscale<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>custruttibile<s n="adj"/><s n="mf"/></l><r>costruibile<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>essenziale<s n="adj"/><s n="mf"/></l><r>essenziale<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>esigente<s n="adj"/><s n="mf"/></l><r>esigente<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>dirittu<s n="adj"/></l><r>deretto<s n="adj"/></r></p></e>
+      <e><p><l>bonu<s n="adj"/></l><r>buono<s n="adj"/></r></p></e>
+      <e><p><l>viotu<s n="adj"/></l><r>vuoto<s n="adj"/></r></p></e>
+      <e><p><l>attrattivu<s n="adj"/></l><r>attrattivo<s n="adj"/></r></p></e>
+      <e><p><l>bellu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
+      <e><p><l>immubiliariu<s n="adj"/></l><r>immobiliare<s n="adj"/></r></p><par n="GD_mf"/></e>
+      <e><p><l>peghju<s n="adj"/></l><r>peggiore<s n="adj"/></r></p><par n="GD_mf"/></e>
+      <e><p><l>vestutu<s n="adj"/></l><r>vestito<s n="adj"/></r></p></e>
+      <e><p><l>stancu<s n="adj"/></l><r>stanco<s n="adj"/></r></p></e>
+      <e><p><l>burbonicu<s n="adj"/></l><r>borbonico<s n="adj"/></r></p></e>
+      <e><p><l>atipicu<s n="adj"/></l><r>atupico<s n="adj"/></r></p></e>
+
+
  
       
       <!-- SECTION: Adverbios -->
@@ -4140,6 +4236,34 @@
       <e><p><l>infatti<s n="cnjadv"/></l><r>infatti<s n="adv"/></r></p></e>
       <e><p><l>soprattuttu<s n="adv"/></l><r>soprattutto<s n="adv"/></r></p></e>
       <e><p><l>tantu<s n="adv"/></l><r>tanto<s n="adv"/></r></p></e>
+
+      <e><p><l>parchè<s n="adv"/><s n="itg"/></l><r>perché<s n="adv"/><s n="itg"/></r></p></e>
+      <e><p><l>ghjeneralmente<s n="adv"/></l><r>generalmente<s n="adv"/></r></p></e>
+      <e><p><l>novamente<s n="adv"/></l><r>nuovamente<s n="adv"/></r></p></e>
+      <e><p><l>cuntemporaneamente<s n="adv"/></l><r>contemporaneamente<s n="adv"/></r></p></e>
+      <e><p><l>pronti<s n="adv"/></l><r>pronte<s n="adv"/></r></p></e>
+      <e><p><l>menu<s n="adv"/></l><r>meno<s n="adv"/></r></p></e>
+      <e><p><l>quantunque<s n="adv"/></l><r>comunque<s n="adv"/></r></p></e>
+      <e><p><l>precisamente<s n="adv"/></l><r>precisamente<s n="adv"/></r></p></e>
+
+      <e><p><l>suprattuttu<s n="adv"/></l><r>soprattutto<s n="adv"/></r></p></e>
+      <e><p><l>prisumibilamente<s n="adv"/></l><r>presumibilmente<s n="adv"/></r></p></e>
+      <e><p><l>cumunemente<s n="adv"/></l><r>comunemente<s n="adv"/></r></p></e>
+      <e><p><l>sulamente<s n="adv"/></l><r>solamente<s n="adv"/></r></p></e>
+      <e><p><l>spicialamente<s n="adv"/></l><r>specialmente<s n="adv"/></r></p></e>
+      <e><p><l>rilativamente<s n="adv"/></l><r>relativamente<s n="adv"/></r></p></e>
+      <e><p><l>asattamente<s n="adv"/></l><r>esattamente<s n="adv"/></r></p></e>
+      <e><p><l>à<b/>volti<s n="adv"/></l><r>a<b/>volte<s n="adv"/></r></p></e>
+      <e><p><l>sturicamente<s n="adv"/></l><r>storicamente<s n="adv"/></r></p></e>
+      <e><p><l>littiralamente<s n="adv"/></l><r>letteralmente<s n="adv"/></r></p></e>
+      <e><p><l>intiriamente<s n="adv"/></l><r>interamente<s n="adv"/></r></p></e>
+      <e><p><l>parzialamente<s n="adv"/></l><r>parzialmente<s n="adv"/></r></p></e>
+      <e><p><l>faciulamente<s n="adv"/></l><r>fanciullamente<s n="adv"/></r></p></e>
+
+
+
+
+
       <!--<e><p><l>inoltri<s n="adv"/></l><r>inoltri<s n="adv"/></r></p></e>-->
       <e><p><l>mai<s n="adv"/></l><r>mai<s n="adv"/></r></p></e>
       <e><p><l>invece<s n="adv"/></l><r>invece<s n="adv"/></r></p></e>
@@ -4627,6 +4751,7 @@
       <e><p><l>sveglià<s n="vblex"/></l><r>svegliare<s n="vblex"/></r></p></e>
       <e><p><l>traccià<s n="vblex"/></l><r>tracciare<s n="vblex"/></r></p></e>
       <e><p><l>urdinà<s n="vblex"/></l><r>ordinare<s n="vblex"/></r></p></e>
+      <e><p><l>scusà<s n="vblex"/></l><r>scusare<s n="vblex"/></r></p></e>
       
       <e><p><l>priferisce<s n="vblex"/></l><r>preferire<s n="vblex"/></r></p></e>
   
@@ -4660,43 +4785,23 @@
       
        <!-- SORT -->
       
+      <e><p><l>u quali<s n="rel"/><s n="an"/></l><r>il quale<s n="rel"/><s n="an"/></r></p></e>
+
+      <e><p><l>tandu<s n="adv"/></l><r>tanto<s n="adv"/></r></p></e>
       <e><p><l>ancu<s n="adv"/></l><r>anche<s n="adv"/></r></p></e>
-      <e><p><l>cumunu<s n="adj"/></l><r>comune<s n="adj"/></r></p><par n="GD_mf"/></e>
       <e><p><l>annantu<s n="adv"/></l><r>davanti<s n="adv"/></r></p></e>
       <e><p><l>micca<s n="adv"/></l><r>mica<s n="adv"/></r></p></e>
-      <e><p><l>u quali<s n="rel"/><s n="an"/></l><r>il quale<s n="rel"/><s n="an"/></r></p></e>
-      <e><p><l>solu<s n="adj"/></l><r>solo<s n="adj"/></r></p></e>
-      <e><p><l>francesu<s n="adj"/></l><r>francese<s n="adj"/></r></p><par n="GD_mf"/></e>
-      <e><p><l>americanu<s n="adj"/></l><r>americano<s n="adj"/></r></p></e>
-      <!--<e><p><l>situatu<s n="adj"/></l><r>situato<s n="adj"/></r></p></e>-->
-      <e><p><l>mortu<s n="adj"/></l><r>morto<s n="adj"/></r></p></e>
-      <e><p><l>anticu<s n="adj"/></l><r>antico<s n="adj"/></r></p></e>
-      <e><p><l>pocu<s n="adj"/></l><r>poco<s n="adj"/></r></p></e>
-      
-      <e><p><l>longu<s n="adj"/></l><r>lungo<s n="adj"/></r></p></e>
-      <e><p><l>novu<s n="adj"/></l><r>nuovo<s n="adj"/></r></p></e>
-      <e><p><l>altu<s n="adj"/></l><r>alto<s n="adj"/></r></p></e>
-      <e><p><l>latinu<s n="adj"/></l><r>latino<s n="adj"/></r></p></e>
-      <e><p><l>natu<s n="adj"/></l><r>nato<s n="adj"/></r></p></e>
-      <e><p><l>bisestu<s n="adj"/></l><r>bisestile<s n="adj"/></r></p></e>
-      <e><p><l>etruscu<s n="adj"/></l><r>etrusco<s n="adj"/></r></p></e>
-      <e><p><l>gregorianu<s n="adj"/></l><r>gregoriano<s n="adj"/></r></p></e>
-      <e><p><l>rumanu<s n="adj"/></l><r>romano<s n="adj"/></r></p></e>
-      <e><p><l>ultimu<s n="adj"/></l><r>ultimo<s n="adj"/></r></p></e>
-      <e><p><l>impurtante<s n="adj"/><s n="mf"/></l><r>importante<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>importantu<s n="adj"/></l><r>importante<s n="adj"/></r></p><par n="GD_mf"/></e>
-      <e><p><l>certu<s n="adj"/></l><r>certo<s n="adj"/></r></p></e>
-      <e><p><l>tandu<s n="adv"/></l><r>tanto<s n="adv"/></r></p></e>
-      
+      <e><p><l>quì<s n="adv"/></l><r>quì<s n="adv"/></r></p></e>
+      <e><p><l>oghje<s n="adv"/></l><r>oggi<s n="adv"/></r></p></e>
+
+ 
       <e><p><l>marinu<s n="adj"/></l><r>marino<s n="adj"/></r></p></e>
       <e><p><l>picculu<s n="adj"/></l><r>piccolo<s n="adj"/></r></p></e>
       <e><p><l>scrittu<s n="adj"/></l><r>scritto<s n="adj"/></r></p></e>
       <e><p><l>puliticu<s n="adj"/></l><r>politico<s n="adj"/></r></p></e>
       <e><p><l>storicu<s n="adj"/></l><r>storico<s n="adj"/></r></p></e>
       <e><p><l>stessu<s n="adj"/></l><r>stesso<s n="adj"/></r></p></e>
-      <e><p><l>quì<s n="adv"/></l><r>quì<s n="adv"/></r></p></e>
       <e><p><l>prisente<s n="adj"/><s n="mf"/></l><r>presente<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>oghje<s n="adv"/></l><r>oggi<s n="adv"/></r></p></e>
       <e><p><l>maiore<s n="adj"/><s n="mf"/></l><r>maggiore<s n="adj"/><s n="mf"/></r></p></e>
       <e r="LR"><p><l>maiò<s n="adj"/><s n="mf"/><s n="sp"/></l><r>maggiore<s n="adj"/><s n="mf"/><s n="ND"/></r></p></e>
       <e><p><l>scupertu<s n="adj"/></l><r>scoperto<s n="adj"/></r></p></e>
@@ -4888,123 +4993,28 @@
       <e><p><l>cumunamente<s n="adv"/></l><r>comunemente<s n="adv"/></r></p></e>
       <e><p><l>chinese<s n="adj"/><s n="mf"/></l><r>cinese<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>canadianu<s n="adj"/></l><r>canadese<s n="adj"/></r></p><par n="GD_mf"/></e>
-      <e><p><l>à volti<s n="adv"/></l><r>a volte<s n="adv"/></r></p></e>
-      <e><p><l>sturicamente<s n="adv"/></l><r>storicamente<s n="adv"/></r></p></e>
-      <e><p><l>littiralamente<s n="adv"/></l><r>letteralmente<s n="adv"/></r></p></e>
-      <e><p><l>intiriamente<s n="adv"/></l><r>interamente<s n="adv"/></r></p></e>
       <e><p><l>attive<s n="adj"/></l><r>attivo<s n="adj"/></r></p><par n="mf_GD"/></e>
       <e><p><l>nurmalamente<s n="adv"/></l><r>normalmente<s n="adv"/></r></p></e>
       <e><p><l>funziunamentu<s n="n"/><s n="m"/></l><r>funzionamento<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>uffiziu<s n="n"/><s n="m"/></l><r>ufficio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>rigulare<s n="adj"/><s n="mf"/></l><r>regolare<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>parzialamente<s n="adv"/></l><r>parzialmente<s n="adv"/></r></p></e>
       <e><p><l>inconnue<s n="n"/><s n="m"/></l><r>@inconnue<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>faciulamente<s n="adv"/></l><r>fanciullamente<s n="adv"/></r></p></e>
       
       <e><p><l>parchè<s n="cnjadv"/></l><r>perché<s n="cnjadv"/></r></p></e>
       <e><p><l>dunqua<s n="cnjadv"/></l><r>dunque<s n="cnjadv"/></r></p></e>
       <e><p><l>parchì<s n="cnjadv"/></l><r>perché<s n="cnjadv"/></r></p></e>
-      <e><p><l>sulamente<s n="adv"/></l><r>solamente<s n="adv"/></r></p></e>
-      <e><p><l>spicialamente<s n="adv"/></l><r>specialmente<s n="adv"/></r></p></e>
-      <e><p><l>rilativamente<s n="adv"/></l><r>relativamente<s n="adv"/></r></p></e>
       <e><p><l>proprie<s n="adj"/></l><r>proprio<s n="adj"/></r></p><par n="mf_GD"/></e>
-      <e><p><l>asattamente<s n="adv"/></l><r>esattamente<s n="adv"/></r></p></e>
       <e><p><l>anticorsu<s n="adj"/></l><r>anti-corso<s n="adj"/></r></p></e>
-      <e><p><l>suprattuttu<s n="adv"/></l><r>soprattutto<s n="adv"/></r></p></e>
-      <e><p><l>prisumibilamente<s n="adv"/></l><r>presumibilmente<s n="adv"/></r></p></e>
+
       <!--<e><p><l>prevenutu<s n="n"/><s n="m"/></l><r>prevenuto<s n="n"/><s n="m"/></r></p></e>-->
       <e><p><l>grandissimu<s n="adj"/></l><r>grande<s n="adj"/><s n="sup"/></r></p></e>
-      <e><p><l>cumunemente<s n="adv"/></l><r>comunemente<s n="adv"/></r></p></e>
       
       <e><p><l>vucalicu<s n="adj"/></l><r>vocalico<s n="adj"/></r></p></e>
       <e><p><l>sinceru<s n="adj"/></l><r>sincero<s n="adj"/></r></p></e>
-      <e><p><l>parchè<s n="adv"/><s n="itg"/></l><r>perché<s n="adv"/><s n="itg"/></r></p></e>
-      <e><p><l>ghjeneralmente<s n="adv"/></l><r>generalmente<s n="adv"/></r></p></e>
       <e><p><l>carcu<s n="adj"/></l><r>carico<s n="adj"/></r></p></e>
       
       
 
-      <e><p><l>novamente<s n="adv"/></l><r>nuovamente<s n="adv"/></r></p></e>
-      <e><p><l>cuntemporaneamente<s n="adv"/></l><r>contemporaneamente<s n="adv"/></r></p></e>
-      <e><p><l>pronti<s n="adv"/></l><r>pronte<s n="adv"/></r></p></e>
-      <e><p><l>menu<s n="adv"/></l><r>meno<s n="adv"/></r></p></e>
-      <e><p><l>quantunque<s n="adv"/></l><r>comunque<s n="adv"/></r></p></e>
-      <e><p><l>precisamente<s n="adv"/></l><r>precisamente<s n="adv"/></r></p></e>
-
-      <e><p><l>ghjustu<s n="adj"/></l><r>giusto<s n="adj"/></r></p></e>
-      <e><p><l>fiscale<s n="adj"/><s n="mf"/></l><r>fiscale<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>custruttibile<s n="adj"/><s n="mf"/></l><r>costruibile<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>essenziale<s n="adj"/><s n="mf"/></l><r>essenziale<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>esigente<s n="adj"/><s n="mf"/></l><r>esigente<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>dirittu<s n="adj"/></l><r>deretto<s n="adj"/></r></p></e>
-      <e><p><l>bonu<s n="adj"/></l><r>buono<s n="adj"/></r></p></e>
-      <e><p><l>viotu<s n="adj"/></l><r>vuoto<s n="adj"/></r></p></e>
-      <e><p><l>attrattivu<s n="adj"/></l><r>attrattivo<s n="adj"/></r></p></e>
-      <e><p><l>bellu<s n="adj"/></l><r>bello<s n="adj"/></r></p></e>
-      <e><p><l>immubiliariu<s n="adj"/></l><r>immobiliare<s n="adj"/></r></p><par n="GD_mf"/></e>
-      <e><p><l>peghju<s n="adj"/></l><r>peggiore<s n="adj"/></r></p><par n="GD_mf"/></e>
-      <e><p><l>vestutu<s n="adj"/></l><r>vestito<s n="adj"/></r></p></e>
-      <e><p><l>stancu<s n="adj"/></l><r>stanco<s n="adj"/></r></p></e>
-      <e><p><l>burbonicu<s n="adj"/></l><r>borbonico<s n="adj"/></r></p></e>
-      <e><p><l>atipicu<s n="adj"/></l><r>atupico<s n="adj"/></r></p></e>
-
-
-      <e><p><l>fruntiera<s n="n"/><s n="f"/></l><r>frontiera<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>persunaghju<s n="n"/><s n="m"/></l><r>personaggio<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>nuvella<s n="n"/><s n="f"/></l><r>novella<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>lucutore<s n="n"/><s n="m"/></l><r>locutore<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>schjavu<s n="n"/><s n="m"/></l><r>schiavo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>prutettore<s n="n"/><s n="m"/></l><r>protettore<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>schjavitù<s n="n"/><s n="f"/></l><r>schiavitù<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>schjavu<s n="n"/><s n="f"/></l><r>schiavo<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>interrugazione<s n="n"/><s n="f"/></l><r>interrogazione<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>giuristu<s n="n"/><s n="m"/></l><r>giurista<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>divastatore<s n="n"/><s n="m"/></l><r>devastatore<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>dicadentismu<s n="n"/><s n="m"/></l><r>decadentismo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>culunialistu<s n="n"/><s n="m"/></l><r>colonialista<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>culunialistu<s n="n"/><s n="f"/></l><r>colonialista<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>culunialismu<s n="n"/><s n="m"/></l><r>colonialismo<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>conghjunzione<s n="n"/><s n="f"/></l><r>congiunzione<s n="n"/><s n="f"/></r></p></e>
-      <e><p><l>bislinguisimu<s n="n"/><s n="m"/></l><r>bilinguismo<s n="n"/><s n="m"/></r></p></e>
-      
-      <e><p><l>russiu<s n="adj"/></l><r>russo<s n="adj"/></r></p></e>
-      <e><p><l>carattaristicu<s n="adj"/></l><r>caratteristico<s n="adj"/></r></p></e>
-      <e><p><l>cunsidaratu<s n="adj"/></l><r>considerato<s n="adj"/></r></p></e>
-      <e><p><l>prufondu<s n="adj"/></l><r>profondo<s n="adj"/></r></p></e>
-      <e><p><l>difficiule<s n="adj"/><s n="mf"/></l><r>difficile<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>pupulare<s n="adj"/><s n="mf"/></l><r>popolare<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>putente<s n="adj"/><s n="mf"/></l><r>potente<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>giugraficu<s n="adj"/></l><r>geografico<s n="adj"/></r></p></e>
-      <e><p><l>filusoficu<s n="adj"/></l><r>filosofico<s n="adj"/></r></p></e>
-      <e><p><l>uriginale<s n="adj"/><s n="mf"/></l><r>originale<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>ghjinuvesu<s n="adj"/></l><r>genovese<s n="adj"/></r></p></e>
-      <e><p><l>regiunale<s n="adj"/><s n="mf"/></l><r>regionale<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>pueticu<s n="adj"/></l><r>poetico<s n="adj"/></r></p></e>
-      <e><p><l>svedesu<s n="adj"/></l><r>svedese<s n="adj"/></r></p></e>
-      <e><p><l>funeticu<s n="adj"/></l><r>fonetico<s n="adj"/></r></p></e>
-      <e><p><l>infurmaticu<s n="adj"/></l><r>informatico<s n="adj"/></r></p></e>
-      <e><p><l>suvieticu<s n="adj"/></l><r>sovietico<s n="adj"/></r></p></e>
-      <e><p><l>finlandesu<s n="adj"/></l><r>finlandese<s n="adj"/></r></p></e>
-      <e><p><l>prussimu<s n="adj"/></l><r>prossimo<s n="adj"/></r></p></e>
-      <e><p><l>immubiliare<s n="adj"/><s n="mf"/></l><r>immobiliare<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>giappunese<s n="adj"/><s n="mf"/></l><r>giapponese<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>autumaticu<s n="adj"/></l><r>automatico<s n="adj"/></r></p></e>
-      <e><p><l>uceanicu<s n="adj"/></l><r>oceanico<s n="adj"/></r></p></e>
-      <e><p><l>murfulogicu<s n="adj"/></l><r>morfologico<s n="adj"/></r></p></e>
-      <e><p><l>pruprietariu<s n="adj"/></l><r>proprietario<s n="adj"/></r></p></e>
-      <e><p><l>neuliticu<s n="adj"/></l><r>neolitico<s n="adj"/></r></p></e>
-      <e><p><l>impussibule<s n="adj"/><s n="mf"/></l><r>impossibile<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>giulogicu<s n="adj"/></l><r>geologico<s n="adj"/></r></p></e>
-      <e><p><l>ghjermanicu<s n="adj"/></l><r>germanico<s n="adj"/></r></p></e>
-      <e><p><l>crunulogicu<s n="adj"/></l><r>cronologico<s n="adj"/></r></p></e>
-      <e><p><l>arumaticu<s n="adj"/></l><r>aromatico<s n="adj"/></r></p></e>
-      <e><p><l>terribule<s n="adj"/><s n="mf"/></l><r>terribile<s n="adj"/><s n="mf"/></r></p></e>
-      <e><p><l>prublematicu<s n="adj"/></l><r>problematico<s n="adj"/></r></p></e>
-      <e><p><l>ghjuridicu<s n="adj"/></l><r>giuridico<s n="adj"/></r></p></e>
-      <e><p><l>prulificu<s n="adj"/></l><r>prolifico<s n="adj"/></r></p></e>
-      
-     
-    
 
     
 
