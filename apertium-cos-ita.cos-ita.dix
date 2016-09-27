@@ -1869,6 +1869,26 @@
       <e><p><l>anellu<s n="n"/><s n="m"/></l><r>anello<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>affare<s n="n"/><s n="m"/></l><r>affare<s n="n"/><s n="m"/></r></p></e>
     
+      <e><p><l>vindetta<s n="n"/><s n="f"/></l><r>vendetta<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>realizatore<s n="n"/><s n="m"/></l><r>realizzatore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>biera<s n="n"/><s n="f"/></l><r>birra<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>bugettu<s n="n"/><s n="m"/></l><r>budget<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>funziunariu<s n="n"/><s n="m"/></l><r>funzionario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>ridazzione<s n="n"/><s n="f"/></l><r>redazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>raprisentante<s n="n"/><s n="m"/></l><r>rappresentante<s n="n"/><s n="mf"/></r></p></e>
+      <e><p><l>guvernatore<s n="n"/><s n="m"/></l><r>governatore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>mascina<s n="n"/><s n="f"/></l><r>macchina<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>spezialistu<s n="n"/><s n="m"/></l><r>specialista<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>panicca<s n="n"/><s n="f"/></l><r>panica<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>duminatore<s n="n"/><s n="m"/></l><r>dominatore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cartugrafia<s n="n"/><s n="f"/></l><r>cartografia<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>attrazzione<s n="n"/><s n="f"/></l><r>attrazione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>legiunariu<s n="n"/><s n="m"/></l><r>legionario<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>incumpetenza<s n="n"/><s n="f"/></l><r>incompetenza<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fruntieru<s n="n"/><s n="m"/></l><r>frontiera<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>facistu<s n="n"/><s n="f"/></l><r>fascista<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>agressione<s n="n"/><s n="f"/></l><r>aggressione<s n="n"/><s n="f"/></r></p></e>
+      
 
  
       
@@ -4772,7 +4792,18 @@
 
       <e><p><l>sbaglià<s n="vblex"/></l><r>sbagliare<s n="vblex"/></r></p></e>
       <e><p><l>cunsiglià<s n="vblex"/></l><r>consigliare<s n="vblex"/></r></p></e>
+           
+      <e><p><l>stabilisce<s n="vblex"/></l><r>stabilire<s n="vblex"/></r></p></e>
+      <e><p><l>nutrisce<s n="vblex"/></l><r>nutrire<s n="vblex"/></r></p></e>
+      <e><p><l>apparisce<s n="vblex"/></l><r>apparire<s n="vblex"/></r></p></e>
+      <e><p><l>ferisce<s n="vblex"/></l><r>ferire<s n="vblex"/></r></p></e>
+      <e><p><l>agisce<s n="vblex"/></l><r>agire<s n="vblex"/></r></p></e>
+      <e><p><l>ristabilisce<s n="vblex"/></l><r>ristabilire<s n="vblex"/></r></p></e>
+      <e><p><l>infastidisce<s n="vblex"/></l><r>infastidire<s n="vblex"/></r></p></e>
+      <e><p><l>arricchisce<s n="vblex"/></l><r>arricchire<s n="vblex"/></r></p></e>
+      <e><p><l>gestisce<s n="vblex"/></l><r>gestire<s n="vblex"/></r></p></e>
       
+ 
       <e><p><l>priferisce<s n="vblex"/></l><r>preferire<s n="vblex"/></r></p></e>
   
       <!-- SECTION: Interyecciones -->
@@ -5025,7 +5056,8 @@
       <e><p><l>vucalicu<s n="adj"/></l><r>vocalico<s n="adj"/></r></p></e>
       <e><p><l>sinceru<s n="adj"/></l><r>sincero<s n="adj"/></r></p></e>
       <e><p><l>carcu<s n="adj"/></l><r>carico<s n="adj"/></r></p></e>
-      
+      <e><p><l>serenu<s n="adj"/></l><r>sereno<s n="adj"/></r></p></e>
+
       
 
 
