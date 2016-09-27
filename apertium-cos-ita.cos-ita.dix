@@ -210,6 +210,8 @@
 
       <e><p><l>lu<s n="prn"/><s n="pro"/></l><r>lo<s n="prn"/><s n="pro"/></r></p></e>
 
+      <e><p><l>vi<s n="prn"/><s n="enc"/></l><r>vi<s n="prn"/><s n="enc"/></r></p></e>
+
       <e><p><l>si<s n="prn"/><s n="pro"/><s n="ref"/></l><r>si<s n="prn"/><s n="pro"/><s n="ref"/></r></p></e>
       <e><p><l>si<s n="prn"/><s n="enc"/><s n="ref"/></l><r>si<s n="prn"/><s n="enc"/><s n="ref"/></r></p></e>
 
@@ -4530,6 +4532,7 @@
       <e><p><l>centralizà<s n="vblex"/></l><r>centralizzare<s n="vblex"/></r></p></e>
       <e><p><l>dubbità<s n="vblex"/></l><r>dubitare<s n="vblex"/></r></p></e>
       <e><p><l>parte<s n="vblex"/></l><r>partire<s n="vblex"/></r></p></e>
+      <e><p><l>riparte<s n="vblex"/></l><r>ripartire<s n="vblex"/></r></p></e>
 
       <e><p><l>costà<s n="vblex"/></l><r>costare<s n="vblex"/></r></p></e>
       <e><p><l>pone<s n="vblex"/></l><r>posare<s n="vblex"/></r></p></e>
@@ -4752,6 +4755,7 @@
       <e><p><l>traccià<s n="vblex"/></l><r>tracciare<s n="vblex"/></r></p></e>
       <e><p><l>urdinà<s n="vblex"/></l><r>ordinare<s n="vblex"/></r></p></e>
       <e><p><l>scusà<s n="vblex"/></l><r>scusare<s n="vblex"/></r></p></e>
+      <e><p><l>prutege<s n="vblex"/></l><r>proteggere<s n="vblex"/></r></p></e>
       
       <e><p><l>priferisce<s n="vblex"/></l><r>preferire<s n="vblex"/></r></p></e>
   
