@@ -1867,6 +1867,7 @@
       <e><p><l>bislinguisimu<s n="n"/><s n="m"/></l><r>bilinguismo<s n="n"/><s n="m"/></r></p></e>
     
       <e><p><l>anellu<s n="n"/><s n="m"/></l><r>anello<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>affare<s n="n"/><s n="m"/></l><r>affare<s n="n"/><s n="m"/></r></p></e>
     
 
  
@@ -4272,6 +4273,7 @@
       <!--<e><p><l>inoltri<s n="adv"/></l><r>inoltri<s n="adv"/></r></p></e>-->
       <e><p><l>mai<s n="adv"/></l><r>mai<s n="adv"/></r></p></e>
       <e><p><l>invece<s n="adv"/></l><r>invece<s n="adv"/></r></p></e>
+      <e><p><l>dinù<s n="adv"/></l><r>anche<s n="adv"/></r></p></e>
       <e><p><l>difatti<s n="adv"/></l><r>difatti<s n="cnjadv"/></r></p></e>
       <e><p><l>non<s n="adv"/></l><r>non<s n="adv"/></r></p></e>
       <!--<e><p><l>mori<s n="adv"/></l><r>mori<s n="adv"/></r></p></e>-->
@@ -4322,7 +4324,15 @@
       <e><p><l>eccetera<s n="adv"/></l><r>eccetera<s n="adv"/></r></p></e>
       <e><p><l>strutturalmente<s n="adv"/></l><r>strutturalmente<s n="adv"/></r></p></e>
       <e><p><l>cuncretamente<s n="adv"/></l><r>concretamente<s n="adv"/></r></p></e>
- 
+
+      <e><p><l>tandu<s n="adv"/></l><r>tanto<s n="adv"/></r></p></e>
+      <e><p><l>ancu<s n="adv"/></l><r>anche<s n="adv"/></r></p></e>
+      <e><p><l>annantu<s n="adv"/></l><r>davanti<s n="adv"/></r></p></e>
+      <e><p><l>micca<s n="adv"/></l><r>mica<s n="adv"/></r></p></e>
+      <e><p><l>quì<s n="adv"/></l><r>quì<s n="adv"/></r></p></e>
+      <e><p><l>oghje<s n="adv"/></l><r>oggi<s n="adv"/></r></p></e>
+
+
 
       <e><p><l>a.C.<s n="adv"/></l><r>a.C<s n="abbr"/></r></p></e>
 
@@ -4731,9 +4741,9 @@
       <e><p><l>pruvucà<s n="vblex"/></l><r>provocare<s n="vblex"/></r></p></e>
       <e><p><l>qualificà<s n="vblex"/></l><r>qualificare<s n="vblex"/></r></p></e>
       <e><p><l>ricumpensà<s n="vblex"/></l><r>ricompensare<s n="vblex"/></r></p></e>
-      <e><p><l>riduce<s n="vblex"/></l><r>riduce<s n="vblex"/></r></p></e>
-      <e><p><l>riesce<s n="vblex"/></l><r>riesce<s n="vblex"/></r></p></e>
-      <e><p><l>riflette<s n="vblex"/></l><r>riflette<s n="vblex"/></r></p></e>
+      <e><p><l>riduce<s n="vblex"/></l><r>riducere<s n="vblex"/></r></p></e>
+      <e><p><l>riesce<s n="vblex"/></l><r>riuscire<s n="vblex"/></r></p></e>
+      <e><p><l>riflette<s n="vblex"/></l><r>riflettere<s n="vblex"/></r></p></e>
       <e><p><l>rilancià<s n="vblex"/></l><r>rilanciare<s n="vblex"/></r></p></e>
       <e><p><l>ringrazià<s n="vblex"/></l><r>ringraziare<s n="vblex"/></r></p></e>
       <e><p><l>rinvià<s n="vblex"/></l><r>rinviare<s n="vblex"/></r></p></e>
@@ -4759,6 +4769,9 @@
       <e><p><l>urdinà<s n="vblex"/></l><r>ordinare<s n="vblex"/></r></p></e>
       <e><p><l>scusà<s n="vblex"/></l><r>scusare<s n="vblex"/></r></p></e>
       <e><p><l>prutege<s n="vblex"/></l><r>proteggere<s n="vblex"/></r></p></e>
+
+      <e><p><l>sbaglià<s n="vblex"/></l><r>sbagliare<s n="vblex"/></r></p></e>
+      <e><p><l>cunsiglià<s n="vblex"/></l><r>consigliare<s n="vblex"/></r></p></e>
       
       <e><p><l>priferisce<s n="vblex"/></l><r>preferire<s n="vblex"/></r></p></e>
   
@@ -4793,13 +4806,6 @@
        <!-- SORT -->
       
       <e><p><l>u quali<s n="rel"/><s n="an"/></l><r>il quale<s n="rel"/><s n="an"/></r></p></e>
-
-      <e><p><l>tandu<s n="adv"/></l><r>tanto<s n="adv"/></r></p></e>
-      <e><p><l>ancu<s n="adv"/></l><r>anche<s n="adv"/></r></p></e>
-      <e><p><l>annantu<s n="adv"/></l><r>davanti<s n="adv"/></r></p></e>
-      <e><p><l>micca<s n="adv"/></l><r>mica<s n="adv"/></r></p></e>
-      <e><p><l>quì<s n="adv"/></l><r>quì<s n="adv"/></r></p></e>
-      <e><p><l>oghje<s n="adv"/></l><r>oggi<s n="adv"/></r></p></e>
 
  
       <e><p><l>marinu<s n="adj"/></l><r>marino<s n="adj"/></r></p></e>
