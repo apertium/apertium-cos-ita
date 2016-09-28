@@ -4837,7 +4837,30 @@
       <e><p><l>revene<s n="vblex"/></l><r>rivenire<s n="vblex"/></r></p></e>
       <e><p><l>fucalizà<s n="vblex"/></l><r>focalizzare<s n="vblex"/></r></p></e>
       
+      <e><p><l>dichjarà<s n="vblex"/></l><r>dichiarare<s n="vblex"/></r></p></e>
+      <e><p><l>ripiglià<s n="vblex"/></l><r>riprendere<s n="vblex"/></r></p></e>
+      <e><p><l>amparà<s n="vblex"/></l><r>imparare<s n="vblex"/></r></p></e>
       
+      
+      <e><p><l>impiantà<s n="vblex"/></l><r>impiantare<s n="vblex"/></r></p></e>
+      <e><p><l>chjappà<s n="vblex"/></l><r>prendere<s n="vblex"/></r></p></e>
+      <e><p><l>rifughjà<s n="vblex"/></l><r>rifugiare<s n="vblex"/></r></p></e>
+      <e><p><l>participeghjà<s n="vblex"/></l><r>partecipare<s n="vblex"/></r></p></e>
+      <e><p><l>ritene<s n="vblex"/></l><r>ritenere<s n="vblex"/></r></p></e>
+      <e><p><l>aghjunghje<s n="vblex"/></l><r>aggiungere<s n="vblex"/></r></p></e>
+      <e><p><l>annunzià<s n="vblex"/></l><r>annunciare<s n="vblex"/></r></p></e>
+      <e><p><l>cunfirmà<s n="vblex"/></l><r>confermare<s n="vblex"/></r></p></e>
+      <e><p><l>ligà<s n="vblex"/></l><r>legare<s n="vblex"/></r></p></e>
+      <e><p><l>intitulà<s n="vblex"/></l><r>intitolare<s n="vblex"/></r></p></e>
+      <e><p><l>sunà<s n="vblex"/></l><r>suonare<s n="vblex"/></r></p></e>
+      <e><p><l>raghjunghje<s n="vblex"/></l><r>raggiungere<s n="vblex"/></r></p></e>
+      
+      <e><p><l>vergognà<s n="vblex"/></l><r>vergognare<s n="vblex"/></r></p></e>
+      <e><p><l>cummencià<s n="vblex"/></l><r>cominciare<s n="vblex"/></r></p></e>
+      <e><p><l>innamurà<s n="vblex"/></l><r>innamorare<s n="vblex"/></r></p></e>
+      <e><p><l>accittà<s n="vblex"/></l><r>accettare<s n="vblex"/></r></p></e>
+      <e><p><l>lampà<s n="vblex"/></l><r>lanciare<s n="vblex"/></r></p></e>
+ 
  
       <e><p><l>priferisce<s n="vblex"/></l><r>preferire<s n="vblex"/></r></p></e>
   
@@ -5244,6 +5267,7 @@
       <e><p><l>ungaricu<s n="adj"/></l><r>ungherese<s n="adj"/></r></p></e>
       <e><p><l>agricule<s n="adj"/><s n="mf"/></l><r>agricolo<s n="adj"/><s n="m"/></r></p></e>
       <e><p><l>rimarchevule<s n="adj"/><s n="mf"/></l><r>rimarchevole<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>prubabile<s n="adj"/><s n="mf"/></l><r>probabile<s n="adj"/><s n="mf"/></r></p></e>
       <e><p><l>bislinguu<s n="adj"/></l><r>bilingue<s n="adj"/></r></p></e>
       <e><p><l>anatolicu<s n="adj"/></l><r>anatolico<s n="adj"/></r></p></e>
       <e><p><l>egizzianu<s n="adj"/></l><r>egiziano<s n="adj"/></r></p></e>
@@ -5384,29 +5408,72 @@
       <e><p><l>simplicemente<s n="adv"/></l><r>semplicemente<s n="adv"/></r></p></e>
       <e><p><l>sclusivamente<s n="adv"/></l><r>esclusivamente<s n="adv"/></r></p></e>
       
-      <e><p><l>dichjarà<s n="vblex"/></l><r>dichiarare<s n="vblex"/></r></p></e>
-      <e><p><l>ripiglià<s n="vblex"/></l><r>riprendere<s n="vblex"/></r></p></e>
-      <e><p><l>amparà<s n="vblex"/></l><r>imparare<s n="vblex"/></r></p></e>
-      
-      
-      <e><p><l>impiantà<s n="vblex"/></l><r>impiantare<s n="vblex"/></r></p></e>
-      <e><p><l>chjappà<s n="vblex"/></l><r>prendere<s n="vblex"/></r></p></e>
-      <e><p><l>rifughjà<s n="vblex"/></l><r>rifugiare<s n="vblex"/></r></p></e>
-      <e><p><l>participeghjà<s n="vblex"/></l><r>partecipare<s n="vblex"/></r></p></e>
-      <e><p><l>ritene<s n="vblex"/></l><r>ritenere<s n="vblex"/></r></p></e>
-      <e><p><l>aghjunghje<s n="vblex"/></l><r>aggiungere<s n="vblex"/></r></p></e>
-      <e><p><l>annunzià<s n="vblex"/></l><r>annunciare<s n="vblex"/></r></p></e>
-      <e><p><l>cunfirmà<s n="vblex"/></l><r>confermare<s n="vblex"/></r></p></e>
-      <e><p><l>ligà<s n="vblex"/></l><r>legare<s n="vblex"/></r></p></e>
-      <e><p><l>intitulà<s n="vblex"/></l><r>intitolare<s n="vblex"/></r></p></e>
-      <e><p><l>sunà<s n="vblex"/></l><r>suonare<s n="vblex"/></r></p></e>
-      <e><p><l>raghjunghje<s n="vblex"/></l><r>raggiungere<s n="vblex"/></r></p></e>
-      
-      <e><p><l>vergognà<s n="vblex"/></l><r>vergognare<s n="vblex"/></r></p></e>
-      <e><p><l>cummencià<s n="vblex"/></l><r>cominciare<s n="vblex"/></r></p></e>
-      <e><p><l>innamurà<s n="vblex"/></l><r>innamorare<s n="vblex"/></r></p></e>
-      <e><p><l>accittà<s n="vblex"/></l><r>accettare<s n="vblex"/></r></p></e>
-      
+     
+      <e><p><l>bizzicu<s n="n"/><s n="m"/></l><r>becco<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>risicu<s n="n"/><s n="m"/></l><r>rischio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>capidopera<s n="n"/><s n="m"/></l><r>capolavoro<s n="n"/><s n="m"/></r></p><par n="sp_ND"/></e>
+      <e><p><l>ammubulamentu<s n="n"/><s n="m"/></l><r>ammobiliamento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>intrinadore<s n="n"/><s n="m"/></l><r>allenatore<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>pussidimentu<s n="n"/><s n="m"/></l><r>possedimento<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>avvinimentu<s n="n"/><s n="m"/></l><r>avvenimento<s n="n"/><s n="m"/></r></p></e>
+
+      <e><p><l>puchissimu<s n="adj"/></l><r>puchissimo<s n="adj"/></r></p></e>
+      <e><p><l>stratigraficu<s n="adj"/></l><r>stratografico<s n="adj"/></r></p></e>
+      <e><p><l>securitariu<s n="adj"/></l><r>di<b/>sicurezza<s n="adj"/></r></p></e>
+      <e><p><l>ozzionale<s n="adj"/><s n="mf"/></l><r>opzionale<s n="adj"/><s n="mf"/></r></p></e>
+      <e><p><l>ozzionale<s n="adj"/></l><r>facoltativo<s n="adj"/></r></p><par n="sp_ND"/></e>
+
+      <e><p><l>piattà<s n="vblex"/></l><r>nascondere<s n="vblex"/></r></p></e>
+      <e><p><l>stallà<s n="vblex"/></l><r>stabilire<s n="vblex"/></r></p></e>
+      <e><p><l>mughjà<s n="vblex"/></l><r>urlare<s n="vblex"/></r></p></e>
+      <e><p><l>cuntinuveghjà<s n="vblex"/></l><r>continuare<s n="vblex"/></r></p></e>
+      <e><p><l>cuntribuisce<s n="vblex"/></l><r>contribuire<s n="vblex"/></r></p></e>
+      <e><p><l>appoghjà<s n="vblex"/></l><r>appoggiare<s n="vblex"/></r></p></e>
+      <e><p><l>rivultà<s n="vblex"/></l><r>rivoltare<s n="vblex"/></r></p></e>
+      <e><p><l>prufittà<s n="vblex"/></l><r>approfittarsi<s n="vblex"/></r></p></e>
+      <e><p><l>sirve<s n="vblex"/></l><r>servire<s n="vblex"/></r></p></e>
+      <e><p><l>inchietà<s n="vblex"/></l><r>inquietarsi<s n="vblex"/></r></p></e>
+      <e><p><l>ghjittà<s n="vblex"/></l><r>gettare<s n="vblex"/></r></p></e>
+      <e><p><l>arrubà<s n="vblex"/></l><r>rubare<s n="vblex"/></r></p></e>
+      <e><p><l>tramutà<s n="vblex"/></l><r>tramutare<s n="vblex"/></r></p></e>
+      <e><p><l>bramà<s n="vblex"/></l><r>desiderare<s n="vblex"/></r></p></e>
+      <e><p><l>sminticà<s n="vblex"/></l><r>dimenticare<s n="vblex"/></r></p></e>
+      <e><p><l>ghjuvà<s n="vblex"/></l><r>giovare<s n="vblex"/></r></p></e>
+      <e><p><l>stumacà<s n="vblex"/></l><r>infastidire<s n="vblex"/></r></p></e>
+      <e><p><l>stumacà<s n="vblex"/></l><r>disgustare<s n="vblex"/></r></p></e>
+      <e><p><l>stirpà<s n="vblex"/></l><r>estirpare<s n="vblex"/></r></p></e>
+      <e><p><l>prevene<s n="vblex"/></l><r>provenire<s n="vblex"/></r></p></e>
+      <e><p><l>addunisce<s n="vblex"/></l><r>unire<s n="vblex"/></r></p></e>
+      <e><p><l>pruvucheghjà<s n="vblex"/></l><r>provocare<s n="vblex"/></r></p></e>
+      <e><p><l>medità<s n="vblex"/></l><r>meditare<s n="vblex"/></r></p></e>
+      <e><p><l>cappià<s n="vblex"/></l><r>spruzzare<s n="vblex"/></r></p></e>
+      <e><p><l>cappià<s n="vblex"/></l><r>cacciare<s n="vblex"/></r></p></e>
+      <e><p><l>arricà<s n="vblex"/></l><r>arrecare<s n="vblex"/></r></p></e>
+      <e><p><l>furzà<s n="vblex"/></l><r>forzare<s n="vblex"/></r></p></e>
+      <e><p><l>fidighjà<s n="vblex"/></l><r>guardare<s n="vblex"/></r></p></e>
+      <e><p><l>festighjà<s n="vblex"/></l><r>festeggiare<s n="vblex"/></r></p></e>
+      <e><p><l>sventulà<s n="vblex"/></l><r>sventolare<s n="vblex"/></r></p></e>
+      <e><p><l>sciappà<s n="vblex"/></l><r>sciappare<s n="vblex"/></r></p></e>
+      <e><p><l>sciappà<s n="vblex"/></l><r>rompere<s n="vblex"/></r></p></e>
+      <e><p><l>scempià<s n="vblex"/></l><r>rovinare<s n="vblex"/></r></p></e>
+      <e><p><l>rimarcà<s n="vblex"/></l><r>evidenziare<s n="vblex"/></r></p></e>
+      <e><p><l>addurmintà<s n="vblex"/></l><r>addormentare<s n="vblex"/></r></p></e>
+      <e><p><l>sbandisce<s n="vblex"/></l><r>sdoganare<s n="vblex"/></r></p></e>
+      <e><p><l>ricullà<s n="vblex"/></l><r>rimontare<s n="vblex"/></r></p></e>
+      <e><p><l>benefizià<s n="vblex"/></l><r>beneficiare<s n="vblex"/></r></p></e>
+      <e><p><l>supraneghjà<s n="vblex"/></l><r>sovrastare<s n="vblex"/></r></p></e>
+      <e><p><l>scatinà<s n="vblex"/></l><r>scatenare<s n="vblex"/></r></p></e>
+      <e><p><l>ripupulà<s n="vblex"/></l><r>ripopolare<s n="vblex"/></r></p></e>
+      <e><p><l>pattighjà<s n="vblex"/></l><r>trattare<s n="vblex"/></r></p></e>
+      <e><p><l>interpretà<s n="vblex"/></l><r>interpretare<s n="vblex"/></r></p></e>
+      <e><p><l>accuncià<s n="vblex"/></l><r>organizzare<s n="vblex"/></r></p></e>
+      <e><p><l>simbulizà<s n="vblex"/></l><r>simbolizzare<s n="vblex"/></r></p></e>
+      <e><p><l>scurdà<s n="vblex"/></l><r>scordare<s n="vblex"/></r></p></e>
+      <e><p><l>sciaccà<s n="vblex"/></l><r>schiacciare<s n="vblex"/></r></p></e>
+      <e><p><l>risuscità<s n="vblex"/></l><r>resuscitare<s n="vblex"/></r></p></e>
+      <e><p><l>palisà<s n="vblex"/></l><r>palesare<s n="vblex"/></r></p></e>
+
+
 
    </section>
 </dictionary>
