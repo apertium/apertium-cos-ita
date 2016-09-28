@@ -21,3 +21,4 @@ dev/testvoc/generation.sh -text
 dev/testvoc/streamparser.py -text
 dev/testvoc/test-ngrams.sh -text
 /modes.xml -text
+texts/cuento.ita.txt -text
