@@ -317,7 +317,12 @@
       <e><p><l>vinti<s n="num"/></l><r>venti<s n="num"/></r></p></e>
       <e><p><l>novanta<s n="num"/></l><r>novanta<s n="num"/></r></p></e>
       <e><p><l>dodici<s n="num"/></l><r>dodici<s n="num"/></r></p></e>
-      
+     
+      <e><p><l>dicesette<s n="num"/></l><r>diciassette<s n="num"/></r></p></e>
+      <e><p><l>ondeci<s n="num"/></l><r>undici<s n="num"/></r></p></e>
+      <e><p><l>vinticinque<s n="num"/></l><r>venticinque<s n="num"/></r></p></e>
+
+ 
       <e><p><l>trenta<s n="num"/></l><r>trenta<s n="num"/></r></p></e>
       <e><p><l>quaranta<s n="num"/></l><r>quaranta<s n="num"/></r></p></e>
       <e><p><l>cinquecentu<s n="num"/></l><r>cinquecento<s n="num"/></r></p></e>
@@ -1504,6 +1509,7 @@
       <e><p><l>struzzione<s n="n"/><s n="f"/></l><r>istruzione<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>speranza<s n="n"/><s n="f"/></l><r>speranza<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>simplicità<s n="n"/><s n="f"/></l><r>semplicità<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
+      <e><p><l>publicità<s n="n"/><s n="f"/></l><r>pubblicità<s n="n"/><s n="f"/></r></p><par n="ND_sp"/></e>
       <e><p><l>rivuluziunariu<s n="n"/><s n="m"/></l><r>rivoluzionario<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>ritimu<s n="n"/><s n="m"/></l><r>ritmo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>rap<s n="n"/><s n="m"/></l><r>rap<s n="n"/><s n="m"/></r></p></e>
@@ -5474,6 +5480,8 @@
       <e><p><l>palisà<s n="vblex"/></l><r>palesare<s n="vblex"/></r></p></e>
 
 
+      <e><p><l>passiunatu<s n="adj"/></l><r>passiunato<s n="adj"/></r></p></e>
+      <e><p><l>appassiunatu<s n="adj"/></l><r>passiunato<s n="adj"/></r></p></e>
 
    </section>
 </dictionary>
