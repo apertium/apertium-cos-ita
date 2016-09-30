@@ -203,6 +203,7 @@
       <e><p><l>voi<s n="prn"/><s n="tn"/></l><r>voi<s n="prn"/><s n="tn"/></r></p></e>
 
       <e><p><l>mè<s n="prn"/><s n="tn"/></l><r>me<s n="prn"/><s n="tn"/></r></p></e>
+      <e><p><l>tè<s n="prn"/><s n="tn"/></l><r>te<s n="prn"/><s n="tn"/></r></p></e>
 
       <e><p><l>mi<s n="prn"/><s n="enc"/></l><r>mi<s n="prn"/><s n="enc"/></r></p></e>
       <e><p><l>li<s n="prn"/><s n="enc"/></l><r>gli<s n="prn"/><s n="enc"/></r></p></e>
@@ -1446,7 +1447,7 @@
       <e><p><l>missaghju<s n="n"/><s n="m"/></l><r>messaggio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>maraviglia<s n="n"/><s n="f"/></l><r>meraviglia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>futbol<s n="n"/><s n="m"/></l><r>calcio<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>caffè<s n="n"/><s n="m"/></l><r>caffè<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>caffè<s n="n"/><s n="m"/></l><r>caffè<s n="n"/><s n="m"/></r></p><par n="sg_sp"/></e>
       <e><p><l>vuluntà<s n="n"/><s n="f"/></l><r>volontà<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>viulinu<s n="n"/><s n="m"/></l><r>violino<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>sabatu<s n="n"/><s n="m"/></l><r>sabato<s n="n"/><s n="m"/></r></p></e>
@@ -1582,7 +1583,7 @@
       <e><p><l>picuraghju<s n="n"/><s n="m"/></l><r>pecoraio<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>partigianu<s n="n"/><s n="m"/></l><r>partigiano<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>pacchettu<s n="n"/><s n="m"/></l><r>pacchetto<s n="n"/><s n="m"/></r></p></e>
-      <e><p><l>naziunalisimu<s n="n"/><s n="m"/></l><r>nazionalisimo<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>naziunalisimu<s n="n"/><s n="m"/></l><r>nazionalismo<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>inghjustizia<s n="n"/><s n="f"/></l><r>ingiustizia<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>giurnalistu<s n="n"/><s n="m"/></l><r>giornalista<s n="n"/><s n="m"/></r></p></e>
       <e><p><l>finanza<s n="n"/><s n="f"/></l><r>finanza<s n="n"/><s n="f"/></r></p></e>
@@ -1894,6 +1895,9 @@
       <e><p><l>fruntieru<s n="n"/><s n="m"/></l><r>frontiera<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>facistu<s n="n"/><s n="f"/></l><r>fascista<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>agressione<s n="n"/><s n="f"/></l><r>aggressione<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>fiaccula<s n="n"/><s n="f"/></l><r>fiaccola<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>vigna<s n="n"/><s n="f"/></l><r>vigna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>ancura<s n="n"/><s n="f"/></l><r>ancora<s n="n"/><s n="f"/></r></p></e>
       
 
  
@@ -5553,6 +5557,8 @@
       <e><p><l>cummercializà<s n="vblex"/></l><r>commercializzare<s n="vblex"/></r></p></e>
       <e><p><l>arrigalà<s n="vblex"/></l><r>regalare<s n="vblex"/></r></p></e>
       <e><p><l>adirizzà<s n="vblex"/></l><r>ammutolire<s n="vblex"/></r></p></e>
+      <e><p><l>pare<s n="vblex"/></l><r>parere<s n="vblex"/></r></p></e>
+      <e><p><l>apre<s n="vblex"/></l><r>aprire<s n="vblex"/></r></p></e>
 
 
 
