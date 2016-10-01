@@ -1898,6 +1898,9 @@
       <e><p><l>fiaccula<s n="n"/><s n="f"/></l><r>fiaccola<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>vigna<s n="n"/><s n="f"/></l><r>vigna<s n="n"/><s n="f"/></r></p></e>
       <e><p><l>ancura<s n="n"/><s n="f"/></l><r>ancora<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>listinu<s n="n"/><s n="m"/></l><r>lista<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cagnaccu<s n="n"/><s n="m"/></l><r>cagnaccio<s n="n"/><s n="m"/></r></p></e>
+      <e><p><l>cagnaccu<s n="n"/><s n="f"/></l><r>cagnaccio<s n="n"/><s n="f"/></r></p></e>
       
 
  
@@ -4238,6 +4241,8 @@
       <e><p><l>stancu<s n="adj"/></l><r>stanco<s n="adj"/></r></p></e>
       <e><p><l>burbonicu<s n="adj"/></l><r>borbonico<s n="adj"/></r></p></e>
       <e><p><l>atipicu<s n="adj"/></l><r>atupico<s n="adj"/></r></p></e>
+      <e><p><l>gattivu<s n="adj"/></l><r>cattivo<s n="adj"/></r></p></e>
+      <e><p><l>indiatu<s n="adj"/></l><r>impegnato<s n="adj"/></r></p></e>
 
 
  
@@ -4264,6 +4269,7 @@
       <e><p><l>più<s n="adv"/></l><r>più<s n="adv"/></r></p></e>
       <e><p><l>inseme<s n="adv"/></l><r>insieme<s n="adv"/></r></p></e>
       <e><p><l>circa<s n="adv"/></l><r>circa<s n="adv"/></r></p></e>
+      <e><p><l>d'altronde<s n="adv"/></l><r>d'altronde<s n="adv"/></r></p></e>
       <e><p><l>digià<s n="adv"/></l><r>già<s n="adv"/></r></p></e>
       <e><p><l>solu<s n="adv"/></l><r>solo<s n="adv"/></r></p></e>
       <e><p><l>spessu<s n="adv"/></l><r>spesso<s n="adv"/></r></p></e>
@@ -5406,7 +5412,8 @@
       
       <e><p><l>cà<s n="adv"/></l><r>qua<s n="adv"/></r></p></e>
       <e><p><l>eppuru<s n="adv"/></l><r>eppure<s n="adv"/></r></p></e>
-      <e><p><l>sinu a<s n="adv"/></l><r>fino a<s n="adv"/></r></p></e>
+      <e><p><l>appinuccia<s n="adv"/></l><r>appena<s n="adv"/></r></p></e>
+      <e><p><l>sinu<b/>a<s n="adv"/></l><r>fino<b/>a<s n="adv"/></r></p></e>
       
       <e><p><l>siguramente<s n="adv"/></l><r>sicuramente<s n="adv"/></r></p></e>
       
