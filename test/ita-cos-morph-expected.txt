@@ -1,0 +1,34 @@
+[7VghPSlbfI6Z#0] ^1°/1°<num>$
+[/7VghPSlbfI6Z]
+[HzRQP2W0o1Wp#0] ^km/km<abbr>$
+[/HzRQP2W0o1Wp]
+[M0f3IErZDaD0#0] ^l’/il<det><def><mf><sg>/lo<prn><pro><p3><m><sg>/lo<prn><pro><p3><f><sg>$
+[/M0f3IErZDaD0]
+[Muuxq8wcYBzr#0] ^(/(<lpar>$
+[/Muuxq8wcYBzr]
+[OPq4tQKSRM2E#0] ^5.0º/5.0º<num>$
+[/OPq4tQKSRM2E]
+[QbgF6nrAFOI1#0] ^;/;<sent>$
+[/QbgF6nrAFOI1]
+[TDkD3uOpggny#0] ^3.33°/3.33°<num>$
+[/TDkD3uOpggny]
+[VF-UDRn63_St#0] ^?!/?!<sent>$
+[/VF-UDRn63_St]
+[XDc0UVjOr6ID#0] ^c'/ci<prn><pro><adv>/ci<prn><pro><p1><mf><pl>$
+[/XDc0UVjOr6ID]
+[aa-IojRI8mpU#0] ^9º/9º<num>$
+[/aa-IojRI8mpU]
+[aaqeZ5c48Yb9#0] ^Kinose/*Kinose$
+[/aaqeZ5c48Yb9]
+[jK20jfZ8bYBe#0] ^52ª/52ª<num>$
+[/jK20jfZ8bYBe]
+[lmx8rIyD9HJd#0] ^lʼ/il<det><def><mf><sg>/lo<prn><pro><p3><m><sg>/lo<prn><pro><p3><f><sg>$
+[/lmx8rIyD9HJd]
+[poEKQq2qTVXt#0] ^«/«<lquot>$
+[/poEKQq2qTVXt]
+[sOmmuZBPmwvx#0] ^mʼ/mi<prn><pro><p1><mf><sg>$
+[/sOmmuZBPmwvx]
+[u_X_MHCo9m-f#0] ^dʼ/di<pr>$
+[/u_X_MHCo9m-f]
+[ul7FHQekrA6V#0] ^)/)<rpar>$
+[/ul7FHQekrA6V]

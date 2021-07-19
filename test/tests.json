@@ -1,0 +1,10 @@
+{
+    "cos-ita": {
+        "input": "cos-ita-input.txt",
+        "mode": "cos-ita"
+    },
+    "ita-cos": {
+        "input": "ita-cos-input.txt",
+        "mode": "ita-cos"
+    }
+}

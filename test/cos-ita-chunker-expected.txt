@@ -1,0 +1,26 @@
+[--ekMkfDrmS6#0] ^default<default>{^’<apos>$}$
+[/--ekMkfDrmS6]
+[6s926ZTLGke6#0] ^num<SNum>{^8<num><ord><f><sg>$}$
+[/6s926ZTLGke6]
+[B-g-P38dIdcs#0] ^default<default>{^»<rquot>$}$
+[/B-g-P38dIdcs]
+[HRw0JulCyuiO#0] ^unknown<unknown>{^*Eùra$}$
+[/HRw0JulCyuiO]
+[IGSIeED_bKoC#0] ^det<SDet>{^un<det><ind><m><sg>$}$
+[/IGSIeED_bKoC]
+[LNX_y2Xp-cYF#0] ^det<SDet>{^questo<det><dem><m><sg>$}$
+[/LNX_y2Xp-cYF]
+[QbgF6nrAFOI1#0] ^default<default>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[S1axReVAfsT5#0] ^default<default>{^o<cnjcoo>$}$
+[/S1axReVAfsT5]
+[ajet7iUTwKvL#0] ^det<SDet>{^un<det><ind><m><sg>$}$
+[/ajet7iUTwKvL]
+[fLd5yqud_6ax#0] ^det<SDet>{^questo<det><dem><m><sg>$}$
+[/fLd5yqud_6ax]
+[lnPJovdqsdXe#0] ^unknown<unknown>{^*òáeói$}$
+[/lnPJovdqsdXe]
+[sTVATP9G0tfQ#0] ^default<default>{^a<pr>$}$ ^det<SDet>{^il<det><def><m><sg>$}$
+[/sTVATP9G0tfQ]
+[ul7FHQekrA6V#0] ^default<default>{^)<rpar>$}$
+[/ul7FHQekrA6V]

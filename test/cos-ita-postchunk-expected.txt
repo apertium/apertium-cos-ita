@@ -1,0 +1,26 @@
+[--ekMkfDrmS6#0] ^’<apos>$
+[/--ekMkfDrmS6]
+[6s926ZTLGke6#0] ^8<num><ord><f><sg>$
+[/6s926ZTLGke6]
+[B-g-P38dIdcs#0] ^»<rquot>$
+[/B-g-P38dIdcs]
+[HRw0JulCyuiO#0] ^*Eùra$
+[/HRw0JulCyuiO]
+[IGSIeED_bKoC#0] ^un<det><ind><m><sg>$
+[/IGSIeED_bKoC]
+[LNX_y2Xp-cYF#0] ^questo<det><dem><m><sg>$
+[/LNX_y2Xp-cYF]
+[QbgF6nrAFOI1#0] ^;<sent>$
+[/QbgF6nrAFOI1]
+[S1axReVAfsT5#0] ^o<cnjcoo>$
+[/S1axReVAfsT5]
+[ajet7iUTwKvL#0] ^un<det><ind><m><sg>$
+[/ajet7iUTwKvL]
+[fLd5yqud_6ax#0] ^questo<det><dem><m><sg>$
+[/fLd5yqud_6ax]
+[lnPJovdqsdXe#0] ^*òáeói$
+[/lnPJovdqsdXe]
+[sTVATP9G0tfQ#0] ^a<pr>$ ^il<det><def><m><sg>$
+[/sTVATP9G0tfQ]
+[ul7FHQekrA6V#0] ^)<rpar>$
+[/ul7FHQekrA6V]
